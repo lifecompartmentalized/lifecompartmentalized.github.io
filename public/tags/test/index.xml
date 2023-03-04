@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://example.com/tags/test/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>test</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>https://example.com/tags/test/</link>
+        
+        
+            <title>test</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[<h1 id="this-is-a-test-post">This is a test post</h1>
+<p>why is it not showing up</p>
+<p>This is a test</p>
+]]></description>
+                
+                
+                    <guid>https://example.com/posts/test-post/</guid>
+                    <link>https://example.com/posts/test-post/</link>
+                
+                
+                    <pubDate>Thu, 02 Feb 2023 22:07:30 -0500</pubDate>
+                
+                
+                    <title>Test Post</title>
+                
+            </item>
+        
+    </channel>
+</rss>

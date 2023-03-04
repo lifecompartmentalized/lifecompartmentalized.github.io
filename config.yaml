@@ -31,10 +31,14 @@ languages:
         name: "Tags"
         url: "/tags/"
         weight: 70
+      - identifier: "links"
+        name: "Links"
+        url: "/links/"
+        weight: 80
       - identifier: "search"
         name: "Search"
         url: "/search/"
-        weight: 80
+        weight: 90
     weight: 10
 markup:
   goldmark:
@@ -56,7 +60,7 @@ params:
   paige:
     git:
       commit_url_prefix: "https://github.com/willfaught/paige/commit/"
-    color_scheme: ""
+    color_scheme: "dark"
     search:
         hide_page: false
-    max_width: "1000px"
+    max_width: "750px"

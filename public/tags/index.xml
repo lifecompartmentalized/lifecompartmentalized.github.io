@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>Tags</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>https://example.com/tags/</link>
+        
+        
+            <title>Tags</title>
+        
+        
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/denial/</guid>
+                    <link>https://example.com/tags/denial/</link>
+                
+                
+                
+                    <title>denial</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/test/</guid>
+                    <link>https://example.com/tags/test/</link>
+                
+                
+                
+                    <title>test</title>
+                
+            </item>
+        
+    </channel>
+</rss>

@@ -3,6 +3,10 @@
 * {
     font-family: 'Varela Round', sans-serif;
 }
+.paige-content{
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 #proc_canvas { 
     width: 100%;
@@ -10,14 +14,16 @@
     height: 100%;
     margin: auto;
     padding:0em;
+    margin-bottom:-50px;
 }
 
 #canv{ 
-    width: 900px;
+    width: 750px;
     height: 300px;
     position: relative;
     margin: auto;
 }
+
 
 #proc_canvas #myname { 
     text-align: center;
@@ -27,7 +33,7 @@
 
 #myname h1, #myname a {
     font-family: 'Varela Round', sans-serif;
-    font-size:65px;
+    font-size:55px;
 }
 
 #proc_canvas a {
@@ -49,6 +55,58 @@
     letter-spacing: -1px;
     text-decoration: none;
 }
+
+
+
+#proc_canvassmall { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-50px;
+}
+
+#canvsmall{ 
+    width: 350px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+}
+
+
+#proc_canvassmall #mynamesmall { 
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+}
+
+#mynamesmall h1, #mynamesmall a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:35px;
+    line-height:25px;
+}
+
+#proc_canvassmall a {
+    text-decoration: none;
+}
+
+#proc_canvassmall a:hover {
+    font-style: normal;
+}
+
+#proc_canvassmall h1 { 
+    font-size: 55px;
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin: 0;
+}
+
+#mynamesmall h1, #mynamesmall h1 a, #mynamesmall h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
 
 canvas {
     padding-left: 0;
@@ -73,4 +131,14 @@ canvas {
 
 .paige-summary{
     font-size:15px;
+}
+
+ /* On smaller resolutions, hide the text for Large screens */
+ @media only screen and (max-width: 550px) {
+     .largeScreen {display: none;}
+}
+
+/* On larger resolutions, hide the text for Small screens */
+ @media only screen and (min-width: 550px) {
+     .smallScreen {display: none;}
 }

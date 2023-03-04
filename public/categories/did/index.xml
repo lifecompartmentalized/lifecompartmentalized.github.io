@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://example.com/categories/did/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>DID</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>https://example.com/categories/did/</link>
+        
+        
+            <title>DID</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[<p>Dissociation can be a confusing concept, mostly because it is so broadly defined.</p>
+<p>I like to think of dissociation as two distinct yet related concepts&mdash;detachment and compartmentalization.</p>
+<!--Dissociation is a phenomena that we all experience and rely -->
+<p>On a spectrum of being fully immersed in external reality, when one has a grasp on the current time and context in the world around them, to being fully immersed in internal reality, where one&rsquo;s concentration is fully focused on their internal thoughts,</p>
+]]></description>
+                
+                
+                    <guid>https://example.com/posts/howibecamefragmented/</guid>
+                    <link>https://example.com/posts/howibecamefragmented/</link>
+                
+                
+                    <pubDate>Sat, 04 Mar 2023 08:12:10 -0500</pubDate>
+                
+                
+                    <title>How I Became Fragmented</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[<p>In January 2022, I started trauma therapy. I had no idea what I was getting myself into&mdash;I knew I had a traumatic childhood, but I didn&rsquo;t yet understand how much my past experiences had affected me in the present. When I started therapy, I thought dissociative identity disorder (DID) was a fake disorder people feigned for attention. It sounded too fantastical to be real, and my logic-driven mind couldn&rsquo;t comprehend how</p>
+<p>However, my understanding of the disorder was severely flawed, influenced by both traditional and social media. In reality, I was a perfect case example of what DID looks like before one is aware. Most noteably, I had no idea I was even symptomatic.</p>
+]]></description>
+                
+                
+                    <guid>https://example.com/posts/ididntknow/</guid>
+                    <link>https://example.com/posts/ididntknow/</link>
+                
+                
+                    <pubDate>Fri, 03 Mar 2023 17:49:41 -0500</pubDate>
+                
+                
+                    <title>I didn’t know I had DID</title>
+                
+            </item>
+        
+    </channel>
+</rss>
