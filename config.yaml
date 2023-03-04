@@ -1,0 +1,62 @@
+theme: "paige"
+baseurl: "https://example.com"
+copyright: ""
+enablerobotstxt: true
+languagecode: "en-us"
+timezone: "America/Los_Angeles"
+titlecasestyle: "Go"
+
+
+languages:
+  en:
+    menu:
+      main:
+      - identifier: "home"
+        name: "Home"
+        url: "/"
+        weight: 10
+      - identifier: "posts"
+        name: "Posts"
+        url: "/posts/"
+        weight: 20
+      - identifier: "about"
+        name: "About"
+        url: "/about/"
+        weight: 30
+      - identifier: "dictionary"
+        name: "Dictionary"
+        url: "/dictionary/"
+        weight: 40
+      - identifier: "tags"
+        name: "Tags"
+        url: "/tags/"
+        weight: 70
+      - identifier: "search"
+        name: "Search"
+        url: "/search/"
+        weight: 80
+    weight: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noclasses: false
+  tableofcontents:
+    endlevel: 6
+    ordered: true
+    startlevel: 2
+outputs:
+  home:
+  - "html"
+  - "json"
+  - "rss"
+paginate: 50
+params:
+  paige:
+    git:
+      commit_url_prefix: "https://github.com/willfaught/paige/commit/"
+    color_scheme: ""
+    search:
+        hide_page: false
+    max_width: "1000px"

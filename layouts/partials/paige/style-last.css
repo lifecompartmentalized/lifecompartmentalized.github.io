@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+
+#proc_canvas { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+}
+
+#canv{ 
+    width: 900px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+}
+
+#proc_canvas #myname { 
+    text-align: center;
+    position: relative;
+    bottom: 215px;
+}
+
+#myname h1, #myname a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:65px;
+}
+
+#proc_canvas a {
+    text-decoration: none;
+}
+
+#proc_canvas a:hover {
+    font-style: normal;
+}
+
+#proc_canvas h1 { 
+    font-size: 55px;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+    margin: 0;
+}
+
+#myname h1, #myname h1 a, #myname h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: absolute;
+}
+
+#paige-main{
+    font-size:18px;
+}
+
+.paige-title{
+    font-size:25px;
+}
+
+.display-5{
+    font-size:35px;
+}
+
+.paige-summary{
+    font-size:15px;
+}

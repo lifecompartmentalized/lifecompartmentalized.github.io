@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+/*.paige-authors,
+.paige-date,
+.paige-terms,
+.paige-toc,
+#paige-pages .paige-authors,
+#paige-pages .paige-date-header,
+#paige-pages .paige-date,
+#paige-pages .paige-summary,
+#paige-pages .paige-terms */
+
+paige-credit,
+.paige-reading-time
+{
+    display: none;
+}
+
