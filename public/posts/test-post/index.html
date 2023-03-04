@@ -367,6 +367,7 @@ body, html {
     margin: auto;
     padding:0em;
     margin-bottom:-50px;
+    margin-top:-25px;
 }
 
 #canv{ 
@@ -374,6 +375,7 @@ body, html {
     height: 300px;
     position: relative;
     margin: auto;
+    border-radius: 25px;
 }
 
 
@@ -410,6 +412,60 @@ body, html {
 
 
 
+
+#proc_canvasmid { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-35px;
+    margin-top:-25px;
+}
+
+#canvmid{ 
+    width: 600px;
+    height: 250px;
+    position: relative;
+    margin: auto;
+    border-radius: 20px;
+}
+
+
+#proc_canvasmid #mynamemid { 
+    text-align: center;
+    position: relative;
+    bottom: 170px;
+}
+
+#mynamemid h1, #mynamemid a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:43px;
+    line-height:25px;
+}
+
+#proc_canvasmid a {
+    text-decoration: none;
+}
+
+#proc_canvasmid a:hover {
+    font-style: normal;
+}
+
+#proc_canvasmid h1 { 
+    font-size: 43px;
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin: 0;
+}
+
+#mynamemid h1, #mynamemid h1 a, #mynamemid h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
+
+
 #proc_canvassmall { 
     width: 100%;
     position: relative;
@@ -417,6 +473,7 @@ body, html {
     margin: auto;
     padding:0em;
     margin-bottom:-50px;
+    margin-top:-25px;
 }
 
 #canvsmall{ 
@@ -424,19 +481,20 @@ body, html {
     height: 200px;
     position: relative;
     margin: auto;
+    border-radius: 15px;
 }
 
 
 #proc_canvassmall #mynamesmall { 
     text-align: center;
     position: relative;
-    bottom: 150px;
+    bottom: 160px;
 }
 
 #mynamesmall h1, #mynamesmall a {
     font-family: 'Varela Round', sans-serif;
     font-size:35px;
-    line-height:25px;
+    line-height:30px;
 }
 
 #proc_canvassmall a {
@@ -448,7 +506,7 @@ body, html {
 }
 
 #proc_canvassmall h1 { 
-    font-size: 55px;
+    font-size: 35px;
     text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
     margin: 0;
 }
@@ -486,13 +544,21 @@ canvas {
 }
 
  /* On smaller resolutions, hide the text for Large screens */
- @media only screen and (max-width: 550px) {
+ @media only screen and (max-width: 500px) {
      .largeScreen {display: none;}
+     .midScreen {display: none;}
 }
 
 /* On larger resolutions, hide the text for Small screens */
- @media only screen and (min-width: 550px) {
+ @media only screen and (min-width: 900px) {
      .smallScreen {display: none;}
+     .midScreen {display: none;}
+}
+
+/* On larger resolutions, hide the text for Small screens */
+ @media only screen and (min-width: 500px) and (max-width: 900px){
+     .smallScreen {display: none;}
+     .largeScreen {display: none;}
 }
 
 

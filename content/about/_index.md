@@ -8,7 +8,7 @@ I wish to remain anonymous at least until I understand how revealing my identity
 
 
 On this site, I write about my experiences as an autistic person living with polyfragmented Dissociative Identity Disorder. 
-These are my personal experiences, and I may use language or descriptions that other people living with these or similar disorders do not relate to.
+These are my personal experiences, and I may use language or descriptions that other people living with these or similar disorders may or may not relate to.
 Others living without similar disorders may also relate to my experiences, as I believe there is a spectrum of experience from "healthy" to "disordered", with lots of overlap.
 I am not a medical or mental health professional; just someone with lived experience who spends a lot of time trying to understand how I operate in order to heal.
 
