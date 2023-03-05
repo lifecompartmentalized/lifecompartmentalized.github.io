@@ -3,6 +3,12 @@
 * {
     font-family: 'Varela Round', sans-serif;
 }
+ h5{
+  font-style: italic;
+  margin-top:-10px;
+  color: #6d6d6d;
+}
+
 .paige-content{
   text-align: justify;
   text-justify: inter-word;
