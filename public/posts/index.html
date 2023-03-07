@@ -46,7 +46,6 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://example.com/posts/" />
 
-
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Posts"/>
 <meta name="twitter:description" content=""/>
@@ -82,36 +81,7 @@
 
 
 
-    
 
-    
-
-    
-
-    
-    
-    
-
-
-<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css" integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="  referrerpolicy="no-referrer"  rel="stylesheet">
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
     
 
@@ -122,7 +92,36 @@
     
 
 
-<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.d47b3e75f7c09036045f8b6647a6a3bb6dfbb14f78652b1195d073fd9e423865.css" integrity="sha256-1Hs&#43;dffAkDYEX4tmR6aju237sU94ZSsRldBz/Z5COGU="  referrerpolicy="no-referrer"  rel="stylesheet">
+<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css"  integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="   referrerpolicy="no-referrer"  rel="stylesheet">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+
+<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.56e470ac84fe77ab4d8643703530652d168f1e6f93c170d99022906f0d401044.css"  integrity="sha256-VuRwrIT&#43;d6tNhkNwNTBlLRaPHm&#43;TwXDZkCKQbw1AEEQ="   referrerpolicy="no-referrer"  rel="stylesheet">
 
 
 
@@ -151,8 +150,9 @@
 #paige-pages .paige-terms */
 
 .paige-toc,
-.paige-credit,
-.paige-reading-time
+#paige-credit,
+.paige-reading-time,
+#paige-reading-time
 {
     display: none;
 }
@@ -202,7 +202,11 @@ body, html {
     margin-bottom: 0;
 }
 
-.paige-figure > div > .highlight > pre, .paige-figure > div > :last-child {
+.paige-figure .paige-video {
+    margin-bottom: 0;
+}
+
+.paige-figure > figure > div > :last-child {
     margin-bottom: 0;
 }
 
@@ -234,12 +238,6 @@ body, html {
     transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .paige-header-link {
-        transition: none;
-    }
-}
-
 .paige-header-link:focus, .paige-header-link:hover, :hover > .paige-header-link, :target > .paige-header-link {
     opacity: 1;
 }
@@ -248,9 +246,19 @@ body, html {
     margin-bottom: 1rem;
 }
 
+.paige-video {
+    margin-bottom: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .paige-header-link {
+        transition: none;
+    }
+}
+
 
     #paige-root {
-        max-width: 750px;
+        max-width: 775px;
     }
 
 
@@ -372,7 +380,7 @@ body, html {
     margin: auto;
     padding:0em;
     margin-bottom:-50px;
-    margin-top:-25px;
+    margin-top:-15px;
 }
 
 #canv{ 
@@ -727,9 +735,11 @@ canvas {
 
 
 
-<section class="paige-metadata w-100">
+
+
+<div class="paige-metadata w-100">
     
-        <h1 class="display-5 fw-bold paige-title text-center">Posts</h1>
+        <h1 class="display-5 fw-bold  text-center"  id="paige-title" >Posts</h1>
     
 
     
@@ -737,7 +747,7 @@ canvas {
     
 
     
-</section>
+</div>
 
         
 
@@ -774,257 +784,350 @@ canvas {
 
 
     
-        
-        <section id="paige-pages">
+        <div id="paige-pages">
+            
+            
             
                 <p class="h5 paige-date-header text-center">March 2023</p>
                 
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
-                        
-                    
 
-                    
-                    
 
-                    <section class="mb-3 paige-page paige-published w-100">
-                        
-                            <p class="mb-0 paige-title text-center"><a href="/posts/howibecamefragmented/">How I Became Fragmented</a></p>
-                        
 
-                        
 
-                        
-                            <p class="fst-italic mb-0 paige-summary text-center">Dissociation can be a confusing concept, mostly because it is so broadly defined.
-I like to think of dissociation as two distinct yet related concepts—detachment and compartmentalization.
-On a spectrum of being fully immersed in external reality, when one has a grasp on the current time and context in the world around them, to being fully immersed in internal reality, where one’s concentration is fully focused on their internal thoughts,</p>
-                        
 
-                        
-                            <p class="mb-0 paige-terms text-center">
-                                
 
-                                
-                                    
-                                
 
-                                
 
-                                
-                                    <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/did/">DID</a>
-                                
-                            </p>
-                        
 
-                        
 
-                        
-                            <p class="mb-0 paige-date text-center text-secondary">
-                                
 
-                                <time datetime="2023-03-04">March 4, 2023</time>
 
-                                
-                            </p>
-                        
 
-                        
-                            <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
-                        
-                    </section>
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="mb-3 paige-page paige-published w-100">
+    
+        <p class="mb-0 paige-title text-center"><a href="/posts/notaboutidentity/">It&rsquo;s not about identity</a></p>
+    
+
+    
+
+    
+        <p class="fst-italic mb-0 paige-summary text-center">Alternative title: How I conceptualize my experience 1 year and 2 months into therapy.
+When I started therapy almost 14 months ago, I had no idea what I was getting myself into.
+So it’s not about identity. Having multiple identities is a side effect of the extreme internal compartmentalization caused by trauma. Somehow but somehow it’s been made</p>
+    
+
+    
+        <p class="mb-0 paige-terms text-center">
+            
+
+            
+                
+            
+
+            
+                
+            
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/"></a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/did/">DID</a>
+            
+        </p>
+    
+
+    
+
+    
+        <p class="mb-0 paige-date text-center text-secondary">
+            
+
+            <time datetime="2023-03-06">March 6, 2023</time>
+
+            
+        </p>
+    
+
+    
+        <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
+    
+</div>
+
                 
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="mb-3 paige-page paige-published w-100">
+    
+        <p class="mb-0 paige-title text-center"><a href="/posts/howibecamefragmented/">How I Became Fragmented</a></p>
+    
+
+    
+
+    
+        <p class="fst-italic mb-0 paige-summary text-center">Dissociation can be a confusing concept, mostly because it is so broadly defined.
+I like to think of dissociation as two distinct yet related concepts—detachment and compartmentalization.
+On a spectrum of being fully immersed in external reality, when one has a grasp on the current time and context in the world around them, to being fully immersed in internal reality, where one’s concentration is fully focused on their internal thoughts,</p>
+    
+
+    
+        <p class="mb-0 paige-terms text-center">
+            
+
+            
+                
+            
+
+            
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/did/">DID</a>
+            
+        </p>
+    
+
+    
+
+    
+        <p class="mb-0 paige-date text-center text-secondary">
+            
+
+            <time datetime="2023-03-04">March 4, 2023</time>
+
+            
+        </p>
+    
+
+    
+        <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
+    
+</div>
+
+                
                     
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
-                        
-                    
 
-                    
-                    
 
-                    <section class="mb-3 paige-page paige-published w-100">
-                        
-                            <p class="mb-0 paige-title text-center"><a href="/posts/ididntknow/">I didn&rsquo;t know I had DID</a></p>
-                        
 
-                        
 
-                        
-                            <p class="fst-italic mb-0 paige-summary text-center">In January 2022, I started trauma therapy. I had no idea what I was getting myself into—I knew I had a traumatic childhood, but I didn’t yet understand how much my past experiences had affected me in the present. When I started therapy, I thought dissociative identity disorder (DID) was a fake disorder people feigned for attention. It sounded too fantastical to be real, and my logic-driven mind couldn’t comprehend how</p>
-                        
 
-                        
-                            <p class="mb-0 paige-terms text-center">
-                                
 
-                                
-                                    
-                                
 
-                                
-                                    
-                                
 
-                                
-                                    <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/denial/">denial</a>
-                                
-                                    <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/did/">DID</a>
-                                
-                            </p>
-                        
 
-                        
 
-                        
-                            <p class="mb-0 paige-date text-center text-secondary">
-                                
 
-                                <time datetime="2023-03-03">March 3, 2023</time>
 
-                                
-                            </p>
-                        
 
-                        
-                            <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
-                        
-                    </section>
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="mb-3 paige-page paige-published w-100">
+    
+        <p class="mb-0 paige-title text-center"><a href="/posts/ididntknow/">I didn&rsquo;t know I had DID</a></p>
+    
+
+    
+
+    
+        <p class="fst-italic mb-0 paige-summary text-center">In January 2022, I started trauma therapy. I had no idea what I was getting myself into—I knew I had a traumatic childhood, but I didn’t yet understand how much my past experiences had affected me in the present. When I started therapy, I thought dissociative identity disorder (DID) was a fake disorder people feigned for attention. It sounded too fantastical to be real, and my logic-driven mind couldn’t comprehend how</p>
+    
+
+    
+        <p class="mb-0 paige-terms text-center">
+            
+
+            
+                
+            
+
+            
+                
+            
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/denial/">denial</a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/did/">DID</a>
+            
+        </p>
+    
+
+    
+
+    
+        <p class="mb-0 paige-date text-center text-secondary">
+            
+
+            <time datetime="2023-03-03">March 3, 2023</time>
+
+            
+        </p>
+    
+
+    
+        <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
+    
+</div>
+
                 
             
                 <p class="h5 paige-date-header text-center">February 2023</p>
                 
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
-                        
-                    
 
-                    
-                    
 
-                    <section class="mb-3 paige-page paige-published w-100">
-                        
-                            <p class="mb-0 paige-title text-center"><a href="/posts/test-post/">Test Post</a></p>
-                        
 
-                        
 
-                        
-                            <p class="fst-italic mb-0 paige-summary text-center">This is a test post why is it not showing up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="mb-3 paige-page paige-published w-100">
+    
+        <p class="mb-0 paige-title text-center"><a href="/posts/test-post/">Test Post</a></p>
+    
+
+    
+
+    
+        <p class="fst-italic mb-0 paige-summary text-center">This is a test post why is it not showing up
 This is a test</p>
-                        
+    
 
-                        
-                            <p class="mb-0 paige-terms text-center">
-                                
+    
+        <p class="mb-0 paige-terms text-center">
+            
 
-                                
+            
 
-                                
-                                    
-                                
-
-                                
-                                    <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/test/">test</a>
-                                
-                            </p>
-                        
-
-                        
-
-                        
-                            <p class="mb-0 paige-date text-center text-secondary">
-                                
-
-                                <time datetime="2023-02-02">February 2, 2023</time>
-
-                                
-                            </p>
-                        
-
-                        
-                            <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
-                        
-                    </section>
+            
                 
             
-        </section>
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/test/">test</a>
+            
+        </p>
+    
+
+    
+
+    
+        <p class="mb-0 paige-date text-center text-secondary">
+            
+
+            <time datetime="2023-02-02">February 2, 2023</time>
+
+            
+        </p>
+    
+
+    
+        <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
+    
+</div>
+
+                
+            
+        </div>
         
     
 
@@ -1041,7 +1144,9 @@ This is a test</p>
 
     
 
-    
+    <p class="mb-0 text-center" id="paige-credit">
+        <a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>
+    </p>
 
     
 </footer>
@@ -1054,14 +1159,17 @@ This is a test</p>
 
 <script>
 function paigeResize() {
-    var e = document.querySelector("section.paige-content");
+    var e = document.querySelector("#paige-content");
     if (!e) {
-        return;
+        e = document.querySelector(".paige-content");
+        if (!e) {
+            return;
+        }
     }
     var mw = getComputedStyle(e).maxWidth;
     var w;
     if (mw === "100%") {
-        var e = document.querySelector("body > div.container");
+        var e = document.querySelector("#paige-root");
         var s = getComputedStyle(e);
         var px = parseFloat(s.paddingLeft) + parseFloat(s.paddingRight);
         var bx = parseFloat(s.borderLeftWidth) + parseFloat(s.borderRightWidth);
@@ -1069,10 +1177,10 @@ function paigeResize() {
     } else {
         w = parseFloat(mw.substring(0, mw.length - 2));
     }
-    var es = document.querySelectorAll("div.paige-video");
+    var es = document.querySelectorAll(".paige-video");
     for (var i = 0; i < es.length; i++) {
         var e = es[i];
-        if (e.style.width !== w) {
+        if (!e.style.height && !e.style.width) {
             e.style.width = w + "px";
         }
     }
@@ -1093,13 +1201,13 @@ addEventListener("resize", paigeResize);
 
 
 
-    
 
     
     
+    
 
 
-<script  crossorigin="anonymous"   defer  integrity="sha256-DlnjIazIyFnp&#43;CiCTh1Q5htBvvatmmZOi/m6nSeCn&#43;w="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.0e59e321acc8c859e9f828824e1d50e61b41bef6ad9a664e8bf9ba9d27829fec.js"></script>
+<script  crossorigin="anonymous"   defer  integrity="sha256-shpZ1a72o11IW90M37GvEIuboj82ESojpYh6pqgIBfA="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.b21a59d5aef6a35d485bdd0cdfb1af108b9ba23f36112a23a5887aa6a80805f0.js"></script>
 
 
 

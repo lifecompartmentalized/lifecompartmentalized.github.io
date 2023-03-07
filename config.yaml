@@ -55,4 +55,4 @@ params:
     color_scheme: "dark"
     search:
         hide_page: false
-    max_width: "750px"
+    max_width: "775px"

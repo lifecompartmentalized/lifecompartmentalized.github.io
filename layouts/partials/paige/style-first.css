@@ -11,7 +11,8 @@
 
 .paige-toc,
 #paige-credit,
-.paige-reading-time
+.paige-reading-time,
+#paige-reading-time
 {
     display: none;
 }

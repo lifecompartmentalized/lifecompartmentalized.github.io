@@ -48,7 +48,6 @@
 
 
 
-
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Search"/>
 <meta name="twitter:description" content=""/>
@@ -84,36 +83,7 @@
 
 
 
-    
 
-    
-
-    
-
-    
-    
-    
-
-
-<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css" integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="  referrerpolicy="no-referrer"  rel="stylesheet">
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
     
 
@@ -124,7 +94,36 @@
     
 
 
-<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.d47b3e75f7c09036045f8b6647a6a3bb6dfbb14f78652b1195d073fd9e423865.css" integrity="sha256-1Hs&#43;dffAkDYEX4tmR6aju237sU94ZSsRldBz/Z5COGU="  referrerpolicy="no-referrer"  rel="stylesheet">
+<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css"  integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="   referrerpolicy="no-referrer"  rel="stylesheet">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+
+<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.56e470ac84fe77ab4d8643703530652d168f1e6f93c170d99022906f0d401044.css"  integrity="sha256-VuRwrIT&#43;d6tNhkNwNTBlLRaPHm&#43;TwXDZkCKQbw1AEEQ="   referrerpolicy="no-referrer"  rel="stylesheet">
 
 
 
@@ -148,8 +147,9 @@
 #paige-pages .paige-terms */
 
 .paige-toc,
-.paige-credit,
-.paige-reading-time
+#paige-credit,
+.paige-reading-time,
+#paige-reading-time
 {
     display: none;
 }
@@ -199,7 +199,11 @@ body, html {
     margin-bottom: 0;
 }
 
-.paige-figure > div > .highlight > pre, .paige-figure > div > :last-child {
+.paige-figure .paige-video {
+    margin-bottom: 0;
+}
+
+.paige-figure > figure > div > :last-child {
     margin-bottom: 0;
 }
 
@@ -231,12 +235,6 @@ body, html {
     transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .paige-header-link {
-        transition: none;
-    }
-}
-
 .paige-header-link:focus, .paige-header-link:hover, :hover > .paige-header-link, :target > .paige-header-link {
     opacity: 1;
 }
@@ -245,9 +243,19 @@ body, html {
     margin-bottom: 1rem;
 }
 
+.paige-video {
+    margin-bottom: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .paige-header-link {
+        transition: none;
+    }
+}
+
 
     #paige-root {
-        max-width: 750px;
+        max-width: 775px;
     }
 
 
@@ -369,7 +377,7 @@ body, html {
     margin: auto;
     padding:0em;
     margin-bottom:-50px;
-    margin-top:-25px;
+    margin-top:-15px;
 }
 
 #canv{ 
@@ -723,9 +731,11 @@ canvas {
 
 
 
-<section class="paige-metadata w-100">
+
+
+<div class="paige-metadata w-100">
     
-        <h1 class="display-5 fw-bold paige-title text-center">Search</h1>
+        <h1 class="display-5 fw-bold  text-center"  id="paige-title" >Search</h1>
     
 
     
@@ -733,7 +743,7 @@ canvas {
     
 
     
-</section>
+</div>
 
         
 
@@ -766,7 +776,7 @@ canvas {
 
 
 
-<section>
+<div>
     <div class="container-fluid">
         <form action="/search/" dir="auto" method="get">
             <div class="justify-content-center mb-3 row">
@@ -809,8 +819,8 @@ canvas {
             </i>
         </p>
     </div>
-</section>
-<article id="paige-results" style="display: none"></article>
+</div>
+<div id="paige-results" style="display: none"></div>
 <script crossorigin="anonymous" defer integrity="sha384-1LalyFI+BycKouEClZE5CoFnlLr+Kx8Wslc45o5NATVo+c2mEh02i8HNaaT7XOdQ" referrerpolicy="no-referrer" src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
 var paigeErrorElement = document.getElementById("paige-error");
@@ -908,7 +918,9 @@ function paigeShow(element) {
 
     
 
-    
+    <p class="mb-0 text-center" id="paige-credit">
+        <a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>
+    </p>
 
     
 </footer>
@@ -921,14 +933,17 @@ function paigeShow(element) {
 
 <script>
 function paigeResize() {
-    var e = document.querySelector("section.paige-content");
+    var e = document.querySelector("#paige-content");
     if (!e) {
-        return;
+        e = document.querySelector(".paige-content");
+        if (!e) {
+            return;
+        }
     }
     var mw = getComputedStyle(e).maxWidth;
     var w;
     if (mw === "100%") {
-        var e = document.querySelector("body > div.container");
+        var e = document.querySelector("#paige-root");
         var s = getComputedStyle(e);
         var px = parseFloat(s.paddingLeft) + parseFloat(s.paddingRight);
         var bx = parseFloat(s.borderLeftWidth) + parseFloat(s.borderRightWidth);
@@ -936,10 +951,10 @@ function paigeResize() {
     } else {
         w = parseFloat(mw.substring(0, mw.length - 2));
     }
-    var es = document.querySelectorAll("div.paige-video");
+    var es = document.querySelectorAll(".paige-video");
     for (var i = 0; i < es.length; i++) {
         var e = es[i];
-        if (e.style.width !== w) {
+        if (!e.style.height && !e.style.width) {
             e.style.width = w + "px";
         }
     }
@@ -960,13 +975,13 @@ addEventListener("resize", paigeResize);
 
 
 
-    
 
     
     
+    
 
 
-<script  crossorigin="anonymous"   defer  integrity="sha256-DlnjIazIyFnp&#43;CiCTh1Q5htBvvatmmZOi/m6nSeCn&#43;w="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.0e59e321acc8c859e9f828824e1d50e61b41bef6ad9a664e8bf9ba9d27829fec.js"></script>
+<script  crossorigin="anonymous"   defer  integrity="sha256-shpZ1a72o11IW90M37GvEIuboj82ESojpYh6pqgIBfA="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.b21a59d5aef6a35d485bdd0cdfb1af108b9ba23f36112a23a5887aa6a80805f0.js"></script>
 
 
 

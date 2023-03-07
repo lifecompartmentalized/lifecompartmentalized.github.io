@@ -9,7 +9,7 @@
   color: #6d6d6d;
 }
 
-.paige-content{
+* {
   text-align: justify;
   text-justify: inter-word;
 }
@@ -21,7 +21,7 @@
     margin: auto;
     padding:0em;
     margin-bottom:-50px;
-    margin-top:-25px;
+    margin-top:-15px;
 }
 
 #canv{ 
@@ -42,6 +42,7 @@
 #myname h1, #myname a {
     font-family: 'Varela Round', sans-serif;
     font-size:55px;
+    text-align: center;
 }
 
 #proc_canvas a {
@@ -74,7 +75,7 @@
     margin: auto;
     padding:0em;
     margin-bottom:-35px;
-    margin-top:-25px;
+    margin-top:-15px;
 }
 
 #canvmid{ 
@@ -96,6 +97,7 @@
     font-family: 'Varela Round', sans-serif;
     font-size:43px;
     line-height:25px;
+    text-align: center;
 }
 
 #proc_canvasmid a {
@@ -127,7 +129,7 @@
     margin: auto;
     padding:0em;
     margin-bottom:-50px;
-    margin-top:-25px;
+    margin-top:-15px;
 }
 
 #canvsmall{ 
@@ -149,6 +151,7 @@
     font-family: 'Varela Round', sans-serif;
     font-size:35px;
     line-height:30px;
+    text-align: center;
 }
 
 #proc_canvassmall a {

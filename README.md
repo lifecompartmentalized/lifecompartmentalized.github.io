@@ -1,5 +1,10 @@
 # lico
 
+## Post ideas
+- what is trauma, anyways?
+- traveling trauma
+- how math became traumatic
+
 
 
 ## Getting started
