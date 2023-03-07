@@ -17,7 +17,7 @@ This strategy of detachment and compartmentalization can only develop when traum
 Because of this, over time my threshold for what constituted compartment creation lowered as I relied more and more on this coping mechanism.
 Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life---like emotions of happiness, contentment, and good memories---from the bad aspects of my life---like anger, grief, and memories of trauma.
 Additionally, I learned to use compartmentalization in areas of my life that weren't inherently traumatic. 
-While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult-life stressors.
+While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult stressors.
 
 Rather than fluidly being able to access all aspects of my personality like a more integrated individual, I have to switch between discrete personality states as I move throughout life.
 While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments its like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
