@@ -1,5 +1,5 @@
 ---
-title: "It's not about identity..."
+title: "It's not about identity"
 date: 2023-03-06T21:43:08-05:00
 categories: ['']
 tags: ['DID']
@@ -9,14 +9,32 @@ tags: ['DID']
 
 Dissociative Identity Disorder (DID) is coping mechanism one can develop when they experience repeated trauma in early childhood. It is arguably one of the most misunderstood and controversial mental health conditions, perhaps because it's been repeatedly sensationalized in the media. Or, maybe because the name and clinical description of the disorder implies that it's about having multiple identities or personality states. However, these personality states are often incredibly subtle and are instead indicative of a post-traumatic reaction involving severe compartmentalization of experience.
 
-DID is a highly individualized disorder which forms based off of one's reaction to their life experiences. As such, I can only speak for myself on how I personally experience this disorder. While DID can be difficult to understand, it's fundamentally about two psychological phenomena---_detachment_ and _compartmentalization_. Using myself as an example, when I was small, there were times where I experienced extreme repeated abuse[^1], but otherwise had a happy childhood. While I was being abused, I mentally _detached_ myself from the situation---I disconnected from my body and the external world, choosing instead to escape into my mind to distract myself from a situation I knew no other way to get out of. Then, after the abuse was over, I internally _compartmentalized_ the experience and shoved it from my awareness, effectively allowing me to forget that it occurred as I lived an otherwise happy childhood. Because this abuse occurred repeatedly, I continually used this strategy of switching to the compartment of awareness and experience that held the abuse when I experienced triggers that the abuse was going to happen again. Then, when the abuse was over, I would switch back to the compartment of awareness and experience that had a happy childhood. All of this was done on a subconscious level.
+DID is a highly individualized disorder which forms based off of one's reaction to their life experiences. As such, I can only speak for myself on how I personally experience this disorder. While DID can be difficult to understand, it's fundamentally about two psychological phenomena---_detachment_ and _compartmentalization_. Using myself as an example, when I was small, there were times where I experienced extreme repeated abuse[^1], but otherwise had a happy childhood. While I was being abused, I mentally _detached_ myself from the situation---I disconnected from my body and the external world, choosing instead to escape into my mind to distract myself from a situation I knew no other way to get out of. I also internally _compartmentalized_ the experience and shoved it from my awareness, effectively allowing me to forget that it even occurred after it was over as I lived an otherwise happy childhood. Because this abuse occurred repeatedly, I continually used this strategy of switching to the compartment of awareness and experience that held the abuse when I experienced triggers that the abuse was going to happen again. Then, when the abuse was over, I would switch back to the compartment of awareness and experience that had a happy childhood. All of this was done on a subconscious level. 
 
 [^1]: This extreme abuse occurred outside the home. However, I did experience less severe abuse and other traumas within my family which shaped my development of this disorder as well.
 
 This strategy of detachment and compartmentalization can only develop when trauma occurs in early childhood, while the brain still is rapidly developing and has the capacity to use such defenses. And because I learned to use these defenses when I was very young and my brain wired based on my experiences of the world around me, I learned that this was a very effective strategy for minimizing psychological discomfort. 
 Because of this, over time my threshold for what constituted compartment creation lowered as I relied more and more on this coping mechanism.
-Detaching from the world around me allowed me to regulate how much of my surroundings I experienced, which has been particularly helpful as an autistic person with sound and light sensitivities.
-Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life---like emotions of happiness, contentment, and good memories---from the bad aspects of my life, like anger, sadness, and memories of bullying or 
+Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life---like emotions of happiness, contentment, and good memories---from the bad aspects of my life---like anger, grief, and memories of trauma.
+Additionally, I learned to use compartmentalization in areas of my life that weren't inherently traumatic. 
+While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult-life stressors.
+
+Rather than fluidly being able to access all aspects of my personality like a more integrated individual, I have to switch between discrete personality states as I move throughout life.
+While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments its like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
+I also have compartments of memory with varying degrees of amnesia between them, so I genuinely may not remember what happened when I was in one compartment when I'm in a different compartment. This lack of memory sharing typically happens between compartments who hold trauma memories and ones who do not. 
+Additionally, depending on which memory compartment I'm in, I will have different motivations and drives. So while I may be an enthusiastic PhD student in several compartments, I also have compartments where I have no idea what my research is, or even that I am a student who is supposed to be working towards my degree.
+Sometimes, instead of fully taking over, these compartments intrude on my awareness, so I may have unexplained feelings of, say, fear that I have no idea where is coming from or what's triggering it.
+This only scratches the surface of what I experience as a results of having DID. On this blog, I hope to document my experiences as a system of memory compartments working together in the relay race of life in an attempt to live it to the fullest.
+
+So it's really not about identity---it's about extreme compartmentalization. The identity alteration and switching/influence of multiple personality states is merely a side effect of a brilliant psychological defense mechanism in response to early childhood trauma. But while it's not about identity explicitly, the fact that one has several distinct identities as opposed to a single unified one can be a major component to the disorder that may severely affect, both positively and negatively, how one experiences life with DID.
+
+
+<!---
+There are many occasions that I have been shocked to hear how I behaved when more vulnerable parts of my personality have been out,.
+
+For example, I have parts that clean for me, because at one time I likely decided that although I really didn't want to clean, I needed to, so I created a part to do so for me. 
+
+While this was an incredibly effective coping strategy for me when I was actively experiencing trauma, it 
 
 This has been an incredibly effective strategy in emotional regulation for me. In fact, my dynamic range of emotions is so low, that my main emotional state exists solely of mild contentment, which I seemingly experience most of the time.
 
@@ -25,10 +43,11 @@ This has been an incredibly effective strategy in emotional regulation for me. I
 
 
 
+Because this compartment creation strategy has been my primary coping mechanism, as time went on, I created more and more compartments as a response to small life stressors, which has been unsustainable. 
+ an unsustainable 
 
-
-
-<!---
+Detaching from the world around me allowed me to regulate how much of my surroundings I experienced, which has been particularly helpful as an autistic person with sound and light sensitivities.
+Over time, rather than the standard development of a fluid personality with a singular sense of "me", I developed several discretely separated personality states that I need to switch between to experience life.
 
 Because of the internal compartmentalization, the parts of me who lived a normal childhood did not remember the events that occurred to the parts of me who experienced trauma. This allowed my compartments that experienced life to grow and thrive as a child, while my other compartments held the hurt and pain of the abuse. 
 This led to 
