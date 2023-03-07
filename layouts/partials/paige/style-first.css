@@ -10,7 +10,7 @@
 #paige-pages .paige-terms */
 
 .paige-toc,
-.paige-credit,
+#paige-credit,
 .paige-reading-time
 {
     display: none;

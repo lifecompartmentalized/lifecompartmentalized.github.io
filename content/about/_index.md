@@ -10,9 +10,9 @@ I wish to remain anonymous until I understand how revealing my identity may pote
 On this site, I write about my experiences as an autistic person living with polyfragmented Dissociative Identity Disorder. 
 These are my personal experiences, and I may use language or descriptions that other people living with these or similar disorders do not relate to.
 Conversely, others living without similar disorders may relate to my experiences, as they're only human, after all.
-I am not a medical or mental health professional; just someone with lived experience who spends a lot of time trying to understand how I operate in order to heal.
+I am not a medical or mental health professional; just someone with lived experience who is trying to understand how I operate in order to heal.
 
-_Technical details: This website is made with [Hugo](https://gohugo.io/) using the [paige](https://github.com/willfaught/paige) template. The header to this website is made with [Processing.js](https://github.com/processing-js/processing-js)._
+_Technical details: This website is made with [Hugo](https://gohugo.io/) using the [Paige](https://github.com/willfaught/paige) template. The header is made with [Processing.js](https://github.com/processing-js/processing-js)._
 
 {{< ccbyncsa >}}
 
