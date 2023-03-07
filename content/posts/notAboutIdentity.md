@@ -20,16 +20,18 @@ Additionally, I learned to use compartmentalization in areas of my life that wer
 While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult stressors.
 
 Rather than fluidly being able to access all aspects of my personality like a more integrated individual, I have to switch between discrete personality states as I move throughout life.
-While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments it's like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
+While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments it can be like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
 I also have compartments of memory with varying degrees of amnesia between them, so I genuinely may not remember what happened when I was in one compartment when I'm in a different compartment. This lack of memory sharing typically happens between compartments who hold traumatic memories and emotions and ones who do not. 
-Additionally, depending on which memory compartment I'm in, I will have different motivations and awareness of my current life. So while I may be an enthusiastic PhD student in several compartments, I also have compartments where I have no idea what my research is, or even that I am a student who is supposed to be working towards my degree.
+Additionally, depending on which memory compartment I'm in, I will have different motivations and awareness of my current life. So while I may be an enthusiastic PhD student in several compartments, I also have compartments where I have no idea what my research is, or even that I am a student working towards my degree.
+These compartments are so far removed from present time and context that, when I am in them, I do not perceive myself as being the adult me I actually am.
 Sometimes, instead of fully taking over, these compartments intrude on my awareness, so I may have unexplained feelings of, say, fear that I have no idea where is coming from or what is triggering it.
-This only scratches the surface of what I experience as a results of having DID. On this blog, I hope to document my experiences as a system of memory compartments working together in the relay race of life in an attempt to live it to the fullest.
+On this blog, I hope to document my experiences as a system of memory compartments working together in the relay race of life in an attempt to live it to the fullest.
 
-So it's really not about identity---it's about extreme compartmentalization. The identity alteration and switching/influence of multiple personality states is merely a side effect of a brilliant psychological defense mechanism in response to early childhood trauma. But while it's not about identity explicitly, the fact that one has several distinct identities as opposed to a single unified one can be a major component to the disorder that may severely affect, both positively and negatively, how one experiences life with DID.
+So it's really not about identity---it's about childhood trauma and the extreme compartmentalization that may form because of it. The identity alteration and switching/influence of multiple personality states is merely a side effect of a brilliant psychological defense mechanism in response to early childhood trauma. But while it's not about identity explicitly, the fact that one has several distinct identities as opposed to a single unified one can be a major component to the disorder that may severely affect, both positively and negatively, how one experiences life with DID.
 
 
 <!---
+This only scratches the surface of what I experience as a results of having DID.
 There are many occasions that I have been shocked to hear how I behaved when more vulnerable parts of my personality have been out,.
 
 For example, I have parts that clean for me, because at one time I likely decided that although I really didn't want to clean, I needed to, so I created a part to do so for me. 
