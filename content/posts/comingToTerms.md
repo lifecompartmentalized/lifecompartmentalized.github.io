@@ -1,5 +1,5 @@
 ---
-title: "Why do I have so many parts?"
+title: "Coming to terms with having DID"
 date: 2023-03-07T15:25:41-05:00
 draft: false
 categories: ['']
@@ -12,9 +12,10 @@ Then, about 4 months into therapy, I noticed my first switch. It was incredibly 
 
 I, for the most part, have very little identity alteration between parts. To me, it seems like my one singular identity is fragmented into discrete pieces rather than me being the current part that I am, and other parts being different to me. I do have some parts which feel distinctly different than the mass of parts I consider to be _me_, but a majority of the time, I feel like I have a singular sense of self, with the same personality. But that sense of self is extremely fragmented. 
 
-So, the question remains: why do I have so many parts?
 
 <!--
 
 The analogy of an individual having multiple parts 
+
+So, the question remains: why do I have so many parts?
  -->

@@ -32,18 +32,5 @@
         
         
         
-            <item>
-                
-                
-                
-                    <guid>https://example.com/categories/did/</guid>
-                    <link>https://example.com/categories/did/</link>
-                
-                
-                
-                    <title>DID</title>
-                
-            </item>
-        
     </channel>
 </rss>

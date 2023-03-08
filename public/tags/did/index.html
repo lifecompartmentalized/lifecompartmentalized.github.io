@@ -82,36 +82,7 @@
 
 
 
-    
 
-    
-
-    
-
-    
-    
-    
-
-
-<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css" integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="  referrerpolicy="no-referrer"  rel="stylesheet">
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
     
 
@@ -122,7 +93,36 @@
     
 
 
-<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.d47b3e75f7c09036045f8b6647a6a3bb6dfbb14f78652b1195d073fd9e423865.css" integrity="sha256-1Hs&#43;dffAkDYEX4tmR6aju237sU94ZSsRldBz/Z5COGU="  referrerpolicy="no-referrer"  rel="stylesheet">
+<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css"  integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="   referrerpolicy="no-referrer"  rel="stylesheet">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+
+<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.d47b3e75f7c09036045f8b6647a6a3bb6dfbb14f78652b1195d073fd9e423865.css"  integrity="sha256-1Hs&#43;dffAkDYEX4tmR6aju237sU94ZSsRldBz/Z5COGU="   referrerpolicy="no-referrer"  rel="stylesheet">
 
 
 
@@ -144,15 +144,17 @@
 /*.paige-authors,
 .paige-date,
 .paige-terms,
-.paige-toc,
 #paige-pages .paige-authors,
-#paige-pages .paige-date-header,
 #paige-pages .paige-date,
 #paige-pages .paige-summary,
-#paige-pages .paige-terms */
+#paige-pages .paige-terms 
+*/
 
-paige-credit,
-.paige-reading-time
+#paige-pages .paige-date-header,
+.paige-toc,
+#paige-credit,
+.paige-reading-time,
+#paige-reading-time
 {
     display: none;
 }
@@ -202,7 +204,11 @@ body, html {
     margin-bottom: 0;
 }
 
-.paige-figure > div > .highlight > pre, .paige-figure > div > :last-child {
+.paige-figure .paige-video {
+    margin-bottom: 0;
+}
+
+.paige-figure > figure > div > :last-child {
     margin-bottom: 0;
 }
 
@@ -234,12 +240,6 @@ body, html {
     transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .paige-header-link {
-        transition: none;
-    }
-}
-
 .paige-header-link:focus, .paige-header-link:hover, :hover > .paige-header-link, :target > .paige-header-link {
     opacity: 1;
 }
@@ -248,9 +248,19 @@ body, html {
     margin-bottom: 1rem;
 }
 
+.paige-video {
+    margin-bottom: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .paige-header-link {
+        transition: none;
+    }
+}
+
 
     #paige-root {
-        max-width: 1000px;
+        max-width: 775px;
     }
 
 
@@ -354,6 +364,16 @@ body, html {
 * {
     font-family: 'Varela Round', sans-serif;
 }
+ h5{
+  font-style: italic;
+  margin-top:-10px;
+  color: #6d6d6d;
+}
+
+* {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 #proc_canvas { 
     width: 100%;
@@ -361,14 +381,18 @@ body, html {
     height: 100%;
     margin: auto;
     padding:0em;
+    margin-bottom:-50px;
+    margin-top:-15px;
 }
 
 #canv{ 
-    width: 900px;
+    width: 750px;
     height: 300px;
     position: relative;
     margin: auto;
+    border-radius: 25px;
 }
+
 
 #proc_canvas #myname { 
     text-align: center;
@@ -378,7 +402,8 @@ body, html {
 
 #myname h1, #myname a {
     font-family: 'Varela Round', sans-serif;
-    font-size:65px;
+    font-size:55px;
+    text-align: center;
 }
 
 #proc_canvas a {
@@ -400,6 +425,116 @@ body, html {
     letter-spacing: -1px;
     text-decoration: none;
 }
+
+
+
+
+#proc_canvasmid { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-35px;
+    margin-top:-15px;
+}
+
+#canvmid{ 
+    width: 600px;
+    height: 250px;
+    position: relative;
+    margin: auto;
+    border-radius: 20px;
+}
+
+
+#proc_canvasmid #mynamemid { 
+    text-align: center;
+    position: relative;
+    bottom: 170px;
+}
+
+#mynamemid h1, #mynamemid a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:43px;
+    line-height:25px;
+    text-align: center;
+}
+
+#proc_canvasmid a {
+    text-decoration: none;
+}
+
+#proc_canvasmid a:hover {
+    font-style: normal;
+}
+
+#proc_canvasmid h1 { 
+    font-size: 43px;
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin: 0;
+}
+
+#mynamemid h1, #mynamemid h1 a, #mynamemid h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
+
+
+#proc_canvassmall { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-50px;
+    margin-top:-15px;
+}
+
+#canvsmall{ 
+    width: 350px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+#proc_canvassmall #mynamesmall { 
+    text-align: center;
+    position: relative;
+    bottom: 160px;
+}
+
+#mynamesmall h1, #mynamesmall a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:35px;
+    line-height:30px;
+    text-align: center;
+}
+
+#proc_canvassmall a {
+    text-decoration: none;
+}
+
+#proc_canvassmall a:hover {
+    font-style: normal;
+}
+
+#proc_canvassmall h1 { 
+    font-size: 35px;
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin: 0;
+}
+
+#mynamesmall h1, #mynamesmall h1 a, #mynamesmall h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
 
 canvas {
     padding-left: 0;
@@ -424,6 +559,30 @@ canvas {
 
 .paige-summary{
     font-size:15px;
+}
+
+ /* On smaller resolutions, hide the text for Large screens */
+ @media only screen and (max-width: 500px) {
+     .largeScreen {display: none;}
+     .midScreen {display: none;}
+}
+
+/* On larger resolutions, hide the text for Small screens */
+ @media only screen and (min-width: 900px) {
+     .smallScreen {display: none;}
+     .midScreen {display: none;}
+}
+
+/* On larger resolutions, hide the text for Small screens */
+ @media only screen and (min-width: 500px) and (max-width: 900px){
+     .smallScreen {display: none;}
+     .largeScreen {display: none;}
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -493,19 +652,7 @@ canvas {
                 
                 
 
-                <a  class=" nav-link" href="/dictionary/">Dictionary</a>
-            
-                
-                
-                
-
                 <a  aria-current="page"  class=" active   nav-link" href="/tags/">Tags</a>
-            
-                
-                
-                
-
-                <a  class=" nav-link" href="/links/">Links</a>
             
                 
                 
@@ -592,9 +739,11 @@ canvas {
 
 
 
-<section class="paige-metadata w-100">
+
+
+<div class="paige-metadata w-100">
     
-        <h1 class="display-5 fw-bold paige-title text-center">DID</h1>
+        <h1 class="display-5 fw-bold  text-center"  id="paige-title" >DID</h1>
     
 
     
@@ -602,7 +751,7 @@ canvas {
     
 
     
-</section>
+</div>
 
         
 
@@ -637,95 +786,187 @@ canvas {
 
 
     
-        
-        <section id="paige-pages">
+        <div id="paige-pages">
+            
+            
             
                 <p class="h5 paige-date-header text-center">March 2023</p>
                 
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
 
-                    
-                        
-                    
 
-                    
-                    
 
-                    <section class="mb-3 paige-page paige-published w-100">
-                        
-                            <p class="mb-0 paige-title text-center"><a href="/posts/ididntknow/">I didn&rsquo;t know I had DID</a></p>
-                        
 
-                        
 
-                        
-                            <p class="fst-italic mb-0 paige-summary text-center">In January 2022, I started trauma therapy. I had no idea what I was getting myself into—I knew I had a traumatic childhood, but I didn’t yet understand how much my past experiences had affected me in the present. When I started therapy, I thought dissociative identity disorder (DID) was a fake disorder people feigned for attention. It sounded too fantastical to be real, and my logic-driven mind couldn’t comprehend how</p>
-                        
 
-                        
-                            <p class="mb-0 paige-terms text-center">
-                                
 
-                                
 
-                                
-                                    
-                                
-                                    
-                                
 
-                                
-                                    <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/denial/">denial</a>
-                                
-                                    <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/did/">DID</a>
-                                
-                            </p>
-                        
 
-                        
 
-                        
-                            <p class="mb-0 paige-date text-center text-secondary">
-                                
 
-                                <time datetime="2023-03-03">March 3, 2023</time>
 
-                                
-                            </p>
-                        
 
-                        
-                            <p class="mb-0 paige-reading-time text-center text-secondary">1 minute</p>
-                        
-                    </section>
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="mb-3 paige-page paige-published w-100">
+    
+        <p class="mb-0 paige-title text-center"><a href="/posts/comingtoterms/">Coming to terms with having DID</a></p>
+    
+
+    
+
+    
+        <p class="fst-italic mb-0 paige-summary text-center">It took me several months of therapy with a dissociative disorders specialist in order for me to even consider that I had DID, despite having a pediatric dissociative disorder diagnosis. Like many others would in my generation, as soon as I realized I was being assessed for DID, I immediately went to sites like Reddit and YouTube to see how other people with this disorder conceptualize their experiences. Needless to say, I did not relate to others&#39; experiences that I found online.</p>
+    
+
+    
+        <p class="mb-0 paige-terms text-center">
+            
+
+            
                 
             
-        </section>
+
+            
+                
+            
+                
+            
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/"></a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/did/">DID</a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/polyfragmented/">polyfragmented</a>
+            
+        </p>
+    
+
+    
+
+    
+        <p class="mb-0 paige-date text-center text-secondary">
+            
+
+            <time datetime="2023-03-07">March 7, 2023</time>
+
+            
+        </p>
+    
+
+    
+        <p class="mb-0 paige-reading-time text-center text-secondary">2 minutes</p>
+    
+</div>
+
+                
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="mb-3 paige-page paige-published w-100">
+    
+        <p class="mb-0 paige-title text-center"><a href="/posts/notaboutidentity/">It&rsquo;s not about identity</a></p>
+    
+
+    
+
+    
+        <p class="fst-italic mb-0 paige-summary text-center">… it’s about childhood trauma.
+Dissociative Identity Disorder (DID) can be thought of as a coping mechanism one may develop when they experience repeated trauma in early childhood. It is arguably one of the most misunderstood and controversial mental health conditions, perhaps because it’s been repeatedly sensationalized in the media. Or, maybe because the name and clinical description of the disorder implies that it’s about having multiple identities or personality states.</p>
+    
+
+    
+        <p class="mb-0 paige-terms text-center">
+            
+
+            
+                
+            
+
+            
+                
+            
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/"></a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/did/">DID</a>
+            
+        </p>
+    
+
+    
+
+    
+        <p class="mb-0 paige-date text-center text-secondary">
+            
+
+            <time datetime="2023-03-06">March 6, 2023</time>
+
+            
+        </p>
+    
+
+    
+        <p class="mb-0 paige-reading-time text-center text-secondary">5 minutes</p>
+    
+</div>
+
+                
+            
+        </div>
         
     
 
@@ -742,7 +983,9 @@ canvas {
 
     
 
-    
+    <p class="mb-0 text-center" id="paige-credit">
+        <a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>
+    </p>
 
     
 </footer>
@@ -755,14 +998,17 @@ canvas {
 
 <script>
 function paigeResize() {
-    var e = document.querySelector("section.paige-content");
+    var e = document.querySelector("#paige-content");
     if (!e) {
-        return;
+        e = document.querySelector(".paige-content");
+        if (!e) {
+            return;
+        }
     }
     var mw = getComputedStyle(e).maxWidth;
     var w;
     if (mw === "100%") {
-        var e = document.querySelector("body > div.container");
+        var e = document.querySelector("#paige-root");
         var s = getComputedStyle(e);
         var px = parseFloat(s.paddingLeft) + parseFloat(s.paddingRight);
         var bx = parseFloat(s.borderLeftWidth) + parseFloat(s.borderRightWidth);
@@ -770,10 +1016,10 @@ function paigeResize() {
     } else {
         w = parseFloat(mw.substring(0, mw.length - 2));
     }
-    var es = document.querySelectorAll("div.paige-video");
+    var es = document.querySelectorAll(".paige-video");
     for (var i = 0; i < es.length; i++) {
         var e = es[i];
-        if (e.style.width !== w) {
+        if (!e.style.height && !e.style.width) {
             e.style.width = w + "px";
         }
     }
@@ -794,8 +1040,8 @@ addEventListener("resize", paigeResize);
 
 
 
-    
 
+    
     
     
 
