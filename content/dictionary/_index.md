@@ -4,7 +4,7 @@ title: "Dictionary"
 This is my personal dictionary of the words I use to describe my experience. While many of these terms and definitions are commonly used by others living with similar experiences, some of my definitions may differ from mainstream definitions to better reflect my personal experiences.
 
 ## part
-##### dissociative part, compartment, alter...
+##### compartment, dissociative part, alter...
 A compartment of memory, awareness, and identity. These are distinctly different from "parts of one's personality", as seen in Internal Family Systems (IFS) therapy. 
 
 ## polyfragmented
