@@ -49,12 +49,38 @@
                 
                 
                 
-                    <guid>https://example.com/tags/polyfragmented/</guid>
-                    <link>https://example.com/tags/polyfragmented/</link>
+                    <guid>https://example.com/tags/mechanism/</guid>
+                    <link>https://example.com/tags/mechanism/</link>
                 
                 
                 
-                    <title>polyfragmented</title>
+                    <title>mechanism</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/analogy/</guid>
+                    <link>https://example.com/tags/analogy/</link>
+                
+                
+                
+                    <title>analogy</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/identity/</guid>
+                    <link>https://example.com/tags/identity/</link>
+                
+                
+                
+                    <title>identity</title>
                 
             </item>
         

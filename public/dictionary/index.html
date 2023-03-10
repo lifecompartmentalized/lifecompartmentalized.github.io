@@ -46,7 +46,6 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://example.com/dictionary/" />
 
-
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Dictionary"/>
 <meta name="twitter:description" content=""/>
@@ -122,7 +121,7 @@
     
 
 
-<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.d47b3e75f7c09036045f8b6647a6a3bb6dfbb14f78652b1195d073fd9e423865.css"  integrity="sha256-1Hs&#43;dffAkDYEX4tmR6aju237sU94ZSsRldBz/Z5COGU="   referrerpolicy="no-referrer"  rel="stylesheet">
+<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.56e470ac84fe77ab4d8643703530652d168f1e6f93c170d99022906f0d401044.css"  integrity="sha256-VuRwrIT&#43;d6tNhkNwNTBlLRaPHm&#43;TwXDZkCKQbw1AEEQ="   referrerpolicy="no-referrer"  rel="stylesheet">
 
 
 
@@ -146,12 +145,12 @@
 .paige-terms,
 #paige-pages .paige-authors,
 #paige-pages .paige-date,
+#paige-pages .paige-terms,
 #paige-pages .paige-summary,
-#paige-pages .paige-terms 
 */
 
 #paige-pages .paige-date-header,
-.paige-toc,
+#paige-toc,
 #paige-credit,
 .paige-reading-time,
 #paige-reading-time
@@ -546,7 +545,7 @@ canvas {
 }
 
 #paige-main{
-    font-size:18px;
+    font-size:16px;
 }
 
 .paige-title{
@@ -562,7 +561,7 @@ canvas {
 }
 
  /* On smaller resolutions, hide the text for Large screens */
- @media only screen and (max-width: 500px) {
+ @media only screen and (max-width: 600px) {
      .largeScreen {display: none;}
      .midScreen {display: none;}
 }
@@ -574,7 +573,7 @@ canvas {
 }
 
 /* On larger resolutions, hide the text for Small screens */
- @media only screen and (min-width: 500px) and (max-width: 900px){
+ @media only screen and (min-width: 600px) and (max-width: 900px){
      .smallScreen {display: none;}
      .largeScreen {display: none;}
 }
@@ -583,6 +582,38 @@ canvas {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.blockquote{
+  font-size:18px;
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
 
 
@@ -785,7 +816,7 @@ canvas {
           <ol>
             <li>
               <ol>
-                <li><a href="#dissociative-part-compartment-alter">dissociative part, compartment, alter&hellip;</a></li>
+                <li><a href="#compartment-dissociative-part-alter">compartment, dissociative part, alter&hellip;</a></li>
               </ol>
             </li>
           </ol>
@@ -819,7 +850,7 @@ canvas {
 
     <div class="mw-100 overflow-x-auto "  id="paige-content" ><p>This is my personal dictionary of the words I use to describe my experience. While many of these terms and definitions are commonly used by others living with similar experiences, some of my definitions may differ from mainstream definitions to better reflect my personal experiences.</p>
 <h2 id="part">part<a aria-label="Link to this section" class="paige-header-link" href="#part">#</a></h2>
-<h5 id="dissociative-part-compartment-alter">dissociative part, compartment, alter&hellip;<a aria-label="Link to this section" class="paige-header-link" href="#dissociative-part-compartment-alter">#</a></h5>
+<h5 id="compartment-dissociative-part-alter">compartment, dissociative part, alter&hellip;<a aria-label="Link to this section" class="paige-header-link" href="#compartment-dissociative-part-alter">#</a></h5>
 <p>A compartment of memory, awareness, and identity. These are distinctly different from &ldquo;parts of one&rsquo;s personality&rdquo;, as seen in Internal Family Systems (IFS) therapy.</p>
 <h2 id="polyfragmented">polyfragmented<a aria-label="Link to this section" class="paige-header-link" href="#polyfragmented">#</a></h2>
 <p>A system who has a large amount of parts, and may split parts easily and in a complex fashion.</p>
@@ -919,7 +950,7 @@ addEventListener("resize", paigeResize);
     
 
 
-<script  crossorigin="anonymous"   defer  integrity="sha256-DlnjIazIyFnp&#43;CiCTh1Q5htBvvatmmZOi/m6nSeCn&#43;w="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.0e59e321acc8c859e9f828824e1d50e61b41bef6ad9a664e8bf9ba9d27829fec.js"></script>
+<script  crossorigin="anonymous"   defer  integrity="sha256-shpZ1a72o11IW90M37GvEIuboj82ESojpYh6pqgIBfA="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.b21a59d5aef6a35d485bdd0cdfb1af108b9ba23f36112a23a5887aa6a80805f0.js"></script>
 
 
 
