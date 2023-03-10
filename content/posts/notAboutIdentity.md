@@ -2,7 +2,7 @@
 title: "It's not about identity"
 date: 2023-03-06T21:43:08-05:00
 categories: ['']
-tags: ['DID', 'identity', 'essay']
+tags: ['DID', 'identity', 'mechanism']
 ---
 
 ... it's about childhood trauma. 
