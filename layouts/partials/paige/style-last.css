@@ -201,7 +201,7 @@ canvas {
 }
 
  /* On smaller resolutions, hide the text for Large screens */
- @media only screen and (max-width: 500px) {
+ @media only screen and (max-width: 600px) {
      .largeScreen {display: none;}
      .midScreen {display: none;}
 }
@@ -213,7 +213,7 @@ canvas {
 }
 
 /* On larger resolutions, hide the text for Small screens */
- @media only screen and (min-width: 500px) and (max-width: 900px){
+ @media only screen and (min-width: 600px) and (max-width: 900px){
      .smallScreen {display: none;}
      .largeScreen {display: none;}
 }
