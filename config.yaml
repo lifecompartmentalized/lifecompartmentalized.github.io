@@ -27,10 +27,10 @@ languages:
         name: "Tags"
         url: "/tags/"
         weight: 70
-      - identifier: "search"
-        name: "Search"
-        url: "/search/"
-        weight: 90
+      #- identifier: "search"
+      #  name: "Search"
+      #  url: "/search/"
+      #  weight: 90
     weight: 10
 markup:
   goldmark:
