@@ -8,8 +8,9 @@ tags: ['DID', 'mechanism']
 
 Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life. 
 
-One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life. 
+One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life [^1].
 Internally, this also made sense---I tend to index my life by location rather than time. In fact, in all of my notebooks' index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.
+ [^1]: My handwriting isn't usually discretely clear, and is often a blend of many different parts' handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.
 
 Why could this be the case? Why do I create parts when I travel? Looking back at my life story, it actually makes a lot of sense.
 My first several years of life involved a lot of traveling. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad's job. 
@@ -18,8 +19,9 @@ Because of this, by my 5th birthday, I had been to 11 different countries betwee
 
 This sounds like an incredibly fortunate childhood, and while it was, it was also very stressful for me.
 As an autistic person, I regulate myself by following a strict routine. As an adult, changes in plans are very dysregulating, and usually leave me in a detached dissociated state with difficulty picking up the newly created plans. 
-I can only imagine how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine. 
+I can only imagine [^2] how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine. 
 I had no option---my family chose to travel, and since within my family structure the emotional landscape was already dominated by others, I had to be an easy child and submit to whatever they wanted. This led to me dissociating and creating parts to handle the traveling for me.
+[^2]: I can more than imagine, but those feelings are dissociated away from me, so I don't remember ever feeling them.
 
 
 
