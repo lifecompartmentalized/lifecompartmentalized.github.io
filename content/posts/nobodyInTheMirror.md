@@ -1,7 +1,7 @@
 ---
 title: "Nobody in the mirror"
 date: 2023-03-11T14:49:00-05:00
-draft: false
+draft: true
 categories: ['']
 tags: ['DID', 'third person']
 ---

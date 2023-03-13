@@ -19,9 +19,8 @@ Because of this, by my 5th birthday, I had been to 11 different countries betwee
 
 This sounds like an incredibly fortunate childhood, and while it was, it was also very stressful for me.
 As an autistic person, I regulate myself by following a strict routine. As an adult, changes in plans are very dysregulating, and usually leave me in a detached dissociated state with difficulty picking up the newly created plans. 
-I can only imagine [^2] how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine. 
+I can only imagine how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine. 
 I had no option---my family chose to travel, and since within my family structure the emotional landscape was already dominated by others, I had to be an easy child and submit to whatever they wanted. This led to me dissociating and creating parts to handle the traveling for me.
-[^2]: I can more than imagine, but those feelings are dissociated away from me, so I don't remember ever feeling them.
 
 
 
