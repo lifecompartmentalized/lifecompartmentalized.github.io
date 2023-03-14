@@ -1,4 +1,5 @@
 ---
+title: "Life; compartmentalized"
 layout: "paige/home"
 paige:
   home:

@@ -1,7 +1,7 @@
 ---
 title: "My current conceptualization of my system"
 date: 2023-03-12T19:39:15-04:00
-draft: False
+draft: true
 categories: ['']
 tags: ['']
 ---
