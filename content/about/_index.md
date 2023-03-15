@@ -2,7 +2,7 @@
 title: "About"
 ---
 I am a STEM PhD student in the USA nearing the completion of my degree.
-I have been in therapy for Dissociative Identity Disorder (DID) since January of 2022.
+I have been in therapy for Dissociative Identity Disorder (DID) since January 2022.
 I am currently navigating life as a polyfragmented system with low identity alteration, high amounts of switching, and day-to-day amnesia as I attempt to complete my degree. 
 I wish to remain anonymous as I'm unsure how revealing my identity may potentially affect my future career options.
 

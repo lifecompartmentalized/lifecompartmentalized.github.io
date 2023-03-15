@@ -8,11 +8,11 @@
     "devDependencies": {}
   },
   "dependencies": {
+    "bibtex-to-csl-json": "^0.1.13",
     "bootstrap": "^5.3.0-alpha1",
     "bootstrap-icons": "^1.10.3",
     "katex": "^0.16.4"
   },
-  "devDependencies": {},
   "name": "hugo",
   "version": "0.1.0"
 }

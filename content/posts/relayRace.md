@@ -18,7 +18,7 @@ I relate a lot to this analogy. Before I became more self-aware, I was only able
 
 Now that I am more aware of how I operate, my goal is to be able to take a step back from the compartment that I currently am in to be able to have a broader picture of my life.
 In the year and two months I've been in therapy, my awareness has increased dramatically, but I still have a long way to go. 
-The hardest part has been accepting that I am a team rather than the solo runner I always thought I was. 
+One of the hardest parts has been accepting that I am a team rather than the solo runner I always thought I was. 
 
 
 

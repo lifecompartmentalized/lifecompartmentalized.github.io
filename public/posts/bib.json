@@ -1,0 +1,13 @@
+[{
+  "id": "test",
+  "type": "article",
+  "title": "Example CSL-JSON file",
+  "author": [{
+    "family": "Willighagen",
+    "given": "Lars"
+  }],
+  "issued": {
+    "date-parts": [[2020, 5, 2]]
+  },
+  "publisher": "GitHub Gist"
+}]

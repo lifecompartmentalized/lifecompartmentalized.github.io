@@ -14,5 +14,5 @@ paige:
 
 {{< voronoi >}}
 I am an autistic person living with polyfragmented Dissociative Identity Disorder. 
-On this site, I document my understanding of what factors shaped who I am and how I experience life. 
+On this site, I share my story and document my understanding of what factors shaped who I am and how I experience life. 
 

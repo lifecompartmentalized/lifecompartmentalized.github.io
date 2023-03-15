@@ -49,6 +49,32 @@
                 
                 
                 
+                    <guid>https://example.com/tags/narrative/</guid>
+                    <link>https://example.com/tags/narrative/</link>
+                
+                
+                
+                    <title>narrative</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/symptoms/</guid>
+                    <link>https://example.com/tags/symptoms/</link>
+                
+                
+                
+                    <title>symptoms</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
                     <guid>https://example.com/tags/mechanism/</guid>
                     <link>https://example.com/tags/mechanism/</link>
                 
