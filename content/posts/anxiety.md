@@ -3,7 +3,7 @@ title: "Anxiety"
 date: 2023-03-16T19:17:28-04:00
 draft: false
 categories: ['']
-tags: ['']
+tags: ['DID', 'narrative', 'symptoms']
 ---
 
 When I was 12, I stopped feeling anxiety. Prior to that, I was a child ravished by anxiety. Then, one day, it stopped [^1]. And I have never experienced anxiety in the same way since.
