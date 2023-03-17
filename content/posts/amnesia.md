@@ -1,7 +1,7 @@
 ---
 title: "I didn't know I had amnesia"
 date: 2023-03-13T22:10:19-04:00
-draft: false
+draft: true
 categories: ['']
 tags: ['']
 ---
