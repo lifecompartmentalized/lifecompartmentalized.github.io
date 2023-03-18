@@ -1,24 +1,40 @@
 ---
-title: "Polyfragmentation"
-date: 2023-03-14T12:03:40-04:00
-draft: true
+title: "Why do I call myself \"polyfragmented\"?"
+date: 2023-03-17T21:11:40-04:00
+draft: false
 categories: ['']
 tags: ['']
 ---
 
 
-The word I like best to describe my flavor of DID is polyfragmented. This is not a word I've seen in the academic literature, although Richard Kluft seems to describe similar phenomena in one of his papers[^1], so it's not concretely defined. To me, the word polyfragmented means a person who has many parts and/or splits them in a complex fashion. I believe I fall under the category of both. 
-[^1]: _[The phenomenology and treatment of extremely complex multiple personality disorder](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/1396/Diss_1_4_8_OCR_rev.pdf)_. Richard Kluft, 1998. 
+The word I like best to describe my flavor of DID is polyfragmented. This is the most discriptive word I've found used in the literature and online communities that represents how I experience having DID.
 
-In more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. 
+In a more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. Their switches between these parts seem to be more internally pronounced since they are more well defined.  
 
-I do not experience this. Instead, it seems like, for the most part, my parts represent different aspects of my singular personality. 
+
+
+
+I do not experience this. Instead, it seems like, for the most part, my parts represent smaller fractions of my life. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
 
 Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not have affected another child as much. I believe this is due to my innate temperament, along with the fact that I am autistic. Anecdotally, it seems like there's a high correlation of those who are polyfragmented and are autistic [^2].
 
-[^2]: I came to this conclusion from reading r/DID and r/OSDD on Reddit
+[^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
+
+Polyfragmented is most commonly referred to to mean a system [^3] who has a lot of parts and/or splits parts in a complex manner. ...
+
+[^3]: Some people may refer to themselves as _systems_ when they have DID---their parts operate as a _system_.
+
+I have many different splitting patterns, which I hope to learn more about to discuss here in the future. I split parts easily and in a complex manner. I do not only split parts due to trauma---I seem to create parts to aleviate even mild discomfort from my awareness. This is something I developed over time, as my threshhold for what constituted part creation lowerered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was, making me more and more dysfunctional in the real world. I seem to have parts created to do jobs for me. For example, I have a few different parts dedicated to cleaning, a part for brushing my showering, and even a sequence of parts dedicated to getting me from putting my VR headset on to in my VR game as quickly/without my awareness as possible. My definition of what constitutes part creation is so low that a game loading screen made me create parts.
+
+With these splitting patterns, this means I have a lot of parts.
+
+When I was young, I likely would not qualify as polyframented---my rate of part creation has increased as I aged 
 
 <!--
+
+[^1]: _[The phenomenology and treatment of extremely complex multiple personality disorder](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/1396/Diss_1_4_8_OCR_rev.pdf)_. Richard Kluft, 1998. 
+
+This is not a word I've seen in the academic literature, although Richard Kluft seems to describe similar phenomena in one of his papers[^1], so it's not concretely defined. To me, the word polyfragmented means a person who has many parts and/or splits them in a complex fashion. I believe I fall under the category of both. 
 Because my understanding of DID was that of a more traditional presentation, I initially did not believe I had this disorder, despite having clear cases of amnesia. However, over time, I found that my presentation was simply different to the traditional presentation. It seems as though I 
 
 
