@@ -1,36 +1,51 @@
 ---
 title: "Why do I call myself \"polyfragmented\"?"
 date: 2023-03-17T21:11:40-04:00
-draft: false
+draft: true
 categories: ['']
 tags: ['']
 ---
 
 
-The word I like best to describe my flavor of DID is polyfragmented. This is the most discriptive word I've found used in the literature and online communities that represents how I experience having DID.
+The word I like best to describe my flavor of DID is polyfragmented. 
+Polyfragmented is most commonly referred to to mean someone who has a lot of parts and/or splits parts in a complex manner. I believe I exhibit both.
 
 In a more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. Their switches between these parts seem to be more internally pronounced since they are more well defined.  
 
+I believe I experience something different in addition to having more traditional parts. In addition to having several well-developed main parts, I also seem to have many fragments, or compartments 
 
-
-
-I do not experience this. Instead, it seems like, for the most part, my parts represent smaller fractions of my life. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
+While I do experience this, I seem to additionally experience something different. It seems like, for the most part, my parts represent smaller fractions of my life. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
 
 Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not have affected another child as much. I believe this is due to my innate temperament, along with the fact that I am autistic. Anecdotally, it seems like there's a high correlation of those who are polyfragmented and are autistic [^2].
 
 [^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
 
-Polyfragmented is most commonly referred to to mean a system [^3] who has a lot of parts and/or splits parts in a complex manner. ...
+I have many different splitting patterns, which I hope to learn more about to discuss here in the future. 
+One such splitting mechanism is that, when I experience something traumatic, I seem to split parts in a sequential manner. Thus, when I am triggered in the present day, I have to switch between a series of parts before switching back to an untraumatized part.
+I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was, making me more and more dysfunctional in the real world as I aged. 
 
 [^3]: Some people may refer to themselves as _systems_ when they have DID---their parts operate as a _system_.
 
-I have many different splitting patterns, which I hope to learn more about to discuss here in the future. I split parts easily and in a complex manner. I do not only split parts due to trauma---I seem to create parts to aleviate even mild discomfort from my awareness. This is something I developed over time, as my threshhold for what constituted part creation lowerered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was, making me more and more dysfunctional in the real world. I seem to have parts created to do jobs for me. For example, I have a few different parts dedicated to cleaning, a part for brushing my showering, and even a sequence of parts dedicated to getting me from putting my VR headset on to in my VR game as quickly/without my awareness as possible. My definition of what constitutes part creation is so low that a game loading screen made me create parts.
+I'd like to note that while I use the word "dysfunctional" to describe myself, that is concluded from me externally viewing my life. Internally, I feel fine, and generally okay. I'm using my dissociative coping mecahanisms to protect me from what could be objectively considered a difficult time, just as I have in the past. For the most part, I feel emotionally detached and have an overall positive worldview. Dissociation is an amazing coping mechanism.
+I use the word dysfunctional to describe the fact that this disorder is impacting my day-to-day functioning. This is because my internal awareness is so fragmented that I do not have continuity of memory, and I have clusters of parts with different interests trying to live life in different ways, causing internal division. Right now, as I write this, I believe I'm nearing the peak of my dysfunction---up until recently, I was just as dysfunctional, but I didn't know I was because I didn't know I had DID and daily amnesia. Now that I am much more aware of what is going on in my life, I have full confidence that I will become more functional again soon. I have been very functional living with this disorder in the recent past, so I have full faith I'll get there again, this time with much more awareness of how I operate.
+
+Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I seem to use parts differently than the most-shared representations of DID portray. Because of this, it took me an incredibly long time to see in myself that I had DID. 
+
+
+
+
+<!--
+
+
+This is the most descriptive word I've found used in the literature and online communities that represents how I experience having DID.
+Most of my parts share memory between them, so switching/shifting can almost be undetectable to me. However, I do experience amnesia between some parts that come out nearly daily.
+I seem to split parts easily and in a complex manner. 
 
 With these splitting patterns, this means I have a lot of parts.
 
 When I was young, I likely would not qualify as polyframented---my rate of part creation has increased as I aged 
 
-<!--
+I seem to have parts created to do jobs for me. For example, I have a few different parts dedicated to cleaning, a part for brushing my showering, and even a sequence of parts dedicated to getting me from putting my VR headset on to in my VR game as quickly/without my awareness as possible. My definition of what constitutes part creation is so low that a game loading screen made me create parts.
 
 [^1]: _[The phenomenology and treatment of extremely complex multiple personality disorder](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/1396/Diss_1_4_8_OCR_rev.pdf)_. Richard Kluft, 1998. 
 
