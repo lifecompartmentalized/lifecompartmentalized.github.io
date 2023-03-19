@@ -43,7 +43,7 @@ Internally, I feel fine, and generally okay. When I take a step back and look at
 My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I'm getting through.
 
 
-Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to learn to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way, I just didn't know about it until now.
+Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way, I just didn't know about it until now.
 
 <!--
 Right now, as I write this, 
