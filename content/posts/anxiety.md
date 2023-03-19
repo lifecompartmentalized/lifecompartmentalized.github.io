@@ -23,7 +23,7 @@ Right now, as I write this, I do not know what anxiety feels like. Parts of me d
 When I was 12, I didn't become a less anxious person---I just became more detached from my anxiety. My crippling anxiety wasn't miraculously cured. Instead, it was like fixing a wound that needed stitches with a band-aid---an easy, temporary solution that left me worse-off in the long term. 
 
 In order to decrease my amnesia and regain control of my life, I need to connect back with my anxiety. 
-My current method of dealing with anxiety---compartmentalizing it and shoving it from my awareness---leads to uncontrollable fear-based behavior, a lack of internal awareness, and amnesia. I need to connect with this destabilizing experience once again, this time working though it instead of shoving it from my awareness. Then, I can address its root causes and gain control of my life again. 
+Although it allows me to avoid difficult feelings in the moment, my current method of dealing with anxiety---compartmentalizing it and shoving it from my awareness---leads to uncontrollable fear-based behavior, a lack of internal awareness, and amnesia. I need to connect with this destabilizing experience once again, this time working though it instead of shoving it from my awareness. Then, I can address its root causes and gain control of my life again. 
 
 
 
