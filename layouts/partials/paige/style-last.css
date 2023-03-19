@@ -255,3 +255,8 @@ blockquote:after {
 blockquote p {
   display: inline;
 }
+
+ul {
+  margin-top: -15px;
+}
+

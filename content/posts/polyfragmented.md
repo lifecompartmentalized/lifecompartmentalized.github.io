@@ -10,16 +10,16 @@ tags: ['DID','polyfragmented','symptoms']
 The word I like best to describe my flavor of DID is polyfragmented. 
 Polyfragmented is most commonly referred to to mean someone who has a lot of parts and/or splits parts in a complex manner. I believe I exhibit both.
 
-In a more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. Their switches between these parts seem to be more internally pronounced since each part is more well defined.  
+In a more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. Their switches between these parts seem to be more pronounced since each part is more well defined.  
 
 I believe I experience something different. In addition to having several well-developed main parts, I also seem to have many fragments, or much less developed parts. It seems like, for the most part, these parts represent smaller fractions of my life than someone with a more traditional presenting form of DID. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
 [^1]: They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn't feel comfortable for me.
 
-Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not affect another person as much. I believe this is due to my innate temperament, along with the fact that I am autistic. Anecdotally, it seems like there's a high correlation between those who are polyfragmented and are autistic [^2].
+Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not affect another person as much. I believe this is due to my innate temperament, life experiences, and because I am autistic. Anecdotally, it seems like there's a high correlation between those who are polyfragmented and are autistic [^2].
 
 [^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
 
-I have many different splitting patterns, which I hope to discuss more about in the future. 
+I've learned that I have many different splitting patterns.
 One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner. 
 I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was, making me more and more dysfunctional in the real world as I aged [^7]. 
 [^7]: That is, until I stop relying solely dissociation as a coping mechanism, which I'm actively working on doing in therapy.
@@ -36,11 +36,11 @@ My system isn't neatly organized and structured. It's chaotic, messy, and unknow
 [^5]: Some people call these subsystems.
 [^6]: I use _switch_ to denote a hard, discrete change between parts, which usually occurs when I'm triggered and can be disorienting. I use _shift_ to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.
 
-Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. I have had DID my entire life, and I have, for the most part, lived a conventionally successful life despite this. I know no other way of living---this is normal to me. Only since learning that I have DID and having the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal.
+Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. I have had DID my entire life, and I have, for the most part, lived a conventionally successful life despite this. I know no other way of living---this is normal to me. Only since learning that I have DID and having the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
 
 It's taken me over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
 Internally, I feel fine, and generally okay. When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
-My body is designed to deal with trauma, and learning about and working with my messy system could just be considered another trauma I'm getting through.
+My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I'm getting through.
 
 
 Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to learn to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way, I just didn't know about it until now.

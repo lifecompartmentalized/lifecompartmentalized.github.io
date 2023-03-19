@@ -16,3 +16,10 @@ paige:
 I am an autistic person living with polyfragmented Dissociative Identity Disorder. 
 On this site, I share my story and document my understanding of what factors shaped who I am and how I experience life. 
 
+<br>
+
+Suggested posts:
+- [It's not about identity](posts/notaboutidentity/)
+- [Why do I call myself "polyfragmented"?](posts/polyfragmented/)
+- [Parts are created from trauma, not necessarily abuse](posts/traveling/)
+- [Anxiety](posts/anxiety/)
