@@ -1,7 +1,7 @@
 ---
 title: "Why do I call myself \"polyfragmented\"?"
 date: 2023-03-17T21:11:40-04:00
-draft: true
+draft: false
 categories: ['']
 tags: ['']
 ---
@@ -10,31 +10,62 @@ tags: ['']
 The word I like best to describe my flavor of DID is polyfragmented. 
 Polyfragmented is most commonly referred to to mean someone who has a lot of parts and/or splits parts in a complex manner. I believe I exhibit both.
 
-In a more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. Their switches between these parts seem to be more internally pronounced since they are more well defined.  
+In a more traditional case of DID, it is my understanding that a person has a relatively small number parts that are more well defined. They only have a few compartments of memory, thus allowing them to spend more time in each compartment, so each compartment has more time to develop a distinct way of being. Their switches between these parts seem to be more internally pronounced since each part is more well defined.  
 
-I believe I experience something different in addition to having more traditional parts. In addition to having several well-developed main parts, I also seem to have many fragments, or compartments 
+I believe I experience something different. In addition to having several well-developed main parts, I also seem to have many fragments, or much less developed parts. It seems like, for the most part, these parts represent smaller fractions of my life than someone with a more traditional presenting form of DID. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
+[^1]: They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn't feel appropriate for my system.
 
-While I do experience this, I seem to additionally experience something different. It seems like, for the most part, my parts represent smaller fractions of my life. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
-
-Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not have affected another child as much. I believe this is due to my innate temperament, along with the fact that I am autistic. Anecdotally, it seems like there's a high correlation of those who are polyfragmented and are autistic [^2].
+Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not have affected another child as much. I believe this is due to my innate temperament, along with the fact that I am autistic. Anecdotally, it seems like there's a high correlation between those who are polyfragmented and are autistic [^2].
 
 [^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
 
-I have many different splitting patterns, which I hope to learn more about to discuss here in the future. 
-One such splitting mechanism is that, when I experience something traumatic, I seem to split parts in a sequential manner. Thus, when I am triggered in the present day, I have to switch between a series of parts before switching back to an untraumatized part.
+I have many different splitting patterns, which I hope to discuss more about here in the future. 
+One such splitting mechanism is that, when I experience something traumatic, I seem to split many parts in a sequential manner. 
 I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was, making me more and more dysfunctional in the real world as I aged. 
 
 [^3]: Some people may refer to themselves as _systems_ when they have DID---their parts operate as a _system_.
 
-I'd like to note that while I use the word "dysfunctional" to describe myself, that is concluded from me externally viewing my life. Internally, I feel fine, and generally okay. I'm using my dissociative coping mecahanisms to protect me from what could be objectively considered a difficult time, just as I have in the past. For the most part, I feel emotionally detached and have an overall positive worldview. Dissociation is an amazing coping mechanism.
-I use the word dysfunctional to describe the fact that this disorder is impacting my day-to-day functioning. This is because my internal awareness is so fragmented that I do not have continuity of memory, and I have clusters of parts with different interests trying to live life in different ways, causing internal division. Right now, as I write this, I believe I'm nearing the peak of my dysfunction---up until recently, I was just as dysfunctional, but I didn't know I was because I didn't know I had DID and daily amnesia. Now that I am much more aware of what is going on in my life, I have full confidence that I will become more functional again soon. I have been very functional living with this disorder in the recent past, so I have full faith I'll get there again, this time with much more awareness of how I operate.
 
-Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I seem to use parts differently than the most-shared representations of DID portray. Because of this, it took me an incredibly long time to see in myself that I had DID. 
+Rather than working with one part at a time, I'm working with clusters of parts at any given time[^5]. I do not seem to have a "host", or primary, personality. 
+My parts do not have names---they have labels [^1].
+My system isn't neatly organized and structured. It's chaotic, and messy, and unknown.
+[^5]: Some people call these subsystems.
+[^6]: I call this _shifting_, rather than the more discrete _switching_.
+
+It's taken me over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. At the begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
+Internally, I feel fine, and generally okay. When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
 
 
-
+Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. 
 
 <!--
+Right now, as I write this, 
+up until recently, I was just as dysfunctional, but I didn't know I was because I didn't know I had DID and daily amnesia. Now that I am much more aware of what is going on in my life, I have full confidence that I will become more functional again soon. I have been very functional living with this disorder in the recent past, so I have full faith I'll get there again, this time with much more awareness of how I operate.
+
+
+
+
+
+
+I seem to use parts differently than the most-shared representations of DID portray. Because of this, it took me an incredibly long time to see in myself that I had DID. 
+
+
+
+
+
+
+I'd like to note that while I use the word "dysfunctional" to describe myself, I'm actually very high-functioning in most areas of my life. 
+I use the word dysfunctional to describe the fact that this disorder is impacting my day-to-day functioning, making it hard to do the things I want to do. This is because my internal awareness is so fragmented that I do not have continuity of memory, and I have clusters of parts with different interests trying to live life in different ways, causing internal division. However, in many aspects of life, I am living functionally.
+
+
+
+I'm using my dissociative coping mecahanisms to protect me from what could be objectively considered a difficult time, just as I have in the past. For the most part, I feel emotionally detached and have an overall positive worldview. Dissociation is an amazing coping mechanism. 
+
+
+For what it's worth, the labels I use to describe how I function make it seem like my life is a lot worse than it actually is. Despite the internal chaos and amnesia, I, for the most part, enjoy how I operate. I realize 
+
+Thus, when I am triggered in the present day, I have to switch between a series of parts in rapid succession before switching back to an untraumatized part.
+I am also able to take care of myself well, but 
 
 
 This is the most descriptive word I've found used in the literature and online communities that represents how I experience having DID.

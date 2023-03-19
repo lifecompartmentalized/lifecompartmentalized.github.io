@@ -29,6 +29,8 @@ My current method of dealing with anxiety---compartmentalizing it and shoving it
 
 <!--
 
+I have a very curated internal experience---emotionally, I feel 
+
 The irrational thought loops 
 At least not in a normal way anymore. 
 
