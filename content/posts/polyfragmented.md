@@ -21,7 +21,7 @@ Why do I have so many parts? I believe it's because the threshold for what const
 
 I've also learned that I have many different splitting patterns.
 One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner. 
-I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as I grew older, making me more and more dysfunctional in the real world as I aged[^7]. 
+I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged[^7]. 
 [^7]: That is, until I stop relying solely dissociation as a coping mechanism, which I'm actively working on doing in therapy.
 
 [^3]: Some people may refer to themselves as _systems_ when they have DID---their parts operate as a _system_.
@@ -31,12 +31,12 @@ Rather than working with one part at a time, I'm working with clusters of parts 
 I do not seem to have a "host", or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in a cyclical pattern.
 My parts do not have names---they have labels[^1].
 I shift and switch[^6] between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living. 
-Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day from even mild stressors.
+Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day.
 My system isn't neatly organized and structured. It's chaotic, messy, and unknown.
 [^5]: Some people call these subsystems.
 [^6]: I use _switch_ to denote a hard, discrete change between parts, which usually occurs when I'm triggered and can be disorienting. I use _shift_ to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.
 
-Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. But because of my system structure, I struggle with many aspects of time and memory, such as knowing what day it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
+Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. But because of my system structure, I struggle with many aspects of time and memory, such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
 However, I have had DID my entire life, and I have, for the most part, lived a conventionally successful life despite this. I know no other way of living---this is normal to me. 
 Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
 
