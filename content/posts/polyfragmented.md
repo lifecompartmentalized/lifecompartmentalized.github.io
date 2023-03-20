@@ -15,35 +15,37 @@ In a more traditional case of DID, it is my understanding that a person has a re
 I believe I experience something different. In addition to having several well-developed main parts, I also seem to have many fragments, or much less developed parts. It seems like, for the most part, these parts represent smaller fractions of my life than someone with a more traditional presenting form of DID. I have more parts, along with more fragmentation and less differentiation since each part had less time to develop a distinct identity. 
 [^1]: They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn't feel comfortable for me.
 
-Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not affect another person as much. I believe this is due to my innate temperament, life experiences, and because I am autistic. Anecdotally, it seems like there's a high correlation between those who are polyfragmented and are autistic [^2].
+Why do I have so many parts? I believe it's because the threshold for what constitutes part creation is lower for me than it is for other individuals---things that would be considered traumatic to me may not affect another person as much. I believe this is due to my innate temperament, life experiences, and, perhaps most importantly, because I am autistic. Anecdotally, it seems like there's a high correlation between those who are polyfragmented and are autistic [^2].
 
 [^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
 
-I've learned that I have many different splitting patterns.
+I've also learned that I have many different splitting patterns.
 One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner. 
-I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was, making me more and more dysfunctional in the real world as I aged [^7]. 
+I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as I grew older, making me more and more dysfunctional in the real world as I aged[^7]. 
 [^7]: That is, until I stop relying solely dissociation as a coping mechanism, which I'm actively working on doing in therapy.
 
 [^3]: Some people may refer to themselves as _systems_ when they have DID---their parts operate as a _system_.
 
 
 Rather than working with one part at a time, I'm working with clusters of parts at any given time[^5]. 
-I do not seem to have a "host", or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month.
+I do not seem to have a "host", or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in a cyclical pattern.
 My parts do not have names---they have labels[^1].
-I shift and switch[^6] between these parts at least a few dozen times a day, even without being triggered since  I have parts I need to access as a normal part of every day living. 
-Because my threshold for creating parts is so low, I believe I am still creating parts in the present-day from even mild stressors.
+I shift and switch[^6] between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living. 
+Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day from even mild stressors.
 My system isn't neatly organized and structured. It's chaotic, messy, and unknown.
 [^5]: Some people call these subsystems.
 [^6]: I use _switch_ to denote a hard, discrete change between parts, which usually occurs when I'm triggered and can be disorienting. I use _shift_ to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.
 
-Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. I have had DID my entire life, and I have, for the most part, lived a conventionally successful life despite this. I know no other way of living---this is normal to me. Only since learning that I have DID and having the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
+Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. But because of my system structure, I struggle with many aspects of time and memory, such as knowing what day it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
+However, I have had DID my entire life, and I have, for the most part, lived a conventionally successful life despite this. I know no other way of living---this is normal to me. 
+Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
 
-It's taken me over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
+It's taken me just over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
 Internally, I feel fine, and generally okay. When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
 My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I'm getting through.
 
 
-Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way, I just didn't know about it until now.
+Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way---I just wasn't aware about it until now.
 
 <!--
 Right now, as I write this, 

@@ -374,9 +374,25 @@ body, html {
   color: #6d6d6d;
 }
 
+h6{
+  font-style: italic;
+  margin-top:-10px;
+  margin-bottom: 10px;
+  font-size:20px;
+  text-align: center;
+}
+
 * {
-  text-align: justify;
+  text-align: left;
   text-justify: inter-word;
+}
+
+p {
+  text-indent: 25px;
+}
+
+.badge {
+  text-indent: 0px;
 }
 
 #proc_canvas { 
@@ -549,9 +565,6 @@ canvas {
     position: absolute;
 }
 
-#paige-main{
-    font-size:17px;
-}
 
 .paige-title{
     font-size:25px;
@@ -565,22 +578,44 @@ canvas {
     font-size:15px;
 }
 
- /* On smaller resolutions, hide the text for Large screens */
+ /* phone */
  @media only screen and (max-width: 600px) {
      .largeScreen {display: none;}
      .midScreen {display: none;}
+    #paige-main{
+        font-size:14px;
+    }
+    .suggestedlinks{
+      font-size:16px;
+    }
 }
 
-/* On larger resolutions, hide the text for Small screens */
+/* computer */
  @media only screen and (min-width: 900px) {
      .smallScreen {display: none;}
      .midScreen {display: none;}
+
+    #paige-main{
+        font-size:18px;
+    }
+
+    .suggestedlinks {
+        font-size:20px;
+    }
 }
 
-/* On larger resolutions, hide the text for Small screens */
+/* tablet */
  @media only screen and (min-width: 600px) and (max-width: 900px){
      .smallScreen {display: none;}
      .largeScreen {display: none;}
+
+    #paige-main{
+        font-size:16px;
+    }
+
+    .suggestedlinks{
+      font-size:18px;
+    }
 }
 
 .center {
@@ -619,6 +654,34 @@ blockquote:after {
 }
 blockquote p {
   display: inline;
+}
+
+li {
+  margin-top: -0px;
+  text-align: center;
+}
+
+ul {
+  margin-top: -0px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.centerlinks{
+  padding-top:25px;
+  display: inline-block;
+  width:93%;
+  position: relative;
+
+}
+.centerlinks p {
+  line-height: 100%;
+  text-align: center;
+}
+
+.suggestedlinks{
+  text-align:center;
+  color: #FFF;
 }
 
 
@@ -815,6 +878,16 @@ blockquote p {
 
 I am an autistic person living with polyfragmented Dissociative Identity Disorder.
 On this site, I share my story and document my understanding of what factors shaped who I am and how I experience life.</p>
+<br>
+<div class="centerlinks">
+<div class="suggestedlinks">
+<p>Suggested posts:</p>
+</div>
+<p><a href="posts/notaboutidentity/">It&rsquo;s not about identity</a></p>
+<p><a href="posts/polyfragmented/">Why do I call myself &ldquo;polyfragmented&rdquo;?</a></p>
+<p><a href="posts/traveling/">Parts are created from trauma, not necessarily abuse</a></p>
+<p><a href="posts/anxiety/">Anxiety</a></p>
+</div>
 </div>
 
 

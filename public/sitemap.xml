@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/tags/did/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/polyfragmented/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/symptoms/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/polyfragmented/</loc>
+    <lastmod>2023-03-17T21:11:40-04:00</lastmod>
+  </url><url>
     <loc>https://example.com/posts/anxiety/</loc>
     <lastmod>2023-03-16T19:17:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/did/</loc>
-    <lastmod>2023-03-16T19:17:28-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-03-16T19:17:28-04:00</lastmod>
-  </url><url>
     <loc>https://example.com/tags/narrative/</loc>
-    <lastmod>2023-03-16T19:17:28-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2023-03-16T19:17:28-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/symptoms/</loc>
-    <lastmod>2023-03-16T19:17:28-04:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2023-03-16T19:17:28-04:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/fluctuatingintelligence/</loc>
