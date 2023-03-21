@@ -26,6 +26,10 @@ p {
   text-indent: 25px;
 }
 
+.footnotes p {
+  text-indent: 0px;
+}
+
 .badge {
   text-indent: 0px;
 }

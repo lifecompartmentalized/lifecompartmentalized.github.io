@@ -1,7 +1,7 @@
 ---
 title: "Fluctuating intelligence"
 date: 2023-03-13T21:52:50-04:00
-draft: false
+draft: true
 categories: ['']
 tags: ['DID', 'symptoms','narrative']
 ---

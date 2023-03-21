@@ -20,7 +20,7 @@ Why do I have so many parts? I believe it's because the threshold for what const
 [^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
 
 I've also learned that I have many different splitting patterns.
-One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner. 
+One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner, which leads to a lot of parts being created for a: single event. 
 I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged[^7]. 
 [^7]: That is, until I stop relying solely dissociation as a coping mechanism, which I'm actively working on doing in therapy.
 
@@ -36,9 +36,12 @@ My system isn't neatly organized and structured. It's chaotic, messy, and unknow
 [^5]: Some people call these subsystems.
 [^6]: I use _switch_ to denote a hard, discrete change between parts, which usually occurs when I'm triggered and can be disorienting. I use _shift_ to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.
 
-Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. Many of my parts share memory and are cooperative with one another. But because of my system structure, I struggle with many aspects of time and memory, such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
-However, I have had DID my entire life, and I have, for the most part, lived a conventionally successful life despite this. I know no other way of living---this is normal to me. 
+Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. 
+I have had DID my entire life, and I have, for the most part, lived an enjoyable and conventionally successful life despite this. I know no other way of living---this is normal to me. 
+However, because of my system structure, I struggle with many aspects of time and memory[^8], such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
 Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
+
+[^8]: My symptoms include more than just time and memory problems, but those aren't explicitly due to my system structure, and may be addressed in later posts.
 
 It's taken me just over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
 Internally, I feel fine, and generally okay. When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
@@ -48,6 +51,7 @@ My body is designed to deal with trauma, and learning about and working with my 
 Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way---I just wasn't aware about it until now.
 
 <!--
+Many of my parts share memory and are cooperative with one another.
 Right now, as I write this, 
 up until recently, I was just as dysfunctional, but I didn't know I was because I didn't know I had DID and daily amnesia. Now that I am much more aware of what is going on in my life, I have full confidence that I will become more functional again soon. I have been very functional living with this disorder in the recent past, so I have full faith I'll get there again, this time with much more awareness of how I operate.
 
