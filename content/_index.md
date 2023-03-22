@@ -18,6 +18,7 @@ On this site, I share my story and document my understanding of what factors sha
 
 <br>
 
+<!--
 {{% center %}}
 {{% suggested %}}
 Suggested posts:
@@ -30,5 +31,4 @@ Suggested posts:
 [Parts are created from trauma, not necessarily abuse](posts/traveling/)
 
 [Anxiety](posts/anxiety/)
-
-{{% /center %}}
+-->

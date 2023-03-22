@@ -6,6 +6,9 @@ categories: ['']
 tags: ['']
 ---
 
+DID is very much internal disorder.
+
+
 How does one know if the way they experience the world is _normal_? I never thought the way I encoded and accessed memories was different from most others until recently. Now that I'm aware, so much of my life makes sense. 
 
 Now that I know what switching feels like, I realize that I have day-to-day amnesia. 

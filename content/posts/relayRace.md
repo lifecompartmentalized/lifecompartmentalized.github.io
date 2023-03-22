@@ -1,7 +1,7 @@
 ---
 title: "Life is a relay race"
 date: 2023-03-08T14:56:01-05:00
-draft: false
+draft: true
 categories: ['']
 tags: ['DID', 'analogy']
 ---
