@@ -20,22 +20,21 @@ Why do I have so many parts? I believe it's because the threshold for what const
 [^2]: I came to this conclusion from r/DID and r/OSDD on Reddit
 
 I've also learned that I have many different splitting patterns.
-One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner, which leads to a lot of parts being created for a: single event.
-I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged
-[^7].
+One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner, which leads to a lot of parts being created for a single event.
+I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged [^7].
 
 
-[^7]: That is, until I stop relying solely dissociation as a coping mechanism, which I'm actively working on doing in therapy.
+[^7]: until I stop relying solely on dissociation as a coping mechanism, which I'm actively working on doing in therapy.
 
 
 
 Rather than working with one part at a time, I'm working with clusters of parts at any given time[^5]. 
-I do not seem to have a "host", or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in a cyclical pattern.
+I do not seem to have a "host", or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in an approximate cyclical pattern.
 My parts do not have names---they have labels[^1].
 I shift and switch between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living[^10]. 
 Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day.
 My system isn't neatly organized and structured. It's chaotic, messy, and unknown.
-[^5]: Some people call these subsystems.
+[^5]: Some people call these subsystems. I seem to have many layers of compartmentalization---my parts have their own parts.
 [^6]: I use _switch_ to denote a hard, discrete change between parts, which usually occurs when I'm triggered and can be disorienting. I use _shift_ to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.
 [^10]: I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.
 
