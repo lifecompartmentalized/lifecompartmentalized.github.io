@@ -7,7 +7,7 @@ tags: ['DID', 'narrative', 'symptoms']
 ---
 
 When I was 12, I stopped feeling anxiety. Prior to that, I was a child ravished by anxiety. Then, one day, it stopped [^1]. And I have never experienced anxiety in the same way since.
-[^1]: My mom reports me having a discrete personality change when this occurred, which was triggered by a life event.
+[^1]: My mom reports me having a discrete personality change when this occurred.
 
 I now understand that anxiety is one of the experiences that I dissociated away---it's a state that I did not enjoy experiencing, so I learned how to compartmentalize it and push it out of my awareness.
 This doesn't mean I do not _experience_ anxiety; rather, it means that when I do, I am so detached from it that I do not experience all aspects of it.
