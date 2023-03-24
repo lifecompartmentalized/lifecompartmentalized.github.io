@@ -1,0 +1,1200 @@
+
+
+<!doctype html>
+
+
+
+
+
+
+<html  data-bs-theme="dark"  data-paige="Paige theme from https://github.com/willfaught/paige"   lang="en-us" >
+
+    
+
+<head>
+    
+        <meta charset="UTF-8">
+<script type="text/javascript" src="/processing/processing.js"></script>
+
+
+<script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+
+    
+
+    
+
+<meta charset="utf-8">
+
+
+
+
+
+
+    <meta content=", DID, mechanism, narrative" name="keywords">
+
+
+<meta content="#0d6efd" name="msapplication-TileColor">
+
+
+
+<meta content="#0d6efd" name="theme-color">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+
+<meta property="og:title" content="Parts are created from trauma, not necessarily abuse" />
+<meta property="og:description" content="Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/posts/traveling/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-03-09T22:14:57-05:00" />
+<meta property="article:modified_time" content="2023-03-09T22:14:57-05:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Parts are created from trauma, not necessarily abuse"/>
+<meta name="twitter:description" content="Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life."/>
+
+
+
+    <title>Parts are created from trauma, not necessarily abuse</title>
+
+    
+
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+
+
+
+<link href="/favicon.png" rel="icon" type="image/png">
+<link href="/favicon.svg" rel="icon" type="image/svg+xml">
+<link color="#0d6efd" href="/safari-pinned-tab.svg" rel="mask-icon">
+<link href="/site.webmanifest" rel="manifest">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+
+<link  crossorigin="anonymous"  href="/paige/bootstrap-icons/bootstrap-icons.min.0a1b24e375754cc866fbe240718d760ce6362b63eb020719733db8b41f06ffa3.css"  integrity="sha256-Chsk43V1TMhm&#43;&#43;JAcY12DOY2K2PrAgcZcz24tB8G/6M="   referrerpolicy="no-referrer"  rel="stylesheet">
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+
+<link  crossorigin="anonymous"  href="/paige/bootstrap/bootstrap.min.56e470ac84fe77ab4d8643703530652d168f1e6f93c170d99022906f0d401044.css"  integrity="sha256-VuRwrIT&#43;d6tNhkNwNTBlLRaPHm&#43;TwXDZkCKQbw1AEEQ="   referrerpolicy="no-referrer"  rel="stylesheet">
+
+
+
+
+
+
+
+    
+
+<style>
+
+    @import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+/*.paige-authors,
+.paige-date,
+.paige-terms,
+#paige-pages .paige-authors,
+#paige-pages .paige-date,
+#paige-pages .paige-terms,
+#paige-pages .paige-summary,
+*/
+
+#paige-pages .paige-date-header,
+#paige-toc,
+#paige-credit,
+.paige-reading-time,
+#paige-reading-time
+{
+    display: none;
+}
+
+
+
+
+body, html {
+    height: 100%;
+}
+
+.highlight .chroma .hl, .highlight .chroma .lnt {
+    display: flex;
+}
+
+.paige-content {
+    counter-reset: paige-figure;
+}
+
+.paige-content .paige-figure.paige-figure-numbered {
+    counter-increment: paige-figure;
+}
+
+.paige-content .paige-figure.paige-figure-numbered figcaption:empty::before {
+    content: "Figure " counter(paige-figure);
+}
+
+.paige-content .paige-figure.paige-figure-numbered figcaption::before {
+    content: "Figure " counter(paige-figure) ": ";
+}
+
+.paige-content > blockquote {
+    padding: 0.5rem 1rem;
+    border-left: 0.25rem solid var(--bs-border-color);
+    padding-right: 0.25rem;
+}
+
+.paige-content > blockquote p:last-of-type {
+    margin-bottom: 0;
+}
+
+.paige-figure {
+    margin-bottom: 1rem;
+}
+
+.paige-figure .highlight .chroma pre, .paige-figure .highlight pre.chroma {
+    margin-bottom: 0;
+}
+
+.paige-figure .paige-video {
+    margin-bottom: 0;
+}
+
+.paige-figure > figure > div > :last-child {
+    margin-bottom: 0;
+}
+
+.paige-gallery {
+    margin-bottom: 1rem;
+}
+
+.paige-gallery .paige-figure {
+    margin-bottom: 0;
+}
+
+.paige-gallery .paige-image {
+    margin-bottom: 0;
+}
+
+.paige-figure .paige-image {
+    margin-bottom: 0;
+}
+
+.paige-figure .paige-quote > blockquote {
+    margin-bottom: 0;
+}
+
+.paige-header-link {
+    margin-left: 0.5ch;
+    opacity: 0;
+    position: absolute;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
+}
+
+.paige-header-link:focus, .paige-header-link:hover, :hover > .paige-header-link, :target > .paige-header-link {
+    opacity: 1;
+}
+
+.paige-image {
+    margin-bottom: 1rem;
+}
+
+.paige-video {
+    margin-bottom: 1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .paige-header-link {
+        transition: none;
+    }
+}
+
+
+    #paige-root {
+        max-width: 775px;
+    }
+
+
+
+    
+        /* Background */ .bg { color: #c9d1d9; background-color: var(--bs-body-bg); }
+/* PreWrapper */ .chroma { color: #c9d1d9; background-color: var(--bs-body-bg); }
+/* Other */ .chroma .x {  }
+/* Error */ .chroma .err { color: #f85149 }
+/* CodeLine */ .chroma .cl {  }
+/* LineLink */ .chroma .lnlinks { outline: none; text-decoration: none; color: inherit }
+/* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+/* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; }
+/* LineHighlight */ .chroma .hl { background-color: #ffffcc }
+/* LineNumbersTable */ .chroma .lnt { white-space: pre; user-select: none; margin-right: 0.4em; padding: 0 0.4em 0 0.4em;color: #64686c }
+/* LineNumbers */ .chroma .ln { white-space: pre; user-select: none; margin-right: 0.4em; padding: 0 0.4em 0 0.4em;color: #6e7681 }
+/* Line */ .chroma .line { display: flex; }
+/* Keyword */ .chroma .k { color: #ff7b72 }
+/* KeywordConstant */ .chroma .kc { color: #79c0ff }
+/* KeywordDeclaration */ .chroma .kd { color: #ff7b72 }
+/* KeywordNamespace */ .chroma .kn { color: #ff7b72 }
+/* KeywordPseudo */ .chroma .kp { color: #79c0ff }
+/* KeywordReserved */ .chroma .kr { color: #ff7b72 }
+/* KeywordType */ .chroma .kt { color: #ff7b72 }
+/* Name */ .chroma .n {  }
+/* NameAttribute */ .chroma .na {  }
+/* NameBuiltin */ .chroma .nb {  }
+/* NameBuiltinPseudo */ .chroma .bp {  }
+/* NameClass */ .chroma .nc { color: #f0883e; font-weight: bold }
+/* NameConstant */ .chroma .no { color: #79c0ff; font-weight: bold }
+/* NameDecorator */ .chroma .nd { color: #d2a8ff; font-weight: bold }
+/* NameEntity */ .chroma .ni { color: #ffa657 }
+/* NameException */ .chroma .ne { color: #f0883e; font-weight: bold }
+/* NameFunction */ .chroma .nf { color: #d2a8ff; font-weight: bold }
+/* NameFunctionMagic */ .chroma .fm {  }
+/* NameLabel */ .chroma .nl { color: #79c0ff; font-weight: bold }
+/* NameNamespace */ .chroma .nn { color: #ff7b72 }
+/* NameOther */ .chroma .nx {  }
+/* NameProperty */ .chroma .py { color: #79c0ff }
+/* NameTag */ .chroma .nt { color: #7ee787 }
+/* NameVariable */ .chroma .nv { color: #79c0ff }
+/* NameVariableClass */ .chroma .vc {  }
+/* NameVariableGlobal */ .chroma .vg {  }
+/* NameVariableInstance */ .chroma .vi {  }
+/* NameVariableMagic */ .chroma .vm {  }
+/* Literal */ .chroma .l { color: #a5d6ff }
+/* LiteralDate */ .chroma .ld { color: #79c0ff }
+/* LiteralString */ .chroma .s { color: #a5d6ff }
+/* LiteralStringAffix */ .chroma .sa { color: #79c0ff }
+/* LiteralStringBacktick */ .chroma .sb { color: #a5d6ff }
+/* LiteralStringChar */ .chroma .sc { color: #a5d6ff }
+/* LiteralStringDelimiter */ .chroma .dl { color: #79c0ff }
+/* LiteralStringDoc */ .chroma .sd { color: #a5d6ff }
+/* LiteralStringDouble */ .chroma .s2 { color: #a5d6ff }
+/* LiteralStringEscape */ .chroma .se { color: #79c0ff }
+/* LiteralStringHeredoc */ .chroma .sh { color: #79c0ff }
+/* LiteralStringInterpol */ .chroma .si { color: #a5d6ff }
+/* LiteralStringOther */ .chroma .sx { color: #a5d6ff }
+/* LiteralStringRegex */ .chroma .sr { color: #79c0ff }
+/* LiteralStringSingle */ .chroma .s1 { color: #a5d6ff }
+/* LiteralStringSymbol */ .chroma .ss { color: #a5d6ff }
+/* LiteralNumber */ .chroma .m { color: #a5d6ff }
+/* LiteralNumberBin */ .chroma .mb { color: #a5d6ff }
+/* LiteralNumberFloat */ .chroma .mf { color: #a5d6ff }
+/* LiteralNumberHex */ .chroma .mh { color: #a5d6ff }
+/* LiteralNumberInteger */ .chroma .mi { color: #a5d6ff }
+/* LiteralNumberIntegerLong */ .chroma .il { color: #a5d6ff }
+/* LiteralNumberOct */ .chroma .mo { color: #a5d6ff }
+/* Operator */ .chroma .o { color: #ff7b72; font-weight: bold }
+/* OperatorWord */ .chroma .ow { color: #ff7b72; font-weight: bold }
+/* Punctuation */ .chroma .p {  }
+/* Comment */ .chroma .c { color: #8b949e; font-style: italic }
+/* CommentHashbang */ .chroma .ch { color: #8b949e; font-style: italic }
+/* CommentMultiline */ .chroma .cm { color: #8b949e; font-style: italic }
+/* CommentSingle */ .chroma .c1 { color: #8b949e; font-style: italic }
+/* CommentSpecial */ .chroma .cs { color: #8b949e; font-weight: bold; font-style: italic }
+/* CommentPreproc */ .chroma .cp { color: #8b949e; font-weight: bold; font-style: italic }
+/* CommentPreprocFile */ .chroma .cpf { color: #8b949e; font-weight: bold; font-style: italic }
+/* Generic */ .chroma .g {  }
+/* GenericDeleted */ .chroma .gd { color: #ffa198; background-color: #490202 }
+/* GenericEmph */ .chroma .ge { font-style: italic }
+/* GenericError */ .chroma .gr { color: #ffa198 }
+/* GenericHeading */ .chroma .gh { color: #79c0ff; font-weight: bold }
+/* GenericInserted */ .chroma .gi { color: #56d364; background-color: #0f5323 }
+/* GenericOutput */ .chroma .go { color: #8b949e }
+/* GenericPrompt */ .chroma .gp { color: #8b949e }
+/* GenericStrong */ .chroma .gs { font-weight: bold }
+/* GenericSubheading */ .chroma .gu { color: #79c0ff }
+/* GenericTraceback */ .chroma .gt { color: #ff7b72 }
+/* GenericUnderline */ .chroma .gl { text-decoration: underline }
+/* TextWhitespace */ .chroma .w { color: #6e7681 }
+
+    
+
+
+
+
+
+    @import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+ h5{
+  font-style: italic;
+  margin-top:-10px;
+  color: #6d6d6d;
+}
+
+h6{
+  font-style: italic;
+  margin-top:-10px;
+  margin-bottom: 10px;
+  font-size:20px;
+  text-align: center;
+}
+
+* {
+  text-align: left;
+  text-justify: inter-word;
+}
+
+p {
+  text-indent: 25px;
+}
+
+.footnotes p {
+  text-indent: 0px;
+}
+
+.badge {
+  text-indent: 0px;
+}
+
+#proc_canvas { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-50px;
+    margin-top:-15px;
+}
+
+#canv{ 
+    width: 750px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+    border-radius: 25px;
+}
+
+
+#proc_canvas #myname { 
+    text-align: center;
+    position: relative;
+    bottom: 215px;
+}
+
+#myname h1, #myname a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:55px;
+    text-align: center;
+}
+
+#proc_canvas a {
+    text-decoration: none;
+}
+
+#proc_canvas a:hover {
+    font-style: normal;
+}
+
+#proc_canvas h1 { 
+    font-size: 55px;
+    text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
+    margin: 0;
+}
+
+#myname h1, #myname h1 a, #myname h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
+
+
+
+#proc_canvasmid { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-35px;
+    margin-top:-15px;
+}
+
+#canvmid{ 
+    width: 600px;
+    height: 250px;
+    position: relative;
+    margin: auto;
+    border-radius: 20px;
+}
+
+
+#proc_canvasmid #mynamemid { 
+    text-align: center;
+    position: relative;
+    bottom: 170px;
+}
+
+#mynamemid h1, #mynamemid a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:43px;
+    line-height:25px;
+    text-align: center;
+}
+
+#proc_canvasmid a {
+    text-decoration: none;
+}
+
+#proc_canvasmid a:hover {
+    font-style: normal;
+}
+
+#proc_canvasmid h1 { 
+    font-size: 43px;
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin: 0;
+}
+
+#mynamemid h1, #mynamemid h1 a, #mynamemid h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
+
+
+#proc_canvassmall { 
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin: auto;
+    padding:0em;
+    margin-bottom:-50px;
+    margin-top:-15px;
+}
+
+#canvsmall{ 
+    width: 350px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+#proc_canvassmall #mynamesmall { 
+    text-align: center;
+    position: relative;
+    bottom: 160px;
+}
+
+#mynamesmall h1, #mynamesmall a {
+    font-family: 'Varela Round', sans-serif;
+    font-size:35px;
+    line-height:30px;
+    text-align: center;
+}
+
+#proc_canvassmall a {
+    text-decoration: none;
+}
+
+#proc_canvassmall a:hover {
+    font-style: normal;
+}
+
+#proc_canvassmall h1 { 
+    font-size: 35px;
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin: 0;
+}
+
+#mynamesmall h1, #mynamesmall h1 a, #mynamesmall h1 a:hover { padding: 22px 0 0 0;
+    color: #FFF;
+    letter-spacing: -1px;
+    text-decoration: none;
+}
+
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: absolute;
+}
+
+
+.paige-title{
+    font-size:25px;
+}
+
+.display-5{
+    font-size:35px;
+}
+
+.paige-summary{
+    font-size:15px;
+}
+
+ /* phone */
+ @media only screen and (max-width: 600px) {
+     .largeScreen {display: none;}
+     .midScreen {display: none;}
+    #paige-main{
+        font-size:14px;
+    }
+    .suggestedlinks{
+      font-size:17px;
+    }
+    .suggestedsummary{
+      font-size:14px;
+    }
+}
+
+/* computer */
+ @media only screen and (min-width: 900px) {
+     .smallScreen {display: none;}
+     .midScreen {display: none;}
+
+    #paige-main{
+        font-size:18px;
+    }
+
+    .suggestedlinks {
+        font-size:20px;
+    }
+    .suggestedsummary{
+      font-size:16px;
+    }
+
+}
+
+/* tablet */
+ @media only screen and (min-width: 600px) and (max-width: 900px){
+     .smallScreen {display: none;}
+     .largeScreen {display: none;}
+
+    #paige-main{
+        font-size:16px;
+    }
+
+    .suggestedlinks{
+      font-size:18px;
+    }
+
+    .suggestedsummary{
+      font-size:14px;
+    }
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blockquote{
+  font-size:18px;
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+li {
+  margin-top: -0px;
+  text-align: center;
+}
+
+ul {
+  margin-top: -0px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.centerlinks{
+  padding-top:25px;
+  display: inline-block;
+  width:93%;
+  position: relative;
+
+}
+.centerlinks p {
+  line-height: 100%;
+  text-align: center;
+}
+
+.suggestedlinks{
+  text-align:center;
+  color: #FFF;
+}
+
+.suggestedtitle{
+  text-align:center;
+}
+
+.suggestedsummary{
+  text-align:center;
+  font-style: italic;
+  margin-top:-10px;
+}
+
+
+</style>
+
+
+    
+</head>
+
+    <body class="d-flex flex-column">
+
+        
+
+        <div class="container flex-fill" id="paige-root">
+            <div class="row">
+                <div class="col">
+                    
+
+
+
+
+
+
+    <header id="paige-header">
+        
+
+        
+            
+
+
+
+
+
+
+
+
+
+    
+
+
+<nav class="justify-content-center my-3 navbar navbar-expand-sm">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#paige-menu-toggler" aria-controls="paige-menu-toggler" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse justify-content-center mt-3 mt-sm-0 navbar-collapse" id="paige-menu-toggler">
+        <div class="align-items-center flex-column flex-sm-row justify-content-center nav  nav-pills ">
+            
+                
+                
+                
+
+                <a  class=" nav-link" href="/">Home</a>
+            
+                
+                
+                
+
+                <a  aria-current="page"  class=" active   nav-link" href="/posts/">Posts</a>
+            
+                
+                
+                
+
+                <a  class=" nav-link" href="/about/">About</a>
+            
+                
+                
+                
+
+                <a  class=" nav-link" href="/tags/">Tags</a>
+            
+        </div>
+    </div>
+</nav>
+
+        
+
+        
+    </header>
+
+
+
+                    <main id="paige-main">
+                        
+
+                        
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        
+    
+
+
+
+
+<article class="paige-article paige-published paige-single">
+    <div class="align-items-center d-flex flex-column mb-0">
+        
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="paige-metadata w-100">
+    
+        <h1 class="display-5 fw-bold  text-center"  id="paige-title" >Parts are created from trauma, not necessarily abuse</h1>
+    
+
+    
+
+    
+        <p class=" text-center"  id="paige-terms" >
+            
+
+            
+                
+            
+
+            
+                
+            
+                
+            
+                
+            
+
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/categories/"></a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/did/">DID</a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/mechanism/">mechanism</a>
+            
+                <a class="badge paige-term text-bg-secondary text-decoration-none" href="/tags/narrative/">narrative</a>
+            
+        </p>
+    
+
+    
+        <div class="mb-3">
+            
+
+            
+                <p class="mb-0  text-center text-secondary"  id="paige-date" >
+                    
+
+                    <time datetime="2023-03-09">March 9, 2023</time>
+
+                    
+                </p>
+            
+
+            
+                <p class="mb-0  text-center text-secondary"  id="paige-reading-time" >5 minutes</p>
+            
+        </div>
+    
+</div>
+
+
+        
+
+
+
+
+
+    
+    
+
+
+
+
+        
+
+
+
+
+
+    
+    
+
+
+
+
+
+    <div class="mw-100 overflow-x-auto "  id="paige-content" ><p>Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life.</p>
+<p>One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
+Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks&rsquo; index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
+<p>Why could this be the case? Why do I create parts when I travel? Looking back at my life story, it actually makes a lot of sense.
+My first several years of life involved a lot of traveling. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad&rsquo;s job.
+As a perk of being an expat, my dad&rsquo;s job paid for two vacations a year&mdash;one for rest and relaxation, and another to visit family.
+Because of this, by my 5th birthday, I had been to 11 different countries between 4 continents, all on separate trips.</p>
+<p>This sounds like an incredibly fortunate childhood, and while it was, it was also very stressful for me.
+As an autistic person, I regulate myself by following a strict routine. As an adult, changes in plans are very dysregulating, and usually leave me in a detached dissociated state with difficulty picking up the newly created plans.
+I can only imagine how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine.
+I had no option&mdash;my family chose to travel, and since within my family structure the emotional landscape was already dominated by others, I had to be an easy child and submit to whatever they wanted. This led to me dissociating and creating parts to handle the traveling for me.</p>
+<p>This past summer, I went to my first conference while aware that I create parts this way.
+The night leading up to the event, I remember absolutely dreading the trip, wishing I could back out but knowing that I couldn&rsquo;t. Then, when the time came, I genuinely enjoyed the conference&mdash;the right part showed up for the job. I did, in fact, create a part for this trip, and this was the first part that I was self-aware I was creating. I had no control over it; instead, I observed its creation as I walked into the hotel lobby to check in. A new persona emerged, and was ready to take on whatever routine was required of me for my week-long conference that was just getting started. With that part as the dominant part, other parts came out periodically to do what was required of me, like networking, socializing, and presenting. But this newly created part was the star of the show, helping me create a solid routine I could stick to throughout the week to help keep me regulated. Then, on the last day, once again the dread came&mdash;this time, I, as the newly created part, didn&rsquo;t want to change my routine back again as I was only familiar with the one I had created. However, when I arrived in my apartment after a long journey back, a different part switched in and I was so glad to be home and back again in my standard routine.</p>
+<p>We traveled to many beautiful locations in my early childhood, and I truly appreciate all the culturally enriching experiences I acquired, which I believe to this day have helped shaped my worldview. I do, however, wish that my parents were more aware of how stressful this was for me as a child. I did not understand the significance of the locations we would visit, and felt as though I was being dragged from place to place without understanding what was going on around me. In pictures of our family vacations, it&rsquo;s clear that I am dissociating&mdash;many of them show me with a blank expression with my eyes glazed over. I learned to regulate myself by dissociating, detaching from the world around me. And these repeated experiences of traveling = part creation have continued throughout my life, increasingly fragmenting my awareness when I take trips.</p>
+<p>I believe this is a good example of how trauma, but not necessarily abuse, can lead to the formation of DID.
+I would not consider traveling as much as we did abuse, but it was traumatic because it was too much for me to handle at the developmental stages it occurred in.
+One could argue that this was neglect or negligence&mdash;that my parents weren&rsquo;t attuned to my emotional needs at the time.
+However, it does not fit into the category of extreme abuse that is often attributed to the creation of DID.
+While I do not believe this was the only trauma that caused me to form DID, and some of those traumas would be considered abuse,
+traveling in the way that we did when I was small had a major impact on how I create parts, and is perhaps the most influential mechanism of part creation in my adult life.</p>
+<!--
+
+One part of me is very grateful that I had traveled so much in my childhood because that meant that I had already seen everything I would ever to in life and would never have to travel again. That part of me sees vacations a check box to complete, rather than an experience to enjoy. This line of thinking was influenced by the stress I 
+
+
+ I, as the newly created part, did not want to change my routine back again.
+
+I was a very well traveled child, and while I used to think of this as an amazing opportunity 
+I even in my adult life, and is perhaps the most influential 
+
+
+One could argue that this was neglect, not abuse.
+
+
+With that being said, in my adult life at least, I do enjoy vacations---I'd create a part to enjoy them for me as the me that deals with every day life does not like interruptions.
+
+One part of me was very happy that I had traveled so much as a child because that would mean that I wouldn't 
+My understanding of vacations was that they were a check box to complete, rather than an experience to enjoy.
+With that being said, I did enjoy them---I'd create a part to enjoy them for me as the me that deals with every day life does not like interruptions.
+With that being said, I did enjoy them---I'd create a part to enjoy them for me as the me that deals with every day life does not like interruptions.
+
+I did not understand the significance of the locations I was being 
+
+
+My system is very chaotic---I seem to split parts in complex 
+
+As I understand it, one can create parts to respond to stressors in their environment.
+
+To me, traveling is stressful. And incredibly unpredictable. When I was young, I didn't know what was going on in the environment around me as my parents moved me from landmark to landmark that I didn't understand the significance of. 
+
+By the time I was 5 years old, I had been to 11 different countries between 4 continents, all on separate trips. I did not understand the significance of the locations I was being 
+
+One of the first mechanisms of creating parts 
+
+I have kept detailed work journals for 
+Something I've always done 
+
+At first, it didn't make sense to me 
+Over time, it became obvious why.
+
+
+As a polyfragmented system, I seem to split parts
+Early into my discovery journey, something puzzled me. I learned pretty quicky 
+
+My first several years of life were very chaotic. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad's job. 
+For my whole life up to that point, while my handwriting was floridly changing, I never had questioned it or honestly really noticed it. Now, I am very thankful that I have a solid visual indicator for which parts of me were active at different times of my life.
+-->
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts&rsquo; handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+</div>
+
+
+    </div>
+</article>
+
+
+
+
+    
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+                        
+                    </main>
+
+                    
+
+<footer class="mb-3" id="paige-footer">
+    
+
+    
+
+    <p class="mb-0 text-center" id="paige-credit">
+        <a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>
+    </p>
+
+    
+</footer>
+
+                </div>
+            </div>
+        </div>
+
+        
+
+<script>
+function paigeResize() {
+    var e = document.querySelector("#paige-content");
+    if (!e) {
+        e = document.querySelector(".paige-content");
+        if (!e) {
+            return;
+        }
+    }
+    var mw = getComputedStyle(e).maxWidth;
+    var w;
+    if (mw === "100%") {
+        var e = document.querySelector("#paige-root");
+        var s = getComputedStyle(e);
+        var px = parseFloat(s.paddingLeft) + parseFloat(s.paddingRight);
+        var bx = parseFloat(s.borderLeftWidth) + parseFloat(s.borderRightWidth);
+        w = e.offsetWidth - px - bx;
+    } else {
+        w = parseFloat(mw.substring(0, mw.length - 2));
+    }
+    var es = document.querySelectorAll(".paige-video");
+    for (var i = 0; i < es.length; i++) {
+        var e = es[i];
+        if (!e.style.height && !e.style.width) {
+            e.style.width = w + "px";
+        }
+    }
+}
+paigeResize();
+addEventListener("resize", paigeResize);
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+<script  crossorigin="anonymous"   defer  integrity="sha256-shpZ1a72o11IW90M37GvEIuboj82ESojpYh6pqgIBfA="   referrerpolicy="no-referrer"  src="/paige/bootstrap/bootstrap.bundle.min.b21a59d5aef6a35d485bdd0cdfb1af108b9ba23f36112a23a5887aa6a80805f0.js"></script>
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+<noscript>JavaScript is required.</noscript>
+
+
+        
+    </body>
+</html>
