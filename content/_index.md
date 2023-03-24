@@ -1,5 +1,5 @@
 ---
-title: "Life; compartmentalized"
+title: "Life compartmentalized"
 layout: "paige/home"
 paige:
   home:
@@ -18,17 +18,38 @@ On this site, I share my story and document my understanding of what factors sha
 
 <br>
 
-<!--
 {{% center %}}
 {{% suggested %}}
 Suggested posts:
 {{% /center %}}
 
+
+{{% suggestedtitle%}}
 [It's not about identity](posts/notaboutidentity/)
+{{% /suggestedtitle%}}
+{{% suggestedsummary%}}
+DID is a coping mechanism in response to early childhood trauma. I describe how it works and why it is protective using an example.
+{{% /suggestedsummary%}}
 
+{{% suggestedtitle%}}
 [Why do I call myself "polyfragmented"?](posts/polyfragmented/)
+{{% /suggestedtitle%}}
+{{% suggestedsummary%}}
+I describe how my presentation of DID may be different from a more typical case of DID.
+{{% /suggestedsummary%}}
 
+{{% suggestedtitle%}}
 [Parts are created from trauma, not necessarily abuse](posts/traveling/)
+{{% /suggestedtitle%}}
+{{% suggestedsummary%}}
+I provide an example mechanism for how I create parts which wouldn't necessarily be considered abuse, but was traumatic for me in my early childhood.
+{{% /suggestedsummary%}}
 
+{{% suggestedtitle%}}
 [Anxiety](posts/anxiety/)
--->
+{{% /suggestedtitle%}}
+{{% suggestedsummary%}}
+I describe how I experience anxiety, which is an emotion I learned to dissociate from.
+{{% /suggestedsummary%}}
+
+{{% /suggested %}}
