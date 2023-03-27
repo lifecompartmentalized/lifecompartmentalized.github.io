@@ -28,7 +28,7 @@ Suggested posts:
 [It's not about identity](posts/notaboutidentity/)
 {{% /suggestedtitle%}}
 {{% suggestedsummary%}}
-DID is a coping mechanism in response to early childhood trauma. I describe how it works and why it is useful using an example.
+DID is a coping mechanism in response to early childhood trauma. I describe how it works, why it is useful, and some of my experiences with it.
 {{% /suggestedsummary%}}
 
 {{% suggestedtitle%}}

@@ -38,7 +38,6 @@ My system isn't neatly organized and structured. It's chaotic, messy, and unknow
 [^6]: I use _switch_ to denote a hard, discrete change between parts, which usually occurs when I'm triggered and can be disorienting. I use _shift_ to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.
 [^10]: I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.
 
-
 Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. 
 I have had DID my entire life, and I have, for the most part, lived an enjoyable and conventionally successful life despite this. I know no other way of living---this is normal to me. 
 However, because of my system structure, I struggle with many aspects of time and memory[^8], such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
@@ -46,7 +45,7 @@ Only since learning that I have DID and gaining the language to describe my expe
 
 [^8]: My symptoms include more than just time and memory problems, but those aren't explicitly due to my system structure, and may be addressed in later posts.
 
-It's taken me just over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
+It's taken me just over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. 
 Internally, I feel fine, and generally okay. When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
 My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I'm getting through.
 
@@ -54,6 +53,16 @@ My body is designed to deal with trauma, and learning about and working with my 
 Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I've always lived this way---I just wasn't aware about it until now.
 
 <!--
+
+I'm only at the beginning of my journey to discovering how I operate, and I'm learning more about my system every day. 
+
+At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
+
+I am not a singular part, with other parts being "other" to me, which is how some people seem to conceptualize having DID.
+Rather, I am all of my parts, and all of my parts are me. These parts seem to represent pieces of the whole me. My life is fragmented into many different compartments that I switch between. Depending on which compartment I am in, I will have a different internal experience. For the most part, externally, there is not much differentiation between my parts. You will likely not be able to tell when one part is out vs a different part is out.
+
+
+
 Many of my parts share memory and are cooperative with one another.
 Right now, as I write this, 
 up until recently, I was just as dysfunctional, but I didn't know I was because I didn't know I had DID and daily amnesia. Now that I am much more aware of what is going on in my life, I have full confidence that I will become more functional again soon. I have been very functional living with this disorder in the recent past, so I have full faith I'll get there again, this time with much more awareness of how I operate.
