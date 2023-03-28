@@ -49,19 +49,6 @@
                 
                 
                 
-                    <guid>https://example.com/tags/polyfragmented/</guid>
-                    <link>https://example.com/tags/polyfragmented/</link>
-                
-                
-                
-                    <title>polyfragmented</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
                     <guid>https://example.com/tags/symptoms/</guid>
                     <link>https://example.com/tags/symptoms/</link>
                 
@@ -75,12 +62,51 @@
                 
                 
                 
+                    <guid>https://example.com/tags/anger/</guid>
+                    <link>https://example.com/tags/anger/</link>
+                
+                
+                
+                    <title>anger</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
                     <guid>https://example.com/tags/narrative/</guid>
                     <link>https://example.com/tags/narrative/</link>
                 
                 
                 
                     <title>narrative</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/polyfragmented/</guid>
+                    <link>https://example.com/tags/polyfragmented/</link>
+                
+                
+                
+                    <title>polyfragmented</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/tags/anxiety/</guid>
+                    <link>https://example.com/tags/anxiety/</link>
+                
+                
+                
+                    <title>anxiety</title>
                 
             </item>
         

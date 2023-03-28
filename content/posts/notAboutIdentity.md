@@ -29,7 +29,7 @@ Sometimes, instead of fully taking over, these compartments intrude on my awaren
 For a long time, I was adamant that I did not experience identity alteration. I'm now realizing that while I do have many compartments that all seem to identify as "me", some compartments are so far removed from present time and context that, when I am in them, I do not perceive myself as being the adult me I actually am. 
 The identity alteration I do experience is incredibly subtle, and is much more an internal phenomena than an external one---an external observer will most likely not be able to tell apart my parts [^4]. These parts are just different versions of me, so even with the identity alteration I do have, I see these parts as all being _me_.
 
-[^4]: For the most part, I can't even tell apart my parts. This is something that I'm sure I will get better at with time, as I get more acquainted with how I operate.
+[^4]: For the most part, I still can't even tell apart my parts. This is something that I'm sure I will get better at with time, as I get more acquainted with how I operate.
 
 So DID is really not _about_ identity, even if that's the most sensationalized part of the disorder. I personally see the identity alteration and switching/influence of multiple personality states as merely a side effect of a brilliant psychological defense mechanism in response to early childhood trauma. But while it's not about identity explicitly, the fact that one has several distinct identities[^3] as opposed to a single unified one can be a major component to the disorder that may severely affect, both positively and negatively, how one experiences life with DID. 
 

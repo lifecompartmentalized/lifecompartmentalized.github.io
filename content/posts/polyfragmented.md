@@ -46,7 +46,7 @@ Only since learning that I have DID and gaining the language to describe my expe
 [^8]: My symptoms include more than just time and memory problems, but those aren't explicitly due to my system structure, and may be addressed in later posts.
 
 It's taken me just over a year of therapy to get to the awareness I have today, and I know there's so much more I'm unaware of. 
-Internally, I feel fine, and generally okay. When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
+When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview. 
 My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I'm getting through.
 
 

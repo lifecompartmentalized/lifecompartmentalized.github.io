@@ -45,11 +45,13 @@ I describe how my presentation of DID may be different from a more typical case 
 I provide an example mechanism for how I create parts which wouldn't necessarily be considered abuse, but was traumatic for me in my early childhood.
 {{% /suggestedsummary%}}
 
+<!--
 {{% suggestedtitle%}}
 [Anxiety](posts/anxiety/)
 {{% /suggestedtitle%}}
 {{% suggestedsummary%}}
 I describe how I experience anxiety, which is an emotion I learned to dissociate from.
 {{% /suggestedsummary%}}
+-->
 
 {{% /suggested %}}

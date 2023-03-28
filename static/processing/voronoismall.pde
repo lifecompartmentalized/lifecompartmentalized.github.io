@@ -1,31 +1,3 @@
-/** 
- *
- * Interactive Voronoi Diagram
- *
- * This is a program that makes an interactive Voronoi diagram.
- * This version is made specifically for the header of my site.
- *
- * Add points by clicking anywhere on the display. Press the 'n' key to change
- * metrics. Press the 'r' key to clear the plane of points. Alternatively, 
- * you can use the following keys to change metrics:
- *      0   Chebyshev distance
- *      1   Manhattan distance
- *      2   Euclidean distance
- *
- * @see Point
- *
- * @author Sarah Greer
- * www.sygreer.com
- *
- * NOTE: The primary reason I made this was to see the effect of using 
- * different metrics on the generated diagram. As a result, I use a relatively 
- * greedy pixel-by-pixel traversal to generate the figure, as opposed to some 
- * of the more elegant and efficient algorithms to generate Voronoi diagrams, 
- * which seemed more geared to using a single metric. However, since this is 
- * only a toy example, the method I use should be sufficient.
- *
- */
-
 ArrayList<Point> points; // store points in array list
 int n;                   // metric flag
 
@@ -146,13 +118,6 @@ void keyPressed() {
 }
 
 
-/**
- * Voronoi Point
- * This defines a specific point on the plane
- *
- * @author Sarah Greer
- * www.sygreer.com
- */
 class Point{
   int x, y;     // x and y coordinate
   color c;      // color
