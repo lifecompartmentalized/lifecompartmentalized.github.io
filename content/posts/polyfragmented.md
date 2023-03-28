@@ -31,7 +31,7 @@ I also do not only split parts due to trauma---I seem to create parts to allevia
 Rather than working with one part at a time, I'm working with clusters of parts at any given time[^5]. 
 I do not seem to have a "host", or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in an approximate cyclical pattern.
 My parts do not have names---they have labels[^1].
-I shift and switch between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living[^10]. 
+I shift and switch[^6] between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living[^10]. 
 Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day.
 My system isn't neatly organized and structured. It's chaotic, messy, and unknown.
 [^5]: Some people call these subsystems. I seem to have many layers of compartmentalization---my parts have their own parts.

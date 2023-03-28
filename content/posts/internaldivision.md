@@ -1,7 +1,7 @@
 ---
 title: "Internal division"
 date: 2023-03-27T17:07:28-04:00
-draft: false
+draft: true
 categories: ['']
 tags: ['DID','symptoms'] 
 ---
