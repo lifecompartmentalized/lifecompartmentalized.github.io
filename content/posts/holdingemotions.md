@@ -2,13 +2,13 @@
 title: "Inadvertantly displaying my emotions"
 date: 2023-03-28T16:30:21-04:00
 draft: false
-categories: ['']
+categories: ['DID', 'symptoms', 'narrative']
 tags: ['']
 ---
 
-I like to go on evening walks for exercise. I typically walk one of a few routes
+Imagine if, without your awareness, your deepest, most repressed thoughts and feelings were displayed for the world to see. With how my DID presents, this is something that occurs quite frequently for me. Because much of my most difficult emotions are separated from the core me, I am usually unaware of them until they surface and they're in the forefront of my awareness. Then, after they are over, I typically forget that these dissociative episodes ever happened. This has led to me into many scary and sometimes dangerous situations, which typicaly leave me puzzled by what is happening in the world around me.
 
-One day this past summer, I walked by a person who had some of the same characteristics as someone who caused me harm in the past. I walked by this individual without awareness that I was at all triggered. Then, in a split second, they started yelling at me. 
+As an example, I like to go on evening walks for exercise. I typically walk one of a few routes in the densely populated city I live in. One day this past summer, I walked by a person who had some of the same characteristics as someone who caused me harm in the past. I walked by this individual without awareness that I was at all triggered. Then, in a split second, they started yelling at me. 
 
 "You're scared of me, huh? What do you have to be scared about?"
 
@@ -24,6 +24,23 @@ I sped up walking and continued ignoring them. I felt very calm while this was h
 
 As it turns out, a part of me _was_ scared of them. When I saw that person, that part became so scared, that they momentarily took control of my face and made a scared microexpression, directed at that person. However, I had no awareness that I was scared of them or that I had made any facial expression. This is because the parts of me who were on my evening walk had amnesia for the part of me that was scared of the person, so from the perspective of the part of me that was going on a walk, I had no idea that anything abnormal was happening, while the scared part was simultaneously terrified.
 
+Over the next few days, I intentionally went on my evening walk, purposefully walking past the location of the event to ensure I didn't associate anything negative with it. The parts of me walking felt perfectly fine, and I didn't realize anything was off. 
+Then, within a week, without realizing it, I stopped going on my evening walks. A month went by, and I still avoided walking, but it didn't even occurr to me that I stopped.
+I went from walking every day for months to only leaving my apartment when absolutely necessary. I didn't feel any fear associated with walking or leaving my apartment, but it was clearly there, dictating my behavior. It took over a month for me to realize anything was wrong, and once I pondered why I was no longer walking the reason became obvious---a part of me was still clearly scared of what had happened on that walk. 
+In order to get back to my walking routine, I gradually had to show that part that we were safe, and that that wasn't going to happen again, and even if it did, there were other parts who could take care of the situation like we had done last time. With this awarness in mind, over time, I managed to get back to doing my evening walks.
+
+
+
 <!--
+
+
+---my months long routine of going on an eveng walk ended, and I genuinely didn't even notice. I felt no fear associated with walking, but my behavior was controlled by the fear of that event occurring again, held by a part of me who wasn't connected with the core me.
+
+About a month into stopping, I suddenly realized that I hadn't gone on a walk in a long time.
+However, beyond my awareness, a part was terrified.  
+
+ being mindful of my surroundings. I forced myself to walk past the location of the event again, trying to disassociate it with fear. 
+
+I feel as though this is a classic example for how I ---my deepest emotions and fears, that I am not even aware of, can show up on my face for others to see without me even realizing it. 
 One of the ways I experience DID is that the parts of me who hold onto traumatic memories and emotions are separated from the parts of me who 
 -->

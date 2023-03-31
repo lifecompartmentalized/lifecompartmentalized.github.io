@@ -27,7 +27,7 @@ I believe that because I have DID, my dynamic range of emotions is very shallow-
 However, this separation of anger and other emotions leads to a less full life, including amnesia, behavior that feels out of my control when I'm triggered, along with stunted "good" emotions, like happiness and excitement. By using dissociation, I've traded experiencing a full range of emotions for internal stability. This served me well in the past, but in the future I'd like to live a more full, complete life---one that does not rely on dissociative coping mechanisms.
 
 While I now see anger as a valuable emotion, my learned patterns of removing it from my awareness continue, so still I have difficulty accessing it. 
-My understanding of anger comes from a theoretical view---I can intellectually understand it, but I do not believe I have ever felt anger before. With time, I hope that will change.
+My understanding of anger comes from a theoretical view---I can intellectually understand it, but I do not believe I have felt genuine anger before. With time, I hope that will change.
 
 <!--
 Anger is an emotion I learned to dissociate away from a very young age. 
