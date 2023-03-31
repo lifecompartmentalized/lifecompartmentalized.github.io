@@ -31,7 +31,9 @@ the distinction between experiencing emotional amnesia or having a "normal" memo
 
 Regardless of the type of amnesia I experience, I definitely do experience a shuffling of memories---I do not have a continuous, linear understanding of my life. For example, it may be hard for me to differentiate what occurred last week vs what occurred years ago, and sometimes things that occurred months ago feel more current to me than things that occurred even yesterday. As always, this seems to be justified by my understanding of how I operate---if I'm in a compartment of memory that was last active a few months ago, those memories are more at the forefront of my awareness than memories formed in a different compartment yesterday. 
 
-I'm still early on in my DID discovery journey, so my understanding of how I experience amnesia will likely change over time as I learn more about how I operate. This post is a snapshot in time of my awareness of how I operate a little over one year after starting therapy.
+I'm still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate. 
+The way I experience amnesia seems to be more nuanced and complex than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.
+I hope this post serves as a snapshot in time of my awareness of how I operate a little over one year after starting therapy.
 
 
 <!--

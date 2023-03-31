@@ -2,7 +2,7 @@
 title: "Inadvertantly displaying my emotions"
 date: 2023-03-28T16:30:21-04:00
 draft: false
-categories: ['DID', 'symptoms', 'narrative']
+categories: ['DID', 'symptoms', 'narrative', 'amnesia']
 tags: ['']
 ---
 
