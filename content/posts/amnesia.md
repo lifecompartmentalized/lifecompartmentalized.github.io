@@ -14,7 +14,7 @@ But amnesia is tricky---I don't know what I don't remember, so most of the time 
 I believe I experience amnesia in a few ways.
 The most innocuous type that I experience seems due to me having constricted awareness---each of my parts seems to act as a compartment of memory, so when I'm in one compartment it may be difficult for me to index memories that occurred when I was in a different compartment of memory. 
 For example, if my partner talks about a hike we went on a few months ago when I'm in a task-based compartment for cleaning, I may not remember the hike, but I may eventually get a very vague memory of it if they prompt me about it further. If I see a picture of us on the hike, it may help queue my memory of it more, but it still isn't a complete memory like it would be if I were in the compartment that was actually there on that hike.
-I think this is because hiking and cleaning occupy two entirely different compartments of my life; there's little in common between the two, and my constricted awareness makes it so that these memories aren't shared well between the two parts. This seems to be a version of state-dependent memory.
+I believe this is because hiking and cleaning occupy two entirely different compartments of my life; there's little in common between the two, and my constricted awareness makes it so that these memories aren't shared well between the two parts. This seems to be a version of state-dependent memory.
 
 I also experience full amnesia between parts. That is, I will not have access to any of the memories of one compartment when I'm in a different compartment. This typically seems to occur between compartments that hold trauma memories and ones that do not, but I also seem to experience this between non-trauma holding parts, and I'm not yet sure why.
 
@@ -32,7 +32,7 @@ the distinction between experiencing emotional amnesia or having a "normal" memo
 Regardless of the type of amnesia I experience, I definitely do experience a shuffling of memories---I do not have a continuous, linear understanding of my life. For example, it may be hard for me to differentiate what occurred last week vs what occurred years ago, and sometimes things that occurred months ago feel more current to me than things that occurred even yesterday. As always, this seems to be justified by my understanding of how I operate---if I'm in a compartment of memory that was last active a few months ago, those memories are more at the forefront of my awareness than memories formed in a different compartment yesterday. 
 
 I'm still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate. 
-The way I experience amnesia seems to be more nuanced and complex than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.
+The way I experience amnesia seems to be more nuanced than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.
 I hope this post serves as a snapshot in time of my awareness of how I operate a little over one year after starting therapy.
 
 
