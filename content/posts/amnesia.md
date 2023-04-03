@@ -9,7 +9,7 @@ tags: ['DID', 'symptoms', 'narrative', 'amnesia']
 
 DID is very much internal disorder. That is, unless I tell you I have it, you wouldn't know [^1]. One of the ways DID affects my internal experience is that I have significant gaps in my memory, both of my past childhood, and of my present adulthood.
 But amnesia is tricky---I don't know what I don't remember, so most of the time I don't realize I've forgotten anything.
-[^1]: Unless I'm triggered into a dissociative episode, which is very unlikely to happen.
+[^1]: Unless you catch me in a dissociative episode, which is very unlikely to happen. 
 
 I believe I experience amnesia in a few ways.
 The most innocuous type that I experience seems due to me having constricted awareness---each of my parts seems to act as a compartment of memory, so when I'm in one compartment it may be difficult for me to index memories that occurred when I was in a different compartment of memory. 
@@ -20,16 +20,12 @@ I also experience full amnesia between parts. That is, I will not have access to
 
 Within full amnesia, I seem to exhibit two types. The first is when I experience a discrete jump in my awareness when I switch between compartments where I have no idea what was happening just before the switch. This causes an obvious jump in my awareness, and may make it more noticeable that I have amnesia. I might find myself, all of a sudden, in a different room than I remember being in just a second ago, when in reality another part had moved me to that room outside of my awareness[^5]. I experienced this when I was younger[^2], but not as much as I've gotten older. Now, I more so seem to have a sliding-window type memory---rather than a discrete jump in awareness, my memory of what happened gradually disappears over several minutes after a switch. This leads to a perceived smoother transition between parts, making my memory loss less obvious to me.
 
-[^5]: Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home, so the scariest thing might be I realize I was on the couch in my living room when I thought I was in the kitchen.
+[^5]: Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home, so the scariest thing might be I find myself hiding under the blanets of my bed when I thought I was in my kitchen.
 [^2]: This, along with other symptoms, led to me receiving a dissociative disorder diagnosis as a pre-teen. 
 
-Another type of amnesia that some people with dissociative disorders report[^3] is emotional amnesia, where they remember the events of what happened when they're in a different compartment, but don't have the associated emotions attached with that memory. I believe I experience this too, but because of the structure of my DID, I believe almost all of my memories do not have associated emotions attached to them[^6]. This seems to be my normal memory, so for me 
-the distinction between experiencing emotional amnesia or having a "normal" memory isn't clear. I don't believe I often experience strong emotions[^4], though, so I'm not sure if I'm experiencing some sort of amnesia or if I just don't have the associated emotions to encode in my memories. 
-[^4]: I don't remember what I don't remember, so maybe I do experience strong emotions more than I think; I'm honestly not sure.
-[^3]: I learned about this from r/DID and r/OSDD on Reddit
-[^6]: Also, most, if not all, of my memories seem to be in third person, even if they aren't trauma related. This may be why I don't have the first-person perspective of emotion attached to them.
-
-Regardless of the type of amnesia I experience, I definitely do experience a shuffling of memories---I do not have a continuous, linear understanding of my life. For example, it may be hard for me to differentiate what occurred last week vs what occurred years ago, and sometimes things that occurred months ago feel more current to me than things that occurred even yesterday. As always, this seems to be justified by my understanding of how I operate---if I'm in a compartment of memory that was last active a few months ago, those memories are more at the forefront of my awareness than memories formed in a different compartment yesterday. 
+Regardless of the type of amnesia I experience, I experience shuffling of memories and time jumps---I do not have a continuous, linear understanding of my life. For example, it may be hard for me to differentiate what occurred last week vs what occurred years ago, and sometimes things that occurred months ago feel more current to me than things that occurred even yesterday. As always, this seems to be justified by my understanding of how I operate---if I'm in a compartment of memory that was last active a few months ago, those memories are more at the forefront of my awareness than memories formed in a different compartment yesterday. 
+This leads to a lot of confusing experiences, like looking out of my window and expecting it to be winter but seeing that it's actually summer, or all of a sudden noticing that the furniture in my apartment has moved from what I last remember, or looking at my plants and being amazed by how much they had grown because I remembered them being much smaller.
+These sorts of experiences occur on an a weekly to daily basis for me.
 
 I'm still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate. 
 The way I experience amnesia seems to be more nuanced than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.
@@ -38,8 +34,17 @@ I hope this post serves as a snapshot in time of my awareness of how I operate a
 
 <!--
 
+
 How does one know if the way they experience the world is _normal_? It never even occurred to me that aspects my experience could be considered disordered until recently. Now that I'm aware, so much of my life makes sense. 
 
+
+These experiences can be explained by me switching between compartments of memory that I haven't been in in a while, and occur on an a weekly to daily basis for me.
+
+Another type of amnesia that some people with dissociative disorders report[^3] is emotional amnesia, where they remember the events of what happened when they're in a different compartment, but don't have the associated emotions attached with that memory. I believe I experience this too, but because of the structure of my DID, I believe almost all of my memories do not have associated emotions attached to them[^6]. This seems to be my normal memory, so for me 
+the distinction between experiencing emotional amnesia or having a "normal" memory isn't clear. I don't believe I often experience strong emotions[^4], though, so I'm not sure if I'm experiencing some sort of amnesia or if I just don't have the associated emotions to encode in my memories. 
+[^4]: I don't remember what I don't remember, so maybe I do experience strong emotions more than I think; I'm honestly not sure.
+[^3]: I learned about this from r/DID and r/OSDD on Reddit
+[^6]: Also, most, if not all, of my memories seem to be in third person, even if they aren't trauma related. This may be why I don't have the first-person perspective of emotion attached to them.
 
 
 In fact, one way I can differentiate between my parts is by 

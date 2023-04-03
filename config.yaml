@@ -1,9 +1,9 @@
 theme: "paige"
-baseurl: "https://example.com"
+baseurl: "lico.blog"
 copyright: ""
 enablerobotstxt: true
 languagecode: "en-us"
-timezone: "America/Los_Angeles"
+timezone: "America/New_York"
 titlecasestyle: "Go"
 
 

@@ -42,7 +42,7 @@ I describe how my presentation of DID may be different from a more typical case 
 [Parts are created from trauma, not necessarily abuse](posts/traveling/)
 {{% /suggestedtitle%}}
 {{% suggestedsummary%}}
-I provide an example mechanism for how I create parts which wouldn't necessarily be considered abuse, but was traumatic for me in my early childhood.
+I provide an example mechanism for how I create parts, which formed to help me cope with trauma in my early childhood.
 {{% /suggestedsummary%}}
 
 <!--
