@@ -6,7 +6,7 @@ categories: ['DID', 'symptoms', 'narrative']
 tags: ['']
 ---
 
-Imagine if, without your awareness, your deepest, most repressed thoughts and feelings were displayed for the world to see. With how my DID presents, this is something that occurs quite frequently for me. Because much of my most difficult emotions are separated from the core me, I am usually unaware of them until they surface and they're in the forefront of my awareness. Then, after they are over, I typically forget that these dissociative episodes ever happened. This has led to me into many scary and sometimes dangerous situations, which typically leave me puzzled by what is happening in the world around me.
+Imagine if, without your awareness, your deepest, most repressed thoughts and feelings were displayed for the world to see. With how my DID presents, this is something that occurs quite frequently for me. Because much of my most difficult emotions are separated from the core me, I am usually unaware of them until they surface and they're in the forefront of my awareness. Then, after they are over, I may forget that these dissociative episodes ever happened. This has led to me into many scary and sometimes dangerous situations, which typically leave me puzzled by what is happening in the world around me.
 
 As an example, I like to go on evening walks for exercise. I typically walk one of a few routes in the densely populated city I live in. One day this past summer, I walked by a person who had some of the same characteristics as someone who caused me harm in the past. I walked by this individual without awareness that I was at all triggered. Then, in a split second, they started yelling at me. 
 

@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/polyfragmented/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://www.lico.blog/tags/polyfragmented/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>polyfragmented</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>https://example.com/tags/polyfragmented/</link>
+        <link>http://www.lico.blog/tags/polyfragmented/</link>
         
         
             <title>polyfragmented</title>
@@ -46,12 +46,12 @@ I also do not only split parts due to trauma&mdash;I seem to create parts to all
 <p>Rather than working with one part at a time, I&rsquo;m working with clusters of parts at any given time<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.
 I do not seem to have a &ldquo;host&rdquo;, or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in an approximate cyclical pattern.
 My parts do not have names&mdash;they have labels<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
-I shift and switch between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>.
+I shift and switch<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.
 Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day.
 My system isn&rsquo;t neatly organized and structured. It&rsquo;s chaotic, messy, and unknown.</p>
 <p>Now, while this may sound like a difficult way to live&mdash;and in many aspects it certainly is&mdash;I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me.
 I have had DID my entire life, and I have, for the most part, lived an enjoyable and conventionally successful life despite this. I know no other way of living&mdash;this is normal to me.
-However, because of my system structure, I struggle with many aspects of time and memory<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>, such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger.
+However, because of my system structure, I struggle with many aspects of time and memory<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>, such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger.
 Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.</p>
 <p>It&rsquo;s taken me just over a year of therapy to get to the awareness I have today, and I know there&rsquo;s so much more I&rsquo;m unaware of.
 When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview.
@@ -151,34 +151,37 @@ I have many task-based parts, or parts that serve a specific job in my life, whi
 Additionally, when I experience something traumatic, I seem to create many parts in a sequential manner, which leads to a lot of parts being created for a single event. 
 I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged[^7]. 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>I came to this conclusion from r/DID and r/OSDD on Reddit&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>until I stop relying solely on dissociation as a coping mechanism, which I&rsquo;m actively working on doing in therapy.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>Some people call these subsystems. I seem to have many layers of compartmentalization&mdash;my parts have their own parts.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn&rsquo;t feel comfortable for me.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5">
-<p>I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:5" role="doc-endnote">
+<p>I use <em>switch</em> to denote a hard, discrete change between parts, which usually occurs when I&rsquo;m triggered and can be disorienting. I use <em>shift</em> to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:6">
-<p>My symptoms include more than just time and memory problems, but those aren&rsquo;t explicitly due to my system structure, and may be addressed in later posts.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:6" role="doc-endnote">
+<p>I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7" role="doc-endnote">
+<p>My symptoms include more than just time and memory problems, but those aren&rsquo;t explicitly due to my system structure, and may be addressed in later posts.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/polyfragmented/</guid>
-                    <link>https://example.com/posts/polyfragmented/</link>
+                    <guid>http://www.lico.blog/posts/polyfragmented/</guid>
+                    <link>http://www.lico.blog/posts/polyfragmented/</link>
                 
                 
                     <pubDate>Fri, 17 Mar 2023 21:11:40 -0400</pubDate>

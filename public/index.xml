@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://www.lico.blog/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>Life compartmentalized</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>https://example.com/</link>
+        <link>http://www.lico.blog/</link>
         
         
             <title>Life compartmentalized</title>
@@ -35,122 +35,166 @@
             <item>
                 
                 
-                    <description><![CDATA[<p>Sometimes, it feels like I have so many parts out at any given time. There are times where it feels like there are so many things that I want to be doing in that moment. I&rsquo;m being pulled in so many different directions that I do not know what to do&mdash;I have decision paralysis. Then, if I do manage to pick something to do, it&rsquo;s inevitable that some other part does not want to do what I have chosen to do, so</p>
+                    <description><![CDATA[<p>DID is very much internal disorder. That is, unless I tell you I have it, you wouldn&rsquo;t know <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. One of the ways DID affects my internal experience is that I have significant gaps in my memory, both of my past childhood, and of my present adulthood.
+But amnesia is tricky&mdash;I don&rsquo;t know what I don&rsquo;t remember, so most of the time I don&rsquo;t realize I&rsquo;ve forgotten anything.</p>
+<p>I believe I experience amnesia in a few ways.
+The most innocuous type that I experience seems due to me having constricted awareness&mdash;each of my parts seems to act as a compartment of memory, so when I&rsquo;m in one compartment it may be difficult for me to index memories that occurred when I was in a different compartment of memory.
+For example, if my partner talks about a hike we went on a few months ago when I&rsquo;m in a task-based compartment for cleaning, I may not remember the hike, but I may eventually get a very vague memory of it if they prompt me about it further. If I see a picture of us on the hike, it may help queue my memory of it more, but it still isn&rsquo;t a complete memory like it would be if I were in the compartment that was actually there on that hike.
+I believe this is because hiking and cleaning occupy two entirely different compartments of my life; there&rsquo;s little in common between the two, and my constricted awareness makes it so that these memories aren&rsquo;t shared well between the two parts. This seems to be a version of state-dependent memory.</p>
+<p>I also experience full amnesia between parts. That is, I will not have access to any of the memories of one compartment when I&rsquo;m in a different compartment. This typically seems to occur between compartments that hold trauma memories and ones that do not, but I also seem to experience this between non-trauma holding parts, and I&rsquo;m not yet sure why.</p>
+<p>Within full amnesia, I seem to exhibit two types. The first is when I experience a discrete jump in my awareness when I switch between compartments where I have no idea what was happening just before the switch. This causes an obvious jump in my awareness, and may make it more noticeable that I have amnesia. I might find myself, all of a sudden, in a different room than I remember being in just a second ago, when in reality another part had moved me to that room outside of my awareness<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. I experienced this when I was younger<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, but not as much as I&rsquo;ve gotten older. Now, I more so seem to have a sliding-window type memory&mdash;rather than a discrete jump in awareness, my memory of what happened gradually disappears over several minutes after a switch. This leads to a perceived smoother transition between parts, making my memory loss less obvious to me.</p>
+<p>Regardless of the type of amnesia I experience, I experience shuffling of memories and time jumps&mdash;I do not have a continuous, linear understanding of my life. For example, it may be hard for me to differentiate what occurred last week vs what occurred years ago, and sometimes things that occurred months ago feel more current to me than things that occurred even yesterday. As always, this seems to be justified by my understanding of how I operate&mdash;if I&rsquo;m in a compartment of memory that was last active a few months ago, those memories are more at the forefront of my awareness than memories formed in a different compartment yesterday.
+This leads to a lot of confusing experiences, like looking out of my window and expecting it to be winter but seeing that it&rsquo;s actually summer, or all of a sudden noticing that the furniture in my apartment has moved from what I last remember, or looking at my plants and being amazed by how much they had grown because I remembered them being much smaller.
+These sorts of experiences occur on an a weekly to daily basis for me.</p>
+<p>I&rsquo;m still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate.
+The way I experience amnesia seems to be more nuanced than what I have described here thus far, but I haven&rsquo;t formulated the words to fully describe these experiences yet.
+I hope this post serves as a snapshot in time of my awareness of how I operate a little over one year after starting therapy.</p>
+<!--
+
+
+How does one know if the way they experience the world is _normal_? It never even occurred to me that aspects my experience could be considered disordered until recently. Now that I'm aware, so much of my life makes sense. 
+
+
+These experiences can be explained by me switching between compartments of memory that I haven't been in in a while, and occur on an a weekly to daily basis for me.
+
+Another type of amnesia that some people with dissociative disorders report[^3] is emotional amnesia, where they remember the events of what happened when they're in a different compartment, but don't have the associated emotions attached with that memory. I believe I experience this too, but because of the structure of my DID, I believe almost all of my memories do not have associated emotions attached to them[^6]. This seems to be my normal memory, so for me 
+the distinction between experiencing emotional amnesia or having a "normal" memory isn't clear. I don't believe I often experience strong emotions[^4], though, so I'm not sure if I'm experiencing some sort of amnesia or if I just don't have the associated emotions to encode in my memories. 
+[^4]: I don't remember what I don't remember, so maybe I do experience strong emotions more than I think; I'm honestly not sure.
+[^3]: I learned about this from r/DID and r/OSDD on Reddit
+[^6]: Also, most, if not all, of my memories seem to be in third person, even if they aren't trauma related. This may be why I don't have the first-person perspective of emotion attached to them.
+
+
+In fact, one way I can differentiate between my parts is by 
+
+it isn't clear if I could be experiencing something different.
+
+so out of context for a part of me that cleans because it seems like a different section of my life.
+
+I personally see myself as having three types of amnesia.
+
+This memory will not be clear, and often has a "not me" feeling associated with it---it can feel like I'm indexing someone else's memories
+
+I'm used to living with a constricted internal awareness that realizing I have amensia isn't surprising to me much anymore---it seems to be a normal part of my 
+
+I'm only aware I'm in a different compartment when looking back in time. In the moment-to-moment, I always feel like _me_. That is; my sense of "I" does not change. This is why I like to conceptualize my experience as me switching between different compartments rather than 
+
+Now that I know what switching feels like, I realize that I have day-to-day amnesia. 
+
+When I look backat the 
+
+I also often have the experience of 
+Memory is tricky. When I think about my life, I am unaware I have amnesia
+
+My whole life, I've had experiences where people claimed I had done things I had absolutely no memory of doing. These things seemed like things I would absolutely never do, and to be honest, I never thought too much about it.
+
+In high school, I saw the same group of friends in class that I did outside of school. I clearly had different parts 
+
+So now, looking back, of course I had amnesia. However, it's a lot more hidden than one would expect, because I simply do not remember what I do not remember. It's only when I have external sources notifying me that something happened that I didn't remember do I realize I must have had amnesia. 
+
+It's honestly really scary know that I could potentially forget what I am doing right now in the future. How much of my life will I remember? Are these memories I'm making in my life encoding properly? I sure hope so---I don't want gaps in my memory.
+
+With that being said, because I truly don't know what I don't know, I'm often not aware I'm missing anything.
+
+My justification for these events was always that the other person was lying,
+
+Is it amnesia proper, or is it just my awareness is so shuffled since I switch between many different compartments of memory in a day? 
+
+At the end of the day, when my partner and I ask each other how our days were, I can typically give him a general impression of how the day went---I remember the major events 
+
+
+
+One of the hardest parts of my DID discovery journey is coming to terms that I did, in fact, do those things. I had dissociated---putting me in a different compartment of awareness with a different mindset.
+
+Who I thought I was is not who I actually was. Some parts 
+
+I have difficulties tracking the passage of time. 
+When I wake up in the morning, I have to orient myself to what day it 
+Because I have so many different parts with varying levels of memory sharing between them, there are times where I won't know what I'm doing moment-to-moment.
+the way I encoded and accessed memories was different from most others
+
+In this case, it's not that I don't remember what happened when I was in a different compartment. 
+-->
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Unless you catch me in a dissociative episode, which is very unlikely to happen.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home, so the scariest thing might be I find myself hiding under the blanets of my bed when I thought I was in my kitchen.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>This, along with other symptoms, led to me receiving a dissociative disorder diagnosis as a pre-teen.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/internaldivision/</guid>
-                    <link>https://example.com/posts/internaldivision/</link>
+                    <guid>http://www.lico.blog/posts/amnesia/</guid>
+                    <link>http://www.lico.blog/posts/amnesia/</link>
                 
                 
-                    <pubDate>Mon, 27 Mar 2023 17:07:28 -0400</pubDate>
+                    <pubDate>Thu, 30 Mar 2023 12:10:19 -0400</pubDate>
                 
                 
-                    <title>Internal division</title>
+                    <title>Dissociative amnesia</title>
                 
             </item>
         
             <item>
                 
                 
-                    <description><![CDATA[<p>I was initially hesitant to write about anger, as it&rsquo;s an emotion I am not acquainted with<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-How could I write about something I know nothing about?
-But I now realize that the absence of anger in my life is significant in itself, and is indicative of how my underlying dissociative defense system operates.
-Anger is an emotion that I am simultaneously very familiar with, yet not at all acquainted with&mdash;I am incredibly sensitive to the external display of anger in others, yet not at all familiar with how it feels internally.
-I believe this is because when I was small, I grew up in an environment where my primary caregiver frequently displayed anger.
-This is because they had unprocessed trauma of their own, which came out as fits of rage.
-These bouts of anger were extremely terrifying for me as a young child, and ended in emotional and sometimes physical harm done to me.
-Because of the repeated association of anger with terror, pain, and instability, I believe I learned to internally separate anger as a &ldquo;bad&rdquo; emotion, and shoved it away as an emotion that I did not want to experience.
-My relationship with anger was tainted by my early childhood experiences, making a powerful emotion that should be utilized as part of an emotionally healthy life inaccessible to me as an adult.</p>
-<p>I once naively believed that not feeling anger was an asset of mine&mdash;that anger was a disruptive emotion, and it was safer for me not to feel it. While it is beneficial to those around me for me to not ever display anger, I now believe that anger is an important emotion that should be part of my emotional repertoire.
-Anger enables people to enact change. It can be the driving force required to get one out of bad situations. By my not being able to experience anger, I&rsquo;m more likely to stay involved in situations and environments which are not good for me. I value other peoples&rsquo; comfort over my own, and use dissociation to subconsciously withhold my sometimes justified anger.</p>
-<p>Because I have DID, my dynamic range of emotions is very shallow&mdash;most of the time, I feel mild contentment. I grew up in an environment where I didn&rsquo;t feel like I could take up any emotional space, as the emotional landscape in my family of origin was dominated by others&rsquo; strong emotional displays. I enjoy my internal stability&mdash;I do not want to feel strong emotions. I am scared of the loss of control I was so used to seeing in others while growing up.
-However, this separation of anger and other emotions leads to a less full life, including amnesia, behavior that feels out of control when I&rsquo;m triggered, along with stunted &ldquo;good&rdquo; emotions, like happiness and excitement. By using dissociation, I&rsquo;ve traded experiencing a full range of emotions for internal stability. This served me in the past, but in the future I&rsquo;d like to live a more full, complete life&mdash;one that does not rely on dissociative coping mechanisms.</p>
-<p>While I now see anger as a valuable emotion, my learned patterns of removing it from my awareness continue, so still I have difficulty accessing it.
-My understanding of anger comes from a theoretical view&mdash;I can intellectually understand it, but I do not believe I have ever felt anger before. With time, I hope that will change.</p>
+                    <description><![CDATA[<p>Imagine if, without your awareness, your deepest, most repressed thoughts and feelings were displayed for the world to see. With how my DID presents, this is something that occurs quite frequently for me. Because much of my most difficult emotions are separated from the core me, I am usually unaware of them until they surface and they&rsquo;re in the forefront of my awareness. Then, after they are over, I typically forget that these dissociative episodes ever happened. This has led to me into many scary and sometimes dangerous situations, which typically leave me puzzled by what is happening in the world around me.</p>
+<p>As an example, I like to go on evening walks for exercise. I typically walk one of a few routes in the densely populated city I live in. One day this past summer, I walked by a person who had some of the same characteristics as someone who caused me harm in the past. I walked by this individual without awareness that I was at all triggered. Then, in a split second, they started yelling at me.</p>
+<p>&ldquo;You&rsquo;re scared of me, huh? What do you have to be scared about?&rdquo;</p>
+<p><em>What?</em> It was so out of context for me; I had no idea why they were yelling at me. I wasn&rsquo;t scared of them&mdash;up until they started yelling at me, I hadn&rsquo;t even noticed them. I ignored them and calmly kept walking in the direction I was going. Then, they started moving towards me <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, continually yelling at me.</p>
+<p>&ldquo;Why are you scared of me? You think I&rsquo;m threatening? There&rsquo;s nothing to be scared about!&rdquo;</p>
+<p>I sped up walking and continued ignoring them. I felt very calm while this was happening, although I was confused by what going on. I eventually made it to the next block over and lost sight of them. I calmly walked home, and went out of my way to reassure myself that I had done nothing wrong, and that the person was at fault, not me. But <em>why</em> did this person think I was scared of them? Was I scared of them?</p>
+<p>As it turns out, a part of me <em>was</em> scared of them. When I saw that person, that part became so scared, that they momentarily took control of my face and made a scared microexpression, directed at that person. However, I had no awareness that I was scared of them or that I had made any facial expression. This is because the parts of me who were on my evening walk were not connected with the part of me that was scared of the person, so from the perspective of the part of me that was going on a walk, I had no idea that anything abnormal was happening, while the scared part was simultaneously terrified.</p>
+<p>Over the next few days, I intentionally went on my evening walk, purposefully walking past the location of the event to ensure I didn&rsquo;t associate anything negative with it. The parts of me walking felt perfectly fine, and I didn&rsquo;t realize anything was off.
+Then, within a week, without realizing it, I stopped going on my evening walks. A month went by, and I still avoided walking, but it didn&rsquo;t even occur to me that I stopped.
+I went from walking every day for months to only leaving my apartment when absolutely necessary. I didn&rsquo;t feel any fear associated with walking or leaving my apartment, but it was clearly there, dictating my behavior. It took over a month for me to realize anything was wrong, and once I pondered why I was no longer walking the reason became obvious&mdash;a part of me was still clearly scared of what had happened on that walk.
+In order to get back to my walking routine, I gradually had to show that part that we were safe, and that that wasn&rsquo;t going to happen again, and even if it did, there were other parts who could take care of the situation like we had done last time. With this awareness in mind, over time, I managed to get back to going on my evening walks.</p>
+<p>This is one example of how having DID affects my life and functioning. Before I became aware that I have DID, I was unaware of how much influence my parts had over my life. My behaviors are influenced by fear I cannot even grasp onto or feel. Other people may be more aware of my own internal state than even I am, since my body language may be contradictory to how I feel on the inside.
+Getting to know my parts is helping me to become more aware of my internal state, and, in turn, will allow me to live a more complete life.</p>
 <!--
-Anger is an emotion I learned to dissociate away from a very young age. 
 
 
 
-Because of this, I learned to associate anger with terror and instability, and internally decided that anger was an emotion I did not want to experience.
+It's not that I as a whole am not experiencing this fear; rather I simply am not connected with it. 
 
 
+_Yeah, sure. You're chasing and yelling at me. Clearly there's something to be scared about_.
+---my months long routine of going on an eveng walk ended, and I genuinely didn't even notice. I felt no fear associated with walking, but my behavior was controlled by the fear of that event occurring again, held by a part of me who wasn't connected with the core me.
 
+About a month into stopping, I suddenly realized that I hadn't gone on a walk in a long time.
+However, beyond my awareness, a part was terrified.  
 
+ being mindful of my surroundings. I forced myself to walk past the location of the event again, trying to disassociate it with fear. 
 
-
-I do not believe I have ever experienced anger before.
-
- Like anxiety, anger is an emotion I have dissociated away. However, unlike anxiety, which I do experience, I do not believe I have ever experienced true anger before.
-
-
-Anger is an emotion I am not acquainted with. 
-
-My mom tells me she's only seen me angry twice in my life---both involved her doing things to my cat without getting permission. In these cases, I'm sure I was acting to protect my cat, but I do not fully remember either incident. It would be too destabilizing for me to realize that 
-
-I have been trained to be very sensitive to the signs of anger in others---
-
-
-I am very familiar with anger as expressed by others. 
-
-
-
-My understanding of anger comes from a theoretical view---I can intellectually understand it, but I do not believe I have ever felt anger before. 
-
-I have a rudimentary understanding of anger. 
-
-
-I understand why anger is important
-It can be the driving force one needs to fight against harm or injustice done to them.
-
-change one's situation
-
-Anger is a powerful emotion. It can help one to enact change in their life, 
-The absense of anger in my life 
-
-Rather than feeling angry about something
-
-I do not feel anger, because it was modeled to me as an unstable 
-
-My mother could not control her anger. It was an emotion she turned to frequently, and her emotions 
-
-I am very unfamiliar with anger
-
-I do not believe I have ever felt anger before. I believe this is common 
-It may be hypocritical for me to write a post on an emotion that I am so unfamiliar with. 
-
-
-My dynamic range of emotions is very shallow---most of the time, I feel mild contentment. 
-I grew up in an environment where I didn't feel like I could take up any emotional space, as the emotional landscape in my family of origin was dominated by others' strong emotional displays. 
-
-I enjoy my internal stability---I do not want to feel strong emotions. I am scared of the loss of control I was so used to seeing while growing up. 
-
-those around me dominated the emotional landscape. 
-I do not have much experience with strong emotions, 
-
-
-I have never experienced strong emotions
+I feel as though this is a classic example for how I ---my deepest emotions and fears, that I am not even aware of, can show up on my face for others to see without me even realizing it. 
+One of the ways I experience DID is that the parts of me who hold onto traumatic memories and emotions are separated from the parts of me who 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
-<p>And maybe I was right to be hesitant, as I don&rsquo;t have much to say since I&rsquo;m early in my awarness journey, but I want to document my understanding of things as I learn.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1" role="doc-endnote">
+<p>Thankfully, they used a walker, so I was in little danger.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/anger/</guid>
-                    <link>https://example.com/posts/anger/</link>
+                    <guid>http://www.lico.blog/posts/partscontrol/</guid>
+                    <link>http://www.lico.blog/posts/partscontrol/</link>
                 
                 
-                    <pubDate>Mon, 27 Mar 2023 11:05:58 -0500</pubDate>
+                    <pubDate>Tue, 28 Mar 2023 16:30:21 -0400</pubDate>
                 
                 
-                    <title>Anger</title>
+                    <title>The parts I don’t know about still have control</title>
                 
             </item>
         
@@ -168,12 +212,12 @@ I also do not only split parts due to trauma&mdash;I seem to create parts to all
 <p>Rather than working with one part at a time, I&rsquo;m working with clusters of parts at any given time<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.
 I do not seem to have a &ldquo;host&rdquo;, or primary, personality. Instead, I have one of a few clusters of parts active at any given time, which seem to change from week-to-week and month-to-month in an approximate cyclical pattern.
 My parts do not have names&mdash;they have labels<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
-I shift and switch between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>.
+I shift and switch<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> between these parts at least a few dozen times a day, even without being triggered, because I have parts I need to access as a normal part of every day living<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.
 Since my threshold for creating parts is so low, I believe I am still creating parts in the present-day.
 My system isn&rsquo;t neatly organized and structured. It&rsquo;s chaotic, messy, and unknown.</p>
 <p>Now, while this may sound like a difficult way to live&mdash;and in many aspects it certainly is&mdash;I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me.
 I have had DID my entire life, and I have, for the most part, lived an enjoyable and conventionally successful life despite this. I know no other way of living&mdash;this is normal to me.
-However, because of my system structure, I struggle with many aspects of time and memory<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>, such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger.
+However, because of my system structure, I struggle with many aspects of time and memory<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>, such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger.
 Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.</p>
 <p>It&rsquo;s taken me just over a year of therapy to get to the awareness I have today, and I know there&rsquo;s so much more I&rsquo;m unaware of.
 When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview.
@@ -273,34 +317,37 @@ I have many task-based parts, or parts that serve a specific job in my life, whi
 Additionally, when I experience something traumatic, I seem to create many parts in a sequential manner, which leads to a lot of parts being created for a single event. 
 I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged[^7]. 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>I came to this conclusion from r/DID and r/OSDD on Reddit&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>until I stop relying solely on dissociation as a coping mechanism, which I&rsquo;m actively working on doing in therapy.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>Some people call these subsystems. I seem to have many layers of compartmentalization&mdash;my parts have their own parts.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn&rsquo;t feel comfortable for me.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5">
-<p>I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:5" role="doc-endnote">
+<p>I use <em>switch</em> to denote a hard, discrete change between parts, which usually occurs when I&rsquo;m triggered and can be disorienting. I use <em>shift</em> to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:6">
-<p>My symptoms include more than just time and memory problems, but those aren&rsquo;t explicitly due to my system structure, and may be addressed in later posts.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:6" role="doc-endnote">
+<p>I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7" role="doc-endnote">
+<p>My symptoms include more than just time and memory problems, but those aren&rsquo;t explicitly due to my system structure, and may be addressed in later posts.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/polyfragmented/</guid>
-                    <link>https://example.com/posts/polyfragmented/</link>
+                    <guid>http://www.lico.blog/posts/polyfragmented/</guid>
+                    <link>http://www.lico.blog/posts/polyfragmented/</link>
                 
                 
                     <pubDate>Fri, 17 Mar 2023 21:11:40 -0400</pubDate>
@@ -337,19 +384,19 @@ Different aspects of my life are compartmentalized
 
 When I was a child, I was filled with worry. 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>My mom reports me having a discrete personality change when this occurred.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/anxiety/</guid>
-                    <link>https://example.com/posts/anxiety/</link>
+                    <guid>http://www.lico.blog/posts/anxiety/</guid>
+                    <link>http://www.lico.blog/posts/anxiety/</link>
                 
                 
                     <pubDate>Thu, 16 Mar 2023 19:17:28 -0400</pubDate>
@@ -364,7 +411,7 @@ When I was a child, I was filled with worry.
                 
                     <description><![CDATA[<p>Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life.</p>
 <p>One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks&rsquo; index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
+Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks' index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
 <p>Why could this be the case? Why do I create parts when I travel? Looking back at my life story, it actually makes a lot of sense.
 My first several years of life involved a lot of traveling. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad&rsquo;s job.
 As a perk of being an expat, my dad&rsquo;s job paid for two vacations a year&mdash;one for rest and relaxation, and another to visit family.
@@ -374,7 +421,7 @@ As an autistic person, I regulate myself by following a strict routine. As an ad
 I can only imagine how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine.
 I had no option&mdash;my family chose to travel, and since within my family structure the emotional landscape was already dominated by others, I had to be an easy child and submit to whatever they wanted. This led to me dissociating and creating parts to handle the traveling for me.</p>
 <p>This past summer, I went to my first conference while aware that I create parts this way.
-The night leading up to the event, I remember absolutely dreading the trip, wishing I could back out but knowing that I couldn&rsquo;t. Then, when the time came, I genuinely enjoyed the conference&mdash;the right part showed up for the job. I did, in fact, create a part for this trip, and this was the first part that I was self-aware I was creating. I had no control over it; instead, I observed its creation as I walked into the hotel lobby to check in. A new persona emerged, and was ready to take on whatever routine was required of me for my week-long conference that was just getting started. With that part as the dominant part, other parts came out periodically to do what was required of me, like networking, socializing, and presenting. But this newly created part was the star of the show, helping me create a solid routine I could stick to throughout the week to help keep me regulated. Then, on the last day, once again the dread came&mdash;this time, I, as the newly created part, didn&rsquo;t want to change my routine back again as I was only familiar with the one I had created. However, when I arrived in my apartment after a long journey back, a different part switched in and I was so glad to be home and back again in my standard routine.</p>
+The night leading up to the event, I remember absolutely dreading the trip, wishing I could back out but knowing that I couldn&rsquo;t. Then, when the time came, I genuinely enjoyed the conference&mdash;the right part showed up for the job. I did seem to create a part for this trip, and this was the first part that I was self-aware I was creating. I had no control over it; instead, I observed its creation as I walked into the hotel lobby to check in. A new persona emerged, and was ready to take on whatever routine was required of me for my week-long conference that was just getting started. With that part as the dominant part, other parts came out periodically to do what was required of me, like networking, socializing, and presenting. But this newly created part was the star of the show, helping me create a solid routine I could stick to throughout the week to help keep me regulated. Then, on the last day, once again the dread came&mdash;this time, I, as the newly created part, didn&rsquo;t want to change my routine back again as I was only familiar with the one I had created. However, when I arrived in my apartment after a long journey back, a different part switched in and I was so glad to be home and back again in my standard routine.</p>
 <p>We traveled to many beautiful locations in my early childhood, and I truly appreciate all the culturally enriching experiences I acquired, which I believe to this day have helped shaped my worldview. I do, however, wish that my parents were more aware of how stressful this was for me as a child. I did not understand the significance of the locations we would visit, and felt as though I was being dragged from place to place without understanding what was going on around me. In pictures of our family vacations, it&rsquo;s clear that I am dissociating&mdash;many of them show me with a blank expression with my eyes glazed over. I learned to regulate myself by dissociating, detaching from the world around me. And these repeated experiences of traveling = part creation have continued throughout my life, increasingly fragmenting my awareness when I take trips.</p>
 <p>I believe this is a good example of how trauma, but not necessarily abuse, can lead to the formation of DID.
 I would not consider traveling as much as we did abuse, but it was traumatic because it was too much for me to handle at the developmental stages it occurred in.
@@ -429,19 +476,19 @@ Early into my discovery journey, something puzzled me. I learned pretty quicky
 My first several years of life were very chaotic. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad's job. 
 For my whole life up to that point, while my handwriting was floridly changing, I never had questioned it or honestly really noticed it. Now, I am very thankful that I have a solid visual indicator for which parts of me were active at different times of my life.
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
-<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts&rsquo; handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1" role="doc-endnote">
+<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts' handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/traveling/</guid>
-                    <link>https://example.com/posts/traveling/</link>
+                    <guid>http://www.lico.blog/posts/traveling/</guid>
+                    <link>http://www.lico.blog/posts/traveling/</link>
                 
                 
                     <pubDate>Thu, 09 Mar 2023 22:14:57 -0500</pubDate>
@@ -456,10 +503,10 @@ For my whole life up to that point, while my handwriting was floridly changing, 
                 
                     <description><![CDATA[<p>&hellip; it&rsquo;s about childhood trauma.</p>
 <p>Dissociative Identity Disorder (DID) can be thought of as a coping mechanism one may develop when they experience repeated trauma in early childhood. It is arguably one of the most misunderstood and controversial mental health conditions, perhaps because it&rsquo;s been repeatedly sensationalized in the media. Or, maybe because the name and clinical description of the disorder implies that it&rsquo;s about having multiple identities or personality states. However, these personality states are often incredibly subtle and are instead indicative of a post-traumatic reaction involving severe compartmentalization of experience.</p>
-<p>DID is a highly individualized disorder which forms based off of one&rsquo;s reaction to their life experiences. As such, I can only speak for myself and how I personally experience this disorder. While DID can be difficult to understand, it can be thought of as being fundamentally about two psychological phenomena&mdash;<em>detachment</em> and <em>compartmentalization</em>. Using myself as an example, when I was small, there were times where I experienced extreme repeated abuse<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, but at other times had a happy childhood. While I was being abused, I mentally <em>detached</em> myself from the situation&mdash;I disconnected from my body and the external world, choosing instead to escape into my mind to distract myself from a situation I knew no other way to get out of. Perhaps more importantly, I also internally <em>compartmentalized</em> the experience and shoved it from my awareness, effectively allowing me to forget that it even occurred after it was over as I lived an otherwise happy childhood<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. Because this abuse occurred repeatedly, I continually used this strategy of switching to the compartment that held the abuse when I experienced triggers that the abuse was going to happen again. Then, when the abuse was over, I would switch back to the compartment that had a happy childhood and was blissfully unaware of the abuse that was taking place. This repeated pattern of switching between compartments further increased my compartmentalization of memory, awareness, experience, and identity. However, this was incredibly protective, as it allowed some parts of me to learn and grow as a child while other parts of me held the difficult memories and feelings of being abused out of awareness. All of this was done on a subconscious level.</p>
+<p>DID is a highly individualized disorder which forms based off of one&rsquo;s reaction to their life experiences. As such, I can only speak for myself and how I personally experience this disorder. While DID can be difficult to understand, it can be thought of as being fundamentally about two psychological phenomena&mdash;<em>detachment</em> and <em>compartmentalization</em>. Using myself as an example, when I was small, there were times where I experienced severe repeated abuse<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, but at other times had a happy childhood. While I was being abused, I mentally <em>detached</em> myself from the situation&mdash;I disconnected from my body and the external world, choosing instead to escape into my mind to distract myself from a situation I knew no other way to get out of. Perhaps more importantly, I also internally <em>compartmentalized</em> the experience and shoved it from my awareness, effectively allowing me to forget that it even occurred after it was over as I lived an otherwise happy childhood<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. Because this abuse occurred repeatedly, I continually used this strategy of switching to the compartment that held the abuse when I experienced triggers that the abuse was going to happen again. Then, when the abuse was over, I would switch back to the compartment that had a happy childhood and was blissfully unaware of the abuse that was taking place. This repeated pattern of switching between compartments further increased my compartmentalization of memory, awareness, experience, and identity. However, this was incredibly protective, as it allowed some parts of me to learn and grow as a child while other parts of me held the difficult memories and feelings of being abused out of awareness. All of this was done on a subconscious level.</p>
 <p>This strategy of compartmentalization can only develop when trauma occurs in early childhood, while the brain still is rapidly developing and has the capacity to use such defenses. And because I learned to use these defenses when I was very young and my brain wired based on my experiences of the world around me, I learned that this was a very effective strategy for minimizing psychological discomfort.
 Because of this, over time my threshold for what constituted compartment creation lowered as I relied more and more on this coping mechanism.
-Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life&mdash;like emotions of happiness, contentment, and good memories&mdash;from the bad aspects of my life&mdash;like anger, grief, and memories of trauma.
+Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life&mdash;like emotions of happiness, contentment, and happy memories&mdash;from the bad aspects of my life&mdash;like anger, grief, and memories of trauma.
 Additionally, I learned to use compartmentalization in areas of my life that weren&rsquo;t inherently traumatic.
 While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult stressors.</p>
 <p>Rather than fluidly being able to access all aspects of my personality like a more integrated individual, I have to switch between discrete personality states as I move throughout life.
@@ -553,28 +600,28 @@ So it's not about identity. Having multiple identities is a side effect of the e
 but somehow it's been made 
 
 Alternative title: How I conceptualize my experience 1 year and 2 months into therapy.--->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
-<p>This example is an oversimplification, and this extreme abuse occurred outside the home. However, I did experience less severe abuse and other traumas within my family which shaped my development of this disorder as well.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1" role="doc-endnote">
+<p>This example is an oversimplification, and this severe abuse occurred outside the home. However, I did experience less severe abuse and other traumas within my family which shaped my development of this disorder as well.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>This was not fully the case, but I wanted to emphasize the differential between the good and bad parts of my childhood to provide a more concrete example of how parts in DID may split.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>For the most part, I still can&rsquo;t even tell apart my parts. This is something that I&rsquo;m sure I will get better at with time, as I get more acquainted with how I operate.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>These distinct indentities are not whole on their own. Rather, they represent different parts of my whole personality. Rather than having one unified identity, I have several fragmented identities/personality states that I switch between.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/notaboutidentity/</guid>
-                    <link>https://example.com/posts/notaboutidentity/</link>
+                    <guid>http://www.lico.blog/posts/notaboutidentity/</guid>
+                    <link>http://www.lico.blog/posts/notaboutidentity/</link>
                 
                 
                     <pubDate>Mon, 06 Mar 2023 21:43:08 -0500</pubDate>
@@ -588,8 +635,8 @@ Alternative title: How I conceptualize my experience 1 year and 2 months into th
                 
                 
                 
-                    <guid>https://example.com/search/</guid>
-                    <link>https://example.com/search/</link>
+                    <guid>http://www.lico.blog/search/</guid>
+                    <link>http://www.lico.blog/search/</link>
                 
                 
                 

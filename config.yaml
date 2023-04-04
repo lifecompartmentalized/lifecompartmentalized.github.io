@@ -1,5 +1,5 @@
 theme: "paige"
-baseurl: "lico.blog"
+baseurl: "http://www.lico.blog"
 copyright: ""
 enablerobotstxt: true
 languagecode: "en-us"

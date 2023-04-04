@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://www.lico.blog/tags/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>Tags</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>https://example.com/tags/</link>
+        <link>http://www.lico.blog/tags/</link>
         
         
             <title>Tags</title>
@@ -36,8 +36,21 @@
                 
                 
                 
-                    <guid>https://example.com/tags/did/</guid>
-                    <link>https://example.com/tags/did/</link>
+                    <guid>http://www.lico.blog/tags/amnesia/</guid>
+                    <link>http://www.lico.blog/tags/amnesia/</link>
+                
+                
+                
+                    <title>amnesia</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>http://www.lico.blog/tags/did/</guid>
+                    <link>http://www.lico.blog/tags/did/</link>
                 
                 
                 
@@ -49,34 +62,8 @@
                 
                 
                 
-                    <guid>https://example.com/tags/symptoms/</guid>
-                    <link>https://example.com/tags/symptoms/</link>
-                
-                
-                
-                    <title>symptoms</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>https://example.com/tags/anger/</guid>
-                    <link>https://example.com/tags/anger/</link>
-                
-                
-                
-                    <title>anger</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>https://example.com/tags/narrative/</guid>
-                    <link>https://example.com/tags/narrative/</link>
+                    <guid>http://www.lico.blog/tags/narrative/</guid>
+                    <link>http://www.lico.blog/tags/narrative/</link>
                 
                 
                 
@@ -88,8 +75,21 @@
                 
                 
                 
-                    <guid>https://example.com/tags/polyfragmented/</guid>
-                    <link>https://example.com/tags/polyfragmented/</link>
+                    <guid>http://www.lico.blog/tags/symptoms/</guid>
+                    <link>http://www.lico.blog/tags/symptoms/</link>
+                
+                
+                
+                    <title>symptoms</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>http://www.lico.blog/tags/polyfragmented/</guid>
+                    <link>http://www.lico.blog/tags/polyfragmented/</link>
                 
                 
                 
@@ -101,8 +101,8 @@
                 
                 
                 
-                    <guid>https://example.com/tags/anxiety/</guid>
-                    <link>https://example.com/tags/anxiety/</link>
+                    <guid>http://www.lico.blog/tags/anxiety/</guid>
+                    <link>http://www.lico.blog/tags/anxiety/</link>
                 
                 
                 
@@ -114,8 +114,8 @@
                 
                 
                 
-                    <guid>https://example.com/tags/mechanism/</guid>
-                    <link>https://example.com/tags/mechanism/</link>
+                    <guid>http://www.lico.blog/tags/mechanism/</guid>
+                    <link>http://www.lico.blog/tags/mechanism/</link>
                 
                 
                 
@@ -127,8 +127,8 @@
                 
                 
                 
-                    <guid>https://example.com/tags/identity/</guid>
-                    <link>https://example.com/tags/identity/</link>
+                    <guid>http://www.lico.blog/tags/identity/</guid>
+                    <link>http://www.lico.blog/tags/identity/</link>
                 
                 
                 

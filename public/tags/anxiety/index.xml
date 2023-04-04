@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://www.lico.blog/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>anxiety</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>https://example.com/tags/anxiety/</link>
+        <link>http://www.lico.blog/tags/anxiety/</link>
         
         
             <title>anxiety</title>
@@ -59,19 +59,19 @@ Different aspects of my life are compartmentalized
 
 When I was a child, I was filled with worry. 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>My mom reports me having a discrete personality change when this occurred.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>https://example.com/posts/anxiety/</guid>
-                    <link>https://example.com/posts/anxiety/</link>
+                    <guid>http://www.lico.blog/posts/anxiety/</guid>
+                    <link>http://www.lico.blog/posts/anxiety/</link>
                 
                 
                     <pubDate>Thu, 16 Mar 2023 19:17:28 -0400</pubDate>

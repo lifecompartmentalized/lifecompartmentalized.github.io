@@ -2,67 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/did/</loc>
-    <lastmod>2023-03-27T17:07:28-04:00</lastmod>
+    <loc>http://www.lico.blog/tags/amnesia/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/internaldivision/</loc>
-    <lastmod>2023-03-27T17:07:28-04:00</lastmod>
+    <loc>http://www.lico.blog/tags/did/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-03-27T17:07:28-04:00</lastmod>
+    <loc>http://www.lico.blog/posts/amnesia/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2023-03-27T17:07:28-04:00</lastmod>
+    <loc>http://www.lico.blog/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/symptoms/</loc>
-    <lastmod>2023-03-27T17:07:28-04:00</lastmod>
+    <loc>http://www.lico.blog/tags/narrative/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-03-27T17:07:28-04:00</lastmod>
+    <loc>http://www.lico.blog/posts/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/anger/</loc>
-    <lastmod>2023-03-27T11:05:58-05:00</lastmod>
+    <loc>http://www.lico.blog/tags/symptoms/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/anger/</loc>
-    <lastmod>2023-03-27T11:05:58-05:00</lastmod>
+    <loc>http://www.lico.blog/tags/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/narrative/</loc>
-    <lastmod>2023-03-27T11:05:58-05:00</lastmod>
+    <loc>http://www.lico.blog/categories/</loc>
+    <lastmod>2023-03-28T16:30:21-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/polyfragmented/</loc>
+    <loc>http://www.lico.blog/categories/did/</loc>
+    <lastmod>2023-03-28T16:30:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/categories/narrative/</loc>
+    <lastmod>2023-03-28T16:30:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/categories/symptoms/</loc>
+    <lastmod>2023-03-28T16:30:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/posts/partscontrol/</loc>
+    <lastmod>2023-03-28T16:30:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/tags/polyfragmented/</loc>
     <lastmod>2023-03-17T21:11:40-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/polyfragmented/</loc>
+    <loc>http://www.lico.blog/posts/polyfragmented/</loc>
     <lastmod>2023-03-17T21:11:40-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/anxiety/</loc>
+    <loc>http://www.lico.blog/posts/anxiety/</loc>
     <lastmod>2023-03-16T19:17:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/anxiety/</loc>
+    <loc>http://www.lico.blog/tags/anxiety/</loc>
     <lastmod>2023-03-16T19:17:28-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/mechanism/</loc>
+    <loc>http://www.lico.blog/tags/mechanism/</loc>
     <lastmod>2023-03-09T22:14:57-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/traveling/</loc>
+    <loc>http://www.lico.blog/posts/traveling/</loc>
     <lastmod>2023-03-09T22:14:57-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/identity/</loc>
+    <loc>http://www.lico.blog/tags/identity/</loc>
     <lastmod>2023-03-06T21:43:08-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/notaboutidentity/</loc>
+    <loc>http://www.lico.blog/posts/notaboutidentity/</loc>
     <lastmod>2023-03-06T21:43:08-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://www.lico.blog/about/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://www.lico.blog/dictionary/</loc>
   </url><url>
-    <loc>https://example.com/dictionary/</loc>
+    <loc>http://www.lico.blog/links/</loc>
   </url><url>
-    <loc>https://example.com/links/</loc>
+    <loc>http://www.lico.blog/resources/</loc>
   </url><url>
-    <loc>https://example.com/resources/</loc>
-  </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>http://www.lico.blog/search/</loc>
   </url>
 </urlset>

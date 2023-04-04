@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/resources/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://www.lico.blog/resources/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>Resources</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>https://example.com/resources/</link>
+        <link>http://www.lico.blog/resources/</link>
         
         
             <title>Resources</title>
