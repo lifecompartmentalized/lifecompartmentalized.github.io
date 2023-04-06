@@ -5,6 +5,7 @@ draft: true
 categories: ['']
 tags: ['DID', 'anger', 'narrative', 'symptoms']
 ---
+## THIS POST NEEDS TO BE REWORKED
 
 I was initially hesitant to write about anger, as it's an emotion I am not acquainted with[^1].
 How could I write about something I know nothing about? 

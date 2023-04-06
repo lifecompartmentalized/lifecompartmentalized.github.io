@@ -28,14 +28,14 @@ This leads to a lot of confusing experiences, like looking out of my window and 
 These sorts of experiences occur on an a weekly to daily basis for me.
 
 I'm still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate. 
-The way I experience amnesia seems to be more nuanced than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.
 I hope this post serves as a snapshot in time of my awareness of how I operate a little over one year after starting therapy.
 
 
 <!--
 
-
 How does one know if the way they experience the world is _normal_? It never even occurred to me that aspects my experience could be considered disordered until recently. Now that I'm aware, so much of my life makes sense. 
+
+The way I experience amnesia seems to be more nuanced than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.
 
 
 These experiences can be explained by me switching between compartments of memory that I haven't been in in a while, and occur on an a weekly to daily basis for me.
