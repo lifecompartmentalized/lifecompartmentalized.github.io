@@ -1,5 +1,7 @@
 ---
-title: "Describing my experiences: the multiple perspectives of DID"
+#title: "Describing my experiences: the multiple perspectives of DID"
+title: "Finding my language"
+
 date: 2023-04-06T12:22:50-04:00
 draft: false
 categories: ['']
@@ -26,13 +28,15 @@ Perhaps because of this, I feel the same way about using other non-conventional 
 [^1]: This is because I have many parts who perceive my life in third person, and when those compartments are active, I naturally refer to myself in third person.
 
 While I am used to thinking in third person[^3], thinking about myself as multiple is new[^4], and I'm still getting used to this conceptualization and the language used to describe it.
-On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I'm trying to convey---I don't want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, I hope to write with more diverse views in the future.
+On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I'm trying to convey---I don't want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, this may change as I grow more comfortable with the laguage that feels most authentic to me. 
 
 
 [^3]: This is useful for trauma survivors since it allows a detached view of self---one can perceive themselves as the observer of a situation rather than a participant in it. 
 [^4]: I didn't know this was an option, and it didn't come naturally to me like the third-person perspective did. Now that I am aware this is how I operate, I see that it aligns very well with my experiences.
 
 <!--
+
+On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I'm trying to convey---I don't want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, I hope to write with more diverse views in the future.
 
 In order to have a more accurate view of my life, I need to look at things from the perspectives of my individual parts. 
 
