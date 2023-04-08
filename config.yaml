@@ -56,3 +56,7 @@ params:
     search:
         hide_page: false
     max_width: "775px"
+  authors:
+    whole-me:
+        name: "Whole me"
+        default: false

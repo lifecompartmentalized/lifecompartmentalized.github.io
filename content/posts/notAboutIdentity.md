@@ -3,11 +3,13 @@ title: "It's not about identity"
 date: 2023-03-06T21:43:08-05:00
 categories: ['']
 tags: ['DID', 'identity', 'mechanism']
+paige:
+  pin: true # Display this page before the rest
 ---
 
 ... it's about childhood trauma. 
 
-Dissociative Identity Disorder (DID) can be thought of as a coping mechanism one may develop when they experience repeated trauma in early childhood. It is arguably one of the most misunderstood and controversial mental health conditions, perhaps because it's been repeatedly sensationalized in the media. Or, maybe because the name and clinical description of the disorder implies that it's about having multiple identities or personality states. However, these personality states are often incredibly subtle and are instead indicative of a post-traumatic reaction involving severe compartmentalization of experience.
+Dissociative Identity Disorder (DID) can be thought of as a coping mechanism one may develop when they experience repeated trauma in early childhood. It is arguably one of the most misunderstood and controversial mental health conditions, perhaps because it's been repeatedly sensationalized in the media. Or, maybe because the name and clinical description of the disorder implies that it's about having multiple identities or personality states. However, these personality states are often incredibly subtle and are instead indicative of a post-traumatic reaction involving severe internal compartmentalization. 
 
 DID is a highly individualized disorder which forms based off of one's reaction to their life experiences. As such, I can only speak for myself and how I personally experience this disorder. While DID can be difficult to understand, it can be thought of as being fundamentally about two psychological phenomena---_detachment_ and _compartmentalization_. Using myself as an example, when I was small, there were times where I experienced severe repeated abuse[^1], but at other times had a happy childhood. While I was being abused, I mentally _detached_ myself from the situation---I disconnected from my body and the external world, choosing instead to escape into my mind to distract myself from a situation I knew no other way to get out of. Perhaps more importantly, I also internally _compartmentalized_ the experience and shoved it from my awareness, effectively allowing me to forget that it even occurred after it was over as I lived an otherwise happy childhood[^2]. Because this abuse occurred repeatedly, I continually used this strategy of switching to the compartment that held the abuse when I experienced triggers that the abuse was going to happen again. Then, when the abuse was over, I would switch back to the compartment that had a happy childhood and was blissfully unaware of the abuse that was taking place. This repeated pattern of switching between compartments further increased my compartmentalization of memory, awareness, experience, and identity. However, this was incredibly protective, as it allowed some parts of me to learn and grow as a child while other parts of me held the difficult memories and feelings of being abused out of awareness. All of this was done on a subconscious level. 
 
@@ -116,4 +118,6 @@ At an early age, if one
 So it's not about identity. Having multiple identities is a side effect of the extreme internal compartmentalization caused by trauma. But because it's the most sensational part of the disorder, that's what it's known as.
 but somehow it's been made 
 
-Alternative title: How I conceptualize my experience 1 year and 2 months into therapy.--->
+Alternative title: How I conceptualize my experience 1 year and 2 months into therapy.
+compartmentalization of experience.
+--->

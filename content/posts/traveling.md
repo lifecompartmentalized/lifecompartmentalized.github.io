@@ -4,6 +4,7 @@ date: 2023-03-09T22:14:57-05:00
 draft: false
 categories: ['']
 tags: ['DID', 'mechanism', 'narrative']
+
 ---
 
 Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life. 
