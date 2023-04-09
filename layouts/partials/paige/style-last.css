@@ -1,7 +1,16 @@
 
+a {
+  color: hotpink;
+}
+
 * {
     font-family: 'Varela Round', sans-serif;
 }
+
+.nav-link {
+  color: #cc99ff;
+}   
+
  h5{
   font-style: italic;
   margin-top:-10px;

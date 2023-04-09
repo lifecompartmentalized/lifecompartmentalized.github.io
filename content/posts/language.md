@@ -5,7 +5,7 @@ title: "Finding my language"
 date: 2023-04-06T12:22:50-04:00
 draft: false
 categories: ['']
-tags: ['DID', 'conceptualization', 'narrative', 'language']
+tags: ['DID', 'conceptualization', 'language']
 ---
 
 
@@ -14,7 +14,7 @@ Have you thought about how you conceptualize your internal experience, or the la
 How one chooses to explain how they operate is complex and deeply personal.
 As such, different people with DID may choose to convey their experiences in many different ways. 
 While some people are extremely creative in their portrayals of how they operate, I am someone who is more reluctant to portray myself in a way that others may deem as being too imaginative.
-As such, I'm still trying to find the language that feels most appropriate to describe my experiences.
+Because of this, I'm still trying to find the language that feels most appropriate to describe my experiences.
 
 The language one chooses is influenced by the underlying model that they use to understand what they are experiencing.
 My experiences with DID seem to vary greatly, and range in severity depending on if I'm experiencing a trauma trigger or not.
@@ -24,8 +24,6 @@ To me, it seems that both these mundane and extraordinary experiences can be exp
 
 With time, I have realized that I see the world with multiple different perspectives---while I have the perspective of me as a whole person, I also see the perspectives of me as my individual parts. 
 The perspective of me as a whole person is something I was acquainted with before my DID discovery journey began, as it is what most people experience and is thus the societal norm. 
-While using only this view this may work for most people, solely looking at myself this way causes me to miss out of various aspects of life since my internal experiences don't fully align with having a unified perspective.
-
 On this blog, and when I discuss with others about my experiences, I typically portray the perspective of myself as a singular unified person as it's likely how the vast majority of people see themselves, but this language can be limiting to describe my experiences. 
 Writing from the perspective of me as a whole, these "parts" seem to be compartments of many different aspects of my life, such as memory and  identity, that I switch between to navigate through life. 
 For the most part, I only have the perspective of one part at any given time[^2], and due to my degree of compartmentalization between parts, including amnesia and severely changing understandings of the world, depending on which compartment I am in I may have very different perspectives and things to say.
@@ -94,5 +92,8 @@ I have a deeply divided, messy
 my parts have a complex internal relationships. What do I convey this to others?
 
 For me, it is often difficult to put into words the experiences I've been though because of DID. 
+
+
+While using only this view this may work for most people, solely looking at myself this way causes me to miss out of various aspects of life since my internal experiences don't fully align with having a unified perspective.
 
 -->
