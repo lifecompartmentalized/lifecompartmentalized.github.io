@@ -11,7 +11,7 @@ On this site, I write about my experiences as an autistic person living with pol
 These are my personal experiences, so they should not necessarily be generalized to other people living with these or similar disorders as different individuals may conceptualize their experiences differently.
 I am not a medical or mental health professional; just someone with lived experience who is trying to understand how I operate in order to heal.
 
-If you have any comments, suggestions, or relate to my experiences, please feel free to contact me at <a href="mailto:mail@lico.blog">mail@lico.blog</a>.
+If you have any comments, questions, suggestions, or relate to my experiences, please feel free to contact me at <a href="mailto:mail@lico.blog">mail@lico.blog</a>.
 
 
 

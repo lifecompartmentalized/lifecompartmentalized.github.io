@@ -16,23 +16,24 @@ As such, different people with DID may choose to convey their experiences in man
 While some people are extremely creative in their portrayals of how they operate, I am someone who is more reluctant to portray myself in a way that others may deem as being too imaginative.
 As such, I'm still trying to find the language that feels most appropriate to describe my experiences.
 
-
-The language one chooses is influenced by the underlying model they use to understand what they are experiencing.
-For me, it is often difficult to put into words the experiences I've been though because of DID. On the severe end, when parts take over my body, it can feel like I'm being possessed and another being is controlling me. On the other end, most often switching and shifting between parts feels so natural to me that I wonder if my experiences are even different than the norm. 
+The language one chooses is influenced by the underlying model that they use to understand what they are experiencing.
+My experiences with DID seem to vary greatly, and range in severity depending on if I'm experiencing a trauma trigger or not.
+On the severe end, when parts take over my body, it can feel like I'm being possessed and another being is controlling me. 
+On the other end, most often switching and shifting between parts feels so natural to me that I wonder if my experiences are even different than the norm. 
 To me, it seems that both these mundane and extraordinary experiences can be explained by the model of me switching, shifting, and being influenced by different compartments of memory and experience, which I call parts.
 
-With time, I have begun to realize that I experience both the perspective of me as a whole person, as well as the perspectives of me as my individual parts. The perspective of me as a whole person is something I was acquainted with before my DID discovery journey began, as it is what most people experience and is thus the societal norm. While this may work for most people, solely looking at myself this way causes me to miss out of various aspects of life since my internal experiences don't fully align with this view.
+With time, I have realized that I see the world with multiple different perspectives---while I have the perspective of me as a whole person, I also see the perspectives of me as my individual parts. 
+The perspective of me as a whole person is something I was acquainted with before my DID discovery journey began, as it is what most people experience and is thus the societal norm. 
+While using only this view this may work for most people, solely looking at myself this way causes me to miss out of various aspects of life since my internal experiences don't fully align with having a unified perspective.
 
-On this blog, and when I discuss with others about my experiences, I typically portray the perspective of myself as a singular unified person as it's likely how the vast majority of people see themselves. 
-However, this language can be limiting to describe my experiences. 
+On this blog, and when I discuss with others about my experiences, I typically portray the perspective of myself as a singular unified person as it's likely how the vast majority of people see themselves, but this language can be limiting to describe my experiences. 
 Writing from the perspective of me as a whole, these "parts" seem to be compartments of many different aspects of my life, such as memory and  identity, that I switch between to navigate through life. 
 For the most part, I only have the perspective of one part at any given time[^2], and due to my degree of compartmentalization between parts, including amnesia and severely changing understandings of the world, depending on which compartment I am in I may have very different perspectives and things to say.
 If I only portray myself as one singular unified person, I am misrepresenting aspects of my experience.
 Thinking and writing as if I am a system of parts can enable me to explain experiences that simply don't make sense from the more restrictive whole-self perspective, like changing views about a topic, lapses in memory, possession-like experiences, losing time, and even quirks like handwriting and gait changes between parts. 
 [^2]: Although, as I'm creating connections between parts, this is thankfully changing!
 
-
-For the most part, I internally reference myself as a system of parts, and translate that to a singular-self language when talking with others as I am hesitant to externally display my internal perspective with others.
+Since starting therapy, I've gradually learned to internally reference myself as a system of parts, yet I still translate that to a singular-self language when talking with others as I am hesitant to externally display my internal perspective with others.
 I like portraying having a unified, singular-self view of life, even though it doesn't fully reflect how I've learned to perceive myself. 
 This is probably due to the fact that it makes me uncomfortable realizing others know that the way I internally refer to myself is different than the norm.
 When I was young, I was more in-touch with my individual parts' perspectives---I would often refer to myself in third person in conversation with others [^1]. I eventually learned that others did not experience themselves in this way, as I was occasionally ridiculed for it. I learned to hide using this language, even though it was the most accurate language for my experiences, since it made others uncomfortable. 
@@ -41,7 +42,6 @@ Perhaps because of this, I feel the same way about using other unconventional la
 
 While I am used to thinking in third person[^3], thinking about myself as multiple is new[^4], and I'm still getting used to this conceptualization and the language used to describe it.
 On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I'm trying to convey---I don't want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, this may change as I learn what language and conceptualization feels most comfortable for me. 
-
 
 [^3]: This is useful for trauma survivors since it allows a detached view of self---one can perceive themselves as the observer of a situation rather than a participant in it. 
 [^4]: I didn't know this was an option, and it didn't come organically to me like the third-person perspective did. Now that I am more aware this is how I operate, I see that it aligns very well with my experiences.
@@ -93,5 +93,6 @@ With DID, different people conceptualize their internal experiences
 I have a deeply divided, messy 
 my parts have a complex internal relationships. What do I convey this to others?
 
+For me, it is often difficult to put into words the experiences I've been though because of DID. 
 
 -->
