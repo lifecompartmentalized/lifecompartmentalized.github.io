@@ -34,7 +34,7 @@ Thinking and writing as if I am a system of parts can enable me to explain exper
 Since starting therapy, I've gradually learned to internally reference myself as a system of parts, yet I still translate that to a singular-self language when talking with others as I am hesitant to externally display my internal perspective with others.
 I like portraying having a unified, singular-self view of life, even though it doesn't fully reflect how I've learned to perceive myself. 
 This is probably due to the fact that it makes me uncomfortable realizing others know that the way I internally refer to myself is different than the norm.
-When I was young, I was more in-touch with my individual parts' perspectives---I would often refer to myself in third person in conversation with others [^1]. I eventually learned that others did not experience themselves in this way, as I was occasionally ridiculed for it. I learned to hide using this language, even though it was the most accurate language for my experiences, since it made others uncomfortable. 
+When I was young, I was more in-touch with my individual parts' perspectives---I would often refer to myself in third person in conversation with others [^1]. I eventually learned that others did not experience themselves in this way, as I was occasionally ridiculed for it. I learned to hide using this language, even though it was the most accurate language for my experiences, since it was not well received by others.
 Perhaps because of this, I feel the same way about using other unconventional language to describe my experiences---speaking from the perspective of individual parts, like I naturally did when I was younger, is tainted with shame due to my past experiences, and something I'm working towards getting more comfortable with when appropriate in order to become more authentically me.
 [^1]: This is because I have many parts who perceive my life in third person, and when those compartments are active, I naturally refer to myself in third person.
 
@@ -48,6 +48,8 @@ On this blog, I have decided to use whatever language is most appropriate for de
 
 How do I find the vocabulary to describe experiences that are can be either so mundane or extraordinary?
 grow more comfortable with the language that feels most authentic to me. 
+
+it made myself and others uncomfortable. 
 
 On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I'm trying to convey---I don't want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, I hope to write with more diverse views in the future.
 
