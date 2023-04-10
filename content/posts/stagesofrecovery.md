@@ -6,21 +6,21 @@ categories: ['']
 tags: ['DID', 'symptoms', 'narrative']
 ---
 
-My relationship with my DID diagnoses---both with regards to accepting it as my diagnosis and seeing how it has affected me---has changed significantly since starting therapy. 
+My relationship with my DID diagnoses---both with regards to accepting it as my diagnosis and understanding how it affects me---has evolved significantly since starting therapy. 
 Over the past approximately 1.5 years, I've been through several distinct stages of recovery. 
 
 #### Stage 0: Buildup to starting therapy (October 2021--January 2022)
 In October of 2021, I had what I thought were a series of panic attacks due to a highly specific trigger of trauma that I experienced as a child.
-I met with a psychiatrist at my school who, upon hearing of my symptoms and pediatric mental health history, likely immediately knew that I had a dissociative disorder and recommended therapy. 
+I eventually met with a psychiatrist at my school who, upon hearing of my symptoms and pediatric mental health history, likely immediately knew that I had a dissociative disorder and recommended therapy. 
 They connected me with a therapist who specializes in dissociative disorders, who I started working with in January 2022.
 
-At this time, I genuinely did not know what DID was. I was aware I experienced depersonalization [^4], and that I had some strange psychiatric symptoms in my childhood, but I thought I was mentally healthy other than that panic associated with a trigger. I started therapy with the hopes of stopping the inconvenient panic attacks, and came in with the intention that I'd only be in therapy for a year or so. I had no idea what I was signing up for.
+At this time, I genuinely did not know what DID was. I was aware I experienced depersonalization [^4], and that I had some strange psychiatric symptoms in my childhood, but I thought I was mentally healthy other than that panic associated with a trigger. I started therapy with the hopes of stopping the inconvenient panic attacks, and came in with the intention that I'd only be in therapy for a year or so. I truly had no idea what I was signing up for.
 
-[^4]: I've experienced what I label as depersonalization since I was very small. At age 4, my mom documents me telling her that I felt like a doll, that I didn't feel real. Throughout my life, the severity of my depersonalization has fluctuated significantly.
+[^4]: To me, when I experience depersonalization I do not feal real---the best way I can describe it is I genuinely feel fake. My limbs feel heavy and it feels like I'm a puppet being moved around by another being. My mom reports that, as early as age 4, that I'd tell her that I felt like a doll, and that I didn't feel real. I've experienced depersonalization off and on with varying severity for as long as I can remember.
 
 
 #### Stage 1: Denial (January--April 2022)
-The first stage was denial. 
+Upon learning that DID was my working diagnosis, the first stage was denial. 
 Despite the fact that I had a prior pediatric dissociative disorder diagnosis and had been experiencing symptoms of DID my entire life, I genuinely did not think I had DID. 
 Several parts of me believed that I was faking to get out of my adult responsibilities[^1], other parts thought that DID was fake as I was matching my symptoms to the disorder because I was reading so much about it [^2], and one very adamant part thought my therapist was inducing my symptoms [^3].
 In fact, none of these excuses were correct, but the denial was protective---it prevented me, albeit momentarily, from the awareness that I had a disorder caused by childhood trauma, which I was not yet ready to to terms with. 
@@ -28,25 +28,38 @@ In fact, none of these excuses were correct, but the denial was protective---it 
 [^2]: Upon learning that I likely had DID, I began reading as much as I possibly could about the disorder. Understanding DID became a "special interest" of mine, as I wanted to understand what I was apparently going through, and some parts took that as a sign I was reading about DID in order to fake it. This is also untrue.
 [^3]: They definitely were not as I've had symptoms of DID since before I started therapy, but a common argument of DID deniers is that it's therapist induced, which, in my case, is not true.
 
-During this stage, I didn't really even know that my symptoms were symptoms---they were normal to me, so I assumed everyone was experiencing what I did. I was switching between parts with full amnesia, but [amnesia is tricky, and less obvious than it sounds](/posts/amnesia/), so I genuinely didn't know I was had any amnesia. I was emotionally numb, like I normally am, and life was a blur. During this stage, I was unaware that I was affected by a dissociative disorder because I refused to see it.
+During this stage, I didn't really even know that my symptoms were symptoms---they were normal to me, so I assumed everyone was experiencing what I did. I was switching between parts with full amnesia, but [amnesia is tricky, and less obvious than it sounds](/posts/amnesia/), so I genuinely didn't know I had any amnesia. I was emotionally numb, like I normally am, and life was a blur. During this stage, I was unaware that I was affected by a dissociative disorder because I refused to see it.
 
 
 #### Stage 2: Acceptance (April--August 2022)
 The next stage was acceptance. 
 In April, I had several strange experiences that could only be explained by me having DID. I started noticing switches between parts, and became aware that my handwriting changed depending on which part of me was active. I began to accept that I actually did have a dissociative disorder, and that the mental health professionals I was working with were correct. 
-My symptoms starting becoming more obvious, with me realizing I experience full amnesia between parts by repeatedly finding evidence that I had done things that I had no memory of doing. I also began having more dissociative episodes, where traumatized parts would take over, but thankfully most of them occurred in therapy. I began experiencing rapid switching, where I switch between parts in a quick succession in response to stress. This is a disorienting experience, which typically ends in me having a headache. 
+My symptoms starting becoming more obvious, with me realizing I experience full amnesia between parts by repeatedly finding evidence that I had done things that I had no memory of doing. I also began having more dissociative episodes, where traumatized parts would take over, but thankfully most of them occurred in therapy or while I was home alone. I began experiencing rapid switching, where I switch between parts in a quick succession in response to stress. This is a disorienting experience, which typically ends in me being very confused and having a headache. 
 
 However, while my symptoms starting coming to light, I could not tell apart my parts---I was sometimes able to tell when I switched, but I wouldn't know which part I switched to or from. This was a particularly scary stage, as I started seeing the chaos but I simultaneously had no idea what exactly was going on---how was my system structured? I had no idea---I hadn't yet had time to collect enough data yet. 
 
 
 #### Stage 3: Seeing my parts (August 2022--March 2023)
 
-In the next stage, rather than simply seeing _symptoms_, I started seeing the _parts_ underlying those symptoms.  I started being able to correlate my handwriting changes with changes in other attributes, like interestes and posture. I looked back at what I remembered of my life and was able to see my being able to see how my parts had changed throughout my life. I began to learn more about my system structure, and that I was polyfragmented.
-
+In the next stage, rather than simply seeing _symptoms_, I started seeing the _parts_ underlying those symptoms.  I started being able to correlate my handwriting changes with changes in other attributes, like interests and posture. I looked back at what I remembered of my life and started being able to see how my parts had changed throughout my life. I began to learn more about my system structure, and realized that I was polyfragmented.
+I started assigning labels to parts that would come up frequently, and started mapping out my amnesia between parts. I sought out reasons for why my parts split in the way that they did, and why my system was so chaotic. During this time, my system was very unstable, but I internally felt fine---I was used to the chaos. I had significant lapses in memory and was trying my hardest to advance in my PhD despite this, although I was having difficulties with memory and fluctuating intelligence[^5]. 
 I was still internally numb with a low dynamic range of emotions, just as I always was. 
 
-I was _seeing_ my parts---as in, I was tracking my symptoms and assigning meaning to them---but I wasn't _connected_ to them---I couldn't feel their associated emotions.
+
+[^5]: Because different parts of me were created at different times of my life and are essentially a snapshot of who I was at that time, my intelligence, and ability to grasp onto complex ideas, fluctuates depending on which part of me is active.
+
+I was _seeing_ my parts---as in, I was tracking my symptoms and assigning meaning to them---but I wasn't _connected_ to them---I couldn't feel their associated emotions. I didn't want to feel their emotions, as I was used to being emotionally numb and enjoyed the internal stability. But in order to heal, I needed to truly connect with my parts, and that, too, came with time.
+
 #### Stage 4: Connecting with my parts (March 2023--now)
+Finally, I believe I am in a new stage of recovery---I am beginning to truly connect with my parts and feel their associated feelings. 
+While I've in no way fully mapped out my system or always know which part of me is active (so I'm still also in stage 3!), my relationship with my parts has changed significantly. Rather than solely _observing_ them like I was before, I'm beginning to _hear_ my parts' problems and _feel_ their emotions. This has been tough---I'm connecting with thoughts, feelings, and emotions I'm not used to feeling, like [anxiety](/posts/anxiety/) and anger. Because I've been so disconnected from these emotions my entire life, I'm genuinely not used to feeling _anything_, let alone the negative emotions that I had previously dissociated away. Most of the time, I'm not even sure what emotions I'm feeling---I'm having to map sensations in my body and a general awareness that the emotion is negative and infer what I should be feeling in the situation. 
+
+So while I'm in a difficult stage of recovery now, this is progress, so should be framed as good. I believe my amnesia is lessening as I'm becoming more accepting of my parts, and I'm also starting to connect with positive emotions. One younger part, in particular, has felt more comfortable to come out more, bringing excitement, joy, and happy memories with them. Most of my parts, however, hold a lot of fear, pain, sorrow, and anger. I can feel that my dynamic range of emotions is increasing as I'm connecting more of my parts. 
+
+#### Conclusion
+I don't know what my healing journey will look like in the future, but I'm happy with the progress I've made thus far. 
+Coming to terms with having DID has been 
+It's been a difficult journey and I have a long, complex healing path ahead, but I'm hopeful for what the future will bring. 
 
 
 
@@ -64,4 +77,8 @@ One year 3 months into
 
 But while I started being able to see my some of symptoms more clearly, I still could not tell apart my parts. 
 they kept me from coming to terms with the fact that I was having the difficulties I did as an adult due to trauma I experienced as a child. 
+
+I've experienced what I label as depersonalization since I was very small. At age 4, my mom documents me telling her that I felt like a doll, that I didn't feel real. Throughout my life, the severity of my depersonalization has fluctuated significantly.
+
+[^4]: To me, depersonalization feels like I do not feel real---I feel floaty in my body, and, as a 4 year old me described it, "I feel like a doll". That is, I feel fake and unreal. 
 -->
