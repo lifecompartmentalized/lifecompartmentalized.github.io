@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.lico.blog/tags/conceptualization/</loc>
-    <lastmod>2023-04-06T12:22:50-04:00</lastmod>
-  </url><url>
     <loc>http://www.lico.blog/tags/did/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/posts/stagesofrecovery/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/tags/narrative/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/posts/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/tags/symptoms/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/tags/</loc>
+    <lastmod>2023-04-09T16:33:21-04:00</lastmod>
+  </url><url>
+    <loc>http://www.lico.blog/tags/conceptualization/</loc>
     <lastmod>2023-04-06T12:22:50-04:00</lastmod>
   </url><url>
     <loc>http://www.lico.blog/posts/language/</loc>
@@ -14,25 +32,10 @@
     <loc>http://www.lico.blog/tags/language/</loc>
     <lastmod>2023-04-06T12:22:50-04:00</lastmod>
   </url><url>
-    <loc>http://www.lico.blog/</loc>
-    <lastmod>2023-04-06T12:22:50-04:00</lastmod>
-  </url><url>
-    <loc>http://www.lico.blog/posts/</loc>
-    <lastmod>2023-04-06T12:22:50-04:00</lastmod>
-  </url><url>
-    <loc>http://www.lico.blog/tags/</loc>
-    <lastmod>2023-04-06T12:22:50-04:00</lastmod>
-  </url><url>
     <loc>http://www.lico.blog/tags/amnesia/</loc>
     <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
     <loc>http://www.lico.blog/posts/amnesia/</loc>
-    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
-  </url><url>
-    <loc>http://www.lico.blog/tags/narrative/</loc>
-    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
-  </url><url>
-    <loc>http://www.lico.blog/tags/symptoms/</loc>
     <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
     <loc>http://www.lico.blog/categories/</loc>
