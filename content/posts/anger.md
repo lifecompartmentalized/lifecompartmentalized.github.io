@@ -1,17 +1,16 @@
 ---
 title: "Anger"
 date: 2023-03-27T11:05:58-05:00
-draft: true
+draft: false
 categories: ['']
 tags: ['DID', 'anger', 'narrative', 'symptoms']
 ---
-## THIS POST NEEDS TO BE REWORKED
 
-I was initially hesitant to write about anger, as it's an emotion I am not acquainted with[^1].
+I was initially hesitant to write about anger, as it's an emotion I am not used to feeling[^1].
 How could I write about something I know nothing about? 
 But I now realize that the absence of anger in my life is significant in itself, and is indicative of how I operate.
 
-Anger is an emotion that I am simultaneously very familiar with, yet not at all acquainted with---I am incredibly sensitive to the external display of anger in others, yet not at all familiar with how it feels internally. 
+Anger is an emotion that I am simultaneously very familiar with, yet not at all familar with---I am incredibly sensitive to the external display of anger in others, yet not at all familiar with how it feels internally. 
 I believe this is because when I was small, I grew up in an environment where my primary caregiver frequently displayed anger. 
 This is because they had unprocessed trauma of their own, which came out as fits of rage. 
 These bouts of anger were extremely terrifying for me as a young child, and ended in emotional and sometimes physical harm done to me. 
@@ -35,6 +34,8 @@ My understanding of anger comes from a theoretical view---I can intellectually u
 
 <!--
 
+
+## THIS POST NEEDS TO BE REWORKED
 But I now realize that the absence of anger in my life is significant in itself, and is indicative of how my underlying dissociative defense system operates.
 Anger is an emotion I learned to dissociate away from a very young age. 
 
