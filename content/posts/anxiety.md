@@ -26,17 +26,3 @@ In order to decrease my amnesia and regain control of my life, I need to connect
 Although it allows me to avoid difficult feelings in the moment, my current method of dealing with anxiety---compartmentalizing it and shoving it from my awareness---leads to uncontrollable fear-based behavior, a lack of internal awareness, and amnesia. I need to connect with this destabilizing experience once again, this time working though it instead of shoving it from my awareness. Then, I can address its root causes and gain control of my life again. 
 
 
-
-<!--
-
-I have a very curated internal experience---emotionally, I feel 
-
-The irrational thought loops 
-At least not in a normal way anymore. 
-
-DID shapes the way I experience emotions.
-
-Different aspects of my life are compartmentalized 
-
-When I was a child, I was filled with worry. 
--->

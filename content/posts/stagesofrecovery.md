@@ -7,14 +7,14 @@ tags: ['DID', 'symptoms', 'narrative']
 ---
 
 My relationship with my DID diagnoses---both with regards to accepting it as my diagnosis and understanding how it affects me---has evolved significantly since starting therapy. 
-Over the past approximately 1.5 years, I've been through several distinct stages of recovery. 
+Over the past approximately 1.5 years, I've been through several distinct stages of recovery. In this post, I reflect back on how far I've come on my recovery journey.
 
 #### Stage 0: Buildup to starting therapy (October 2021--January 2022)
 In October of 2021, I had what I thought were a series of panic attacks due to a highly specific trigger of trauma that I experienced as a child.
 I eventually met with a psychiatrist at my school who, upon hearing of my symptoms and pediatric mental health history, likely immediately knew that I had a dissociative disorder and recommended therapy. 
 They connected me with a therapist who specializes in dissociative disorders, who I started working with in January 2022.
 
-At this time, I genuinely did not know what DID was. I was aware I experienced depersonalization [^4], and that I had some strange psychiatric symptoms in my childhood, but I thought I was mentally healthy other than that panic associated with a trigger. I started therapy with the hopes of stopping the inconvenient "panic attacks", and came in with the intention that I'd only be in therapy for a year or so. I truly had no idea what I was signing up for.
+At this time, I genuinely did not know what DID was. I was aware I experienced depersonalization[^4], and that I had some strange psychiatric symptoms in my childhood, but I thought I was mentally healthy other than that panic associated with a trigger. I started therapy with the hopes of stopping the inconvenient "panic attacks", and came in with the intention that I'd only be in therapy for a year or so. I truly had no idea what I was signing up for.
 
 [^4]: To me, when I experience depersonalization I do not feel real---I feel floaty in my body, my limbs feel heavy, and it feels like I'm a puppet being moved around by another being. My mom reports that, as early as age 4, that I'd tell her that I felt like a doll, and that I didn't feel real. I've experienced depersonalization off and on with varying severity for as long as I can remember.
 
@@ -62,22 +62,3 @@ a difficult journey and I have a long, complex healing path ahead, but I'm hopef
 
 
 
-<!--
-
-I could only really tell when I did experience a switch, but I didn't know which part I was switching from or to. 
-I even took the [DES-II](http://traumadissociation.com/des), a screening tool for dissociative disorders, and scored sub-threshold for PTSD, so there was no way I thought I could have DID. In reality, I had amnesia for my symptoms---if I take the test today, I would score within the range for DID. 
-
-One day in April, I had my first experience of "rapid switching" where I was aware that I was switching---I had a blip in consciousness, and my handwriting would change. Then another blip, and my handwriting changed again. This switching happened several times, each part having 
-as I switched between parts, giving me a massive headache and definitive evidence that I had DID.
-which are much more subtle than it sounds, and essentially feels like a blip in cons
-
-One year 3 months into 
-
-
-But while I started being able to see my some of symptoms more clearly, I still could not tell apart my parts. 
-they kept me from coming to terms with the fact that I was having the difficulties I did as an adult due to trauma I experienced as a child. 
-
-I've experienced what I label as depersonalization since I was very small. At age 4, my mom documents me telling her that I felt like a doll, that I didn't feel real. Throughout my life, the severity of my depersonalization has fluctuated significantly.
-
-[^4]: To me, depersonalization feels like I do not feel real---I feel floaty in my body, and, as a 4 year old me described it, "I feel like a doll". That is, I feel fake and unreal. 
--->

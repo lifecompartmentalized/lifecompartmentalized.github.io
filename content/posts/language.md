@@ -1,5 +1,4 @@
 ---
-#title: "Describing my experiences: the multiple perspectives of DID"
 title: "Finding my language"
 
 date: 2023-04-06T12:22:50-04:00
@@ -44,58 +43,3 @@ On this blog, I have decided to use whatever language is most appropriate for de
 [^3]: This is useful for trauma survivors since it allows a detached view of self---one can perceive themselves as the observer of a situation rather than a participant in it. 
 [^4]: I didn't know this was an option, and it didn't come organically to me like the third-person perspective did. Now that I am more aware this is how I operate, I see that it aligns very well with my experiences.
 
-<!--
-
-How do I find the vocabulary to describe experiences that are can be either so mundane or extraordinary?
-grow more comfortable with the language that feels most authentic to me. 
-
-it made myself and others uncomfortable. 
-
-On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I'm trying to convey---I don't want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, I hope to write with more diverse views in the future.
-
-In order to have a more accurate view of my life, I need to look at things from the perspectives of my individual parts. 
-
-
-Looking at things from the perspectives of my individual parts,
-While I have learned to internally reference myself being a system of multiple parts of self, I am hesitant to externally display this perspective with others. 
-
-With time, I have begun to realize that I have two main ways of conceptualizing how I operate---I experience both the perspective of me as a whole person, as well as the perspectives of me as my individual parts. The perspective of me as a whole person is something I was acquainted with before my DID discovery journey began, as it is what most people experience and is thus the societal norm. While this may work for most people, solely looking at myself this way causes me to miss out of various aspects of life since my internal experiences don't fully align with this view.
-
-I never have a complete view of my life unless I take a step back and realize that there are things I may not be aware of at any given moment.
-I may write from the prospective of my parts, or me as a whole, or a combination of both. 
-
-Or how you perceive the world around you
-
-I may strongly believe that an individual is an amazing person and a good friend, only to later see the red flags of my relationship with that person 
-
-Have you thought about the language you use to describe your internal experience? I personally hadn't given it much thought until I learned I had DID. 
-How one chooses to conceptualize their experiences is deeply personal, both for those with and without a dissociative disorder.
-
-so my perspective as a whole person is influenced by which compartment I am currently in.
- since I only have the perspective of the part I currently am
----each part of me has its own perspective, which may clash with my whole-self view 
-How does one convey their internal conflict, switching and influence of parts, 
-
-But this leaves me in a tough spot---how do I to convey my experiences that are different than the norm while still trying to stay within the language 
-hesitant to portray myself differently from 
-
-To me, most of these conceptualizations of DID seem 
-I view these conceptualizations as metaphors to describe ones internal experiences. 
-With DID, different people conceptualize their internal experiences
-I have a deeply divided, messy 
-my parts have a complex internal relationships. What do I convey this to others?
-
-
-
-To me, most of these conceptualizations of DID seem 
-I view these conceptualizations as metaphors to describe ones internal experiences. 
-With DID, different people conceptualize their internal experiences
-I have a deeply divided, messy 
-my parts have a complex internal relationships. What do I convey this to others?
-
-For me, it is often difficult to put into words the experiences I've been though because of DID. 
-
-
-While using only this view this may work for most people, solely looking at myself this way causes me to miss out of various aspects of life since my internal experiences don't fully align with having a unified perspective.
-
--->

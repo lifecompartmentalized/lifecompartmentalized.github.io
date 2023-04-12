@@ -31,24 +31,3 @@ In order to get back to my walking routine, I gradually had to show that part th
 This is one example of how having DID affects my life and functioning. Before I became aware that I have DID, I was unaware of how much influence my parts had over my life. My behaviors are influenced by fear I cannot even grasp onto or feel. Other people may be more aware of my own internal state than even I am, since my body language may be contradictory to how I feel on the inside. 
 Getting to know my parts is helping me to become more aware of my internal state, and, in turn, will allow me to live a more complete life.
 
-
-
-
-<!--
-
-
-
-It's not that I as a whole am not experiencing this fear; rather I simply am not connected with it. 
-
-
-_Yeah, sure. You're chasing and yelling at me. Clearly there's something to be scared about_.
----my months long routine of going on an eveng walk ended, and I genuinely didn't even notice. I felt no fear associated with walking, but my behavior was controlled by the fear of that event occurring again, held by a part of me who wasn't connected with the core me.
-
-About a month into stopping, I suddenly realized that I hadn't gone on a walk in a long time.
-However, beyond my awareness, a part was terrified.  
-
- being mindful of my surroundings. I forced myself to walk past the location of the event again, trying to disassociate it with fear. 
-
-I feel as though this is a classic example for how I ---my deepest emotions and fears, that I am not even aware of, can show up on my face for others to see without me even realizing it. 
-One of the ways I experience DID is that the parts of me who hold onto traumatic memories and emotions are separated from the parts of me who 
--->
