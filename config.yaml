@@ -6,6 +6,7 @@ languagecode: "en-us"
 timezone: "America/New_York"
 titlecasestyle: "Go"
 
+googleAnalytics: "G-XTLSH73261"
 
 languages:
   en:
@@ -60,3 +61,5 @@ params:
     whole-me:
         name: "Whole me"
         default: false
+
+

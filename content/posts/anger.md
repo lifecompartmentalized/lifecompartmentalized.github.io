@@ -10,7 +10,7 @@ I was initially hesitant to write about anger, as it's an emotion I am not used 
 How could I write about something I know nothing about? 
 But I now realize that the absence of anger in my life is significant in itself, and is indicative of how I operate.
 
-Anger is an emotion that I am simultaneously very familiar with, yet not at all familar with---I am incredibly sensitive to the external display of anger in others, yet not at all familiar with how it feels internally. 
+Anger is an emotion that I am simultaneously very sensitive to, yet not at all familar with---I am incredibly sensitive to the external display of anger in others, yet not at all familiar with how it feels internally. 
 I believe this is because when I was small, I grew up in an environment where my primary caregiver frequently displayed anger. 
 This is because they had unprocessed trauma of their own, which came out as fits of rage. 
 These bouts of anger were extremely terrifying for me as a young child, and ended in emotional and sometimes physical harm done to me. 

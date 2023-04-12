@@ -32,44 +32,5 @@
         
         
         
-            <item>
-                
-                
-                
-                    <guid>http://www.lico.blog/categories/did/</guid>
-                    <link>http://www.lico.blog/categories/did/</link>
-                
-                
-                
-                    <title>DID</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>http://www.lico.blog/categories/narrative/</guid>
-                    <link>http://www.lico.blog/categories/narrative/</link>
-                
-                
-                
-                    <title>narrative</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>http://www.lico.blog/categories/symptoms/</guid>
-                    <link>http://www.lico.blog/categories/symptoms/</link>
-                
-                
-                
-                    <title>symptoms</title>
-                
-            </item>
-        
     </channel>
 </rss>

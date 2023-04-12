@@ -2,8 +2,8 @@
 title: "The parts I don't know about still have control"
 date: 2023-03-28T16:30:21-04:00
 draft: false
-categories: ['DID', 'symptoms', 'narrative']
-tags: ['']
+categories: ['']
+tags: ['DID', 'symptoms', 'narrative']
 ---
 
 Imagine if, without your awareness, your deepest, most repressed thoughts and feelings were displayed for the world to see. With how my DID presents, this is something that occurs quite frequently for me. Because much of my most difficult emotions are separated from the core me, I am usually unaware of them until they surface and they're in the forefront of my awareness. Then, after they are over, I may forget that these dissociative episodes ever happened. This has led to me into many scary and sometimes dangerous situations, which typically leave me puzzled by what is happening in the world around me.

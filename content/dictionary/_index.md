@@ -1,5 +1,6 @@
 ---
 title: "Dictionary"
+draft: true
 ---
 This is my personal dictionary of the words I use to describe my experience. While many of these terms and definitions are commonly used by others living with similar experiences, some of my definitions may differ from mainstream definitions to better reflect my personal experiences.
 
