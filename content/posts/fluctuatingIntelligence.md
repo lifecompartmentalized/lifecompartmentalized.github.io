@@ -3,7 +3,7 @@ title: "Fluctuating intelligence"
 date: 2023-03-13T21:52:50-04:00
 draft: false
 categories: ['']
-tags: ['DID', 'symptoms','narrative']
+tags: ['DID', 'symptoms','narrative', 'academia']
 ---
 
 I have always been nerdy. From a young age, I immersed myself in academic work, as I enjoyed learning and the strict routine that school provided for me. I also had an intense need to perform well---my perfectionistic tendencies dominated my life as a child. While I often did perform well academically, there were times where I performed markedly poorly on assessments, so far outside the norm of what would have ordinarily be expected of me, despite preparing and knowing the material. For example, on one occasion in high school, I was so prepared for an exam that I helped tutor my friends about the material leading up to it, only for me to fail while they performed well. I wasn't ordinarily a bad test taker---I genuinely didn't understand the material when exam time came. To put it simply, there were times when I was smart, and times when I was... not. I  now understand this to be as a result of having DID.

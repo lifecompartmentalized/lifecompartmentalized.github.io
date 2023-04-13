@@ -461,6 +461,8 @@ I also do not only split parts due to trauma---I seem to create parts to allevia
 # Stages of recovery
 
 
+It seems that no matter which stage of my recovery journey I'm in, I feel like I have more insight than I likely actually have. It's only upon looking back at my journey do I realize how little I knew before, and how much more I know now. I'm sure I'll look back at this post in the future and see how little insight I truly have now, and that's okay. 
+
 I could only really tell when I did experience a switch, but I didn't know which part I was switching from or to. 
 I even took the [DES-II](http://traumadissociation.com/des), a screening tool for dissociative disorders, and scored sub-threshold for PTSD, so there was no way I thought I could have DID. In reality, I had amnesia for my symptoms---if I take the test today, I would score within the range for DID. 
 

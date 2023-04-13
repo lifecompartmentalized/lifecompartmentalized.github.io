@@ -7,7 +7,7 @@ tags: ['DID', 'symptoms', 'narrative']
 ---
 
 My relationship with my DID diagnoses---both with regards to accepting it as my diagnosis and understanding how it affects me---has evolved significantly since starting therapy. 
-Over the past approximately 1.5 years, I've been through several distinct stages of recovery. In this post, I reflect back on how far I've come on my recovery journey.
+Over the past approximately 1.5 years, I've been through several distinct stages of recovery. In this post, I reflect back on how far I've come on my recovery journey so far.
 
 #### Stage 0: Buildup to starting therapy (October 2021--January 2022)
 In October of 2021, I had what I thought were a series of panic attacks due to a highly specific trigger of trauma that I experienced as a child.
@@ -39,9 +39,9 @@ My symptoms starting becoming more obvious, with me realizing I experience full 
 However, while my symptoms starting coming to light, I could not tell apart my parts---I was sometimes able to tell when I switched, but I wouldn't know which part I switched to or from. This was a particularly scary stage, as I started seeing the chaos but I simultaneously had no idea what exactly was going on---how was my system structured? I had no idea---I hadn't had time to collect enough data yet. 
 
 
-#### Stage 3: Seeing my parts (August 2022--March 2023)
+#### Stage 3: Seeing my parts (August 2022--now)
 
-In the next stage, rather than simply seeing _symptoms_, I started seeing the _parts_ underlying those symptoms.  I started being able to correlate my handwriting changes with changes in other attributes, like interests, mindset, and posture. I looked back at what I remembered of my life and started being able to see what roles different parts played. I began to learn more about my system structure, and realized that I was polyfragmented.
+In the next stage, rather than simply seeing _symptoms_, I started seeing the _parts_ underlying those symptoms.  This was a very gradual process, but over time I started being able to correlate my handwriting changes with changes in other attributes, like interests, mindset, internal bodily sensations, and posture. I looked back at what I remembered of my life and started being able to see what roles different parts played. I began to learn more about my system structure, and realized that I was polyfragmented.
 I started assigning labels to parts that would come up frequently, and started mapping out my amnesia between parts. I sought out reasons for why my parts split in the way that they did, and why my system was so chaotic. During this time, my system was very unstable, but I internally felt fine---I was used to the chaos. I had significant lapses in memory and was trying my hardest to advance in my PhD despite this, although I was having difficulties with memory and [fluctuating intelligence](/posts/fluctuatingintelligence/)[^5]. 
 I was still internally numb with a low dynamic range of emotions, just as I always was. 
 
@@ -58,7 +58,6 @@ So while I'm in a difficult stage of recovery now, this is progress, so should b
 
 I don't know what my healing journey will look like in the future, but I'm happy with the progress I've made thus far. 
 Coming to terms with having DID has been 
-a difficult journey and I have a long, complex healing path ahead, but I'm hopeful for what the future will bring. 
-
+a difficult journey and I have a long, complex healing path ahead, but I'm hopeful that the future will bring a me a more full, complete life. 
 
 
