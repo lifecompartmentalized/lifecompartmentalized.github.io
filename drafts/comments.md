@@ -8,6 +8,8 @@ tags: ['']
 
 # Amnesia
 
+, so the scariest thing might be I find myself hiding under the blanets of my bed when I thought I was in my kitchen.
+
 How does one know if the way they experience the world is _normal_? It never even occurred to me that aspects my experience could be considered disordered until recently. Now that I'm aware, so much of my life makes sense. 
 
 The way I experience amnesia seems to be more nuanced than what I have described here thus far, but I haven't formulated the words to fully describe these experiences yet.

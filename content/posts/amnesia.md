@@ -7,7 +7,7 @@ tags: ['DID', 'symptoms', 'narrative', 'amnesia']
 ---
 
 
-DID is very much internal disorder. That is, unless I tell you I have it, you wouldn't know [^1]. One of the ways DID affects my internal experience is that I have significant gaps in my memory, both of my past childhood, and of my present adulthood.
+DID is very much internal disorder. That is, unless I tell you I have it, you wouldn't know[^1]. One of the ways DID affects my internal experience is that I have significant gaps in my memory, both of my past childhood, and of my present adulthood.
 But amnesia is tricky---I don't know what I don't remember, so most of the time I don't realize I've forgotten anything.
 [^1]: Unless you catch me in a dissociative episode, which is very unlikely to happen. 
 
@@ -20,7 +20,7 @@ I also experience full amnesia between parts. That is, I will not have access to
 
 Within full amnesia, I seem to exhibit two types. The first is when I experience a discrete jump in my awareness when I switch between compartments where I have no idea what was happening just before the switch. This causes an obvious jump in my awareness, and may make it more noticeable that I have amnesia. I might find myself, all of a sudden, in a different room than I remember being in just a second ago, when in reality another part had moved me to that room outside of my awareness[^5]. I experienced this when I was younger[^2], but not as much as I've gotten older. Now, I more so seem to have a sliding-window type memory---rather than a discrete jump in awareness, my memory of what happened gradually disappears over several minutes after a switch. This leads to a perceived smoother transition between parts, making my memory loss less obvious to me.
 
-[^5]: Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home, so the scariest thing might be I find myself hiding under the blanets of my bed when I thought I was in my kitchen.
+[^5]: Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home when I'm alone or in when I'm in threapy.
 [^2]: This, along with other symptoms, led to me receiving a dissociative disorder diagnosis as a pre-teen. 
 
 Regardless of the type of amnesia I have, I experience shuffling of memories and time jumps---I do not have a continuous, linear understanding of my life. For example, it may be hard for me to differentiate what occurred last week vs what occurred years ago, and sometimes things that occurred months ago feel more current to me than things that occurred even yesterday. As always, this seems to be justified by my understanding of how I operate---if I'm in a compartment of memory that was last active a few months ago, those memories are more at the forefront of my awareness than memories formed in a different compartment yesterday. 
