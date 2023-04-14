@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://www.lico.blog/tags/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>Tags</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>http://www.lico.blog/tags/</link>
+        <link>/tags/</link>
         
         
             <title>Tags</title>
@@ -36,47 +36,8 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/did/</guid>
-                    <link>http://www.lico.blog/tags/did/</link>
-                
-                
-                
-                    <title>DID</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>http://www.lico.blog/tags/narrative/</guid>
-                    <link>http://www.lico.blog/tags/narrative/</link>
-                
-                
-                
-                    <title>narrative</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>http://www.lico.blog/tags/symptoms/</guid>
-                    <link>http://www.lico.blog/tags/symptoms/</link>
-                
-                
-                
-                    <title>symptoms</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>http://www.lico.blog/tags/conceptualization/</guid>
-                    <link>http://www.lico.blog/tags/conceptualization/</link>
+                    <guid>/tags/conceptualization/</guid>
+                    <link>/tags/conceptualization/</link>
                 
                 
                 
@@ -88,8 +49,21 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/language/</guid>
-                    <link>http://www.lico.blog/tags/language/</link>
+                    <guid>/tags/did/</guid>
+                    <link>/tags/did/</link>
+                
+                
+                
+                    <title>DID</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/language/</guid>
+                    <link>/tags/language/</link>
                 
                 
                 
@@ -101,8 +75,8 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/amnesia/</guid>
-                    <link>http://www.lico.blog/tags/amnesia/</link>
+                    <guid>/tags/amnesia/</guid>
+                    <link>/tags/amnesia/</link>
                 
                 
                 
@@ -114,8 +88,34 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/anger/</guid>
-                    <link>http://www.lico.blog/tags/anger/</link>
+                    <guid>/tags/narrative/</guid>
+                    <link>/tags/narrative/</link>
+                
+                
+                
+                    <title>narrative</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/symptoms/</guid>
+                    <link>/tags/symptoms/</link>
+                
+                
+                
+                    <title>symptoms</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/anger/</guid>
+                    <link>/tags/anger/</link>
                 
                 
                 
@@ -127,8 +127,8 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/polyfragmented/</guid>
-                    <link>http://www.lico.blog/tags/polyfragmented/</link>
+                    <guid>/tags/polyfragmented/</guid>
+                    <link>/tags/polyfragmented/</link>
                 
                 
                 
@@ -140,8 +140,8 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/anxiety/</guid>
-                    <link>http://www.lico.blog/tags/anxiety/</link>
+                    <guid>/tags/anxiety/</guid>
+                    <link>/tags/anxiety/</link>
                 
                 
                 
@@ -153,8 +153,21 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/mechanism/</guid>
-                    <link>http://www.lico.blog/tags/mechanism/</link>
+                    <guid>/tags/academia/</guid>
+                    <link>/tags/academia/</link>
+                
+                
+                
+                    <title>academia</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/mechanism/</guid>
+                    <link>/tags/mechanism/</link>
                 
                 
                 
@@ -166,8 +179,8 @@
                 
                 
                 
-                    <guid>http://www.lico.blog/tags/identity/</guid>
-                    <link>http://www.lico.blog/tags/identity/</link>
+                    <guid>/tags/identity/</guid>
+                    <link>/tags/identity/</link>
                 
                 
                 

@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://www.lico.blog/tags/polyfragmented/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/tags/polyfragmented/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>polyfragmented</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>http://www.lico.blog/tags/polyfragmented/</link>
+        <link>/tags/polyfragmented/</link>
         
         
             <title>polyfragmented</title>
@@ -58,37 +58,37 @@ Only since learning that I have DID and gaining the language to describe my expe
 When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview.
 My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I&rsquo;m getting through.</p>
 <p>Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I&rsquo;ve always lived this way&mdash;I just wasn&rsquo;t aware about it until now.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>I came to this conclusion from r/DID and r/OSDD on Reddit&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>until I stop relying solely on dissociation as a coping mechanism, which I&rsquo;m actively working on doing in therapy.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>Some people call these subsystems. I seem to have many layers of compartmentalization&mdash;my parts have their own parts.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn&rsquo;t feel comfortable for me.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5">
+<li id="fn:5" role="doc-endnote">
 <p>I use <em>switch</em> to denote a hard, discrete change between parts, which usually occurs when I&rsquo;m triggered and can be disorienting. I use <em>shift</em> to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:6">
+<li id="fn:6" role="doc-endnote">
 <p>I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:7">
+<li id="fn:7" role="doc-endnote">
 <p>My symptoms include more than just time and memory problems, but those aren&rsquo;t explicitly due to my system structure, and may be addressed in later posts.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>http://www.lico.blog/posts/polyfragmented/</guid>
-                    <link>http://www.lico.blog/posts/polyfragmented/</link>
+                    <guid>/posts/polyfragmented/</guid>
+                    <link>/posts/polyfragmented/</link>
                 
                 
                     <pubDate>Fri, 17 Mar 2023 21:11:40 -0400</pubDate>

@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://www.lico.blog/tags/mechanism/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/tags/mechanism/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>mechanism</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>http://www.lico.blog/tags/mechanism/</link>
+        <link>/tags/mechanism/</link>
         
         
             <title>mechanism</title>
@@ -37,7 +37,7 @@
                 
                     <description><![CDATA[<p>Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life.</p>
 <p>One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks&rsquo; index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
+Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks' index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
 <p>Why could this be the case? Why do I create parts when I travel? Looking back at my life story, it actually makes a lot of sense.
 My first several years of life involved a lot of traveling. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad&rsquo;s job.
 As a perk of being an expat, my dad&rsquo;s job paid for two vacations a year&mdash;one for rest and relaxation, and another to visit family.
@@ -55,19 +55,19 @@ One could argue that this was neglect or negligence&mdash;that my parents weren&
 However, it does not fit into the category of extreme abuse that is often attributed to the creation of DID.
 While I do not believe this was the only trauma that caused me to form DID, and some of those traumas would be considered abuse,
 traveling in the way that we did when I was small had a major impact on how I create parts, and is perhaps the most influential mechanism of part creation in my adult life.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
-<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts&rsquo; handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1" role="doc-endnote">
+<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts' handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>http://www.lico.blog/posts/traveling/</guid>
-                    <link>http://www.lico.blog/posts/traveling/</link>
+                    <guid>/posts/traveling/</guid>
+                    <link>/posts/traveling/</link>
                 
                 
                     <pubDate>Thu, 09 Mar 2023 22:14:57 -0500</pubDate>
@@ -85,7 +85,7 @@ traveling in the way that we did when I was small had a major impact on how I cr
 <p>DID is a highly individualized disorder which forms based off of one&rsquo;s reaction to their life experiences. As such, I can only speak for myself and how I personally experience this disorder. While DID can be difficult to understand, it can be thought of as being fundamentally about two psychological phenomena&mdash;<em>detachment</em> and <em>compartmentalization</em>. Using myself as an example, when I was small, there were times where I experienced severe repeated abuse<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, but at other times had a happy childhood. While I was being abused, I mentally <em>detached</em> myself from the situation&mdash;I disconnected from my body and the external world, choosing instead to escape into my mind to distract myself from a situation I knew no other way to get out of. Perhaps more importantly, I also internally <em>compartmentalized</em> the experience and shoved it from my awareness, effectively allowing me to forget that it even occurred after it was over as I lived an otherwise happy childhood<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. Because this abuse occurred repeatedly, I continually used this strategy of switching to the compartment that held the abuse when I experienced triggers that the abuse was going to happen again. Then, when the abuse was over, I would switch back to the compartment that had a happy childhood and was blissfully unaware of the abuse that was taking place. This repeated pattern of switching between compartments further increased my compartmentalization of memory, awareness, experience, and identity. However, this was incredibly protective, as it allowed some parts of me to learn and grow as a child while other parts of me held the difficult memories and feelings of being abused out of awareness. All of this was done on a subconscious level.</p>
 <p>This strategy of compartmentalization can only develop when trauma occurs in early childhood, while the brain still is rapidly developing and has the capacity to use such defenses. And because I learned to use these defenses when I was very young and my brain wired based on my experiences of the world around me, I learned that this was a very effective strategy for minimizing psychological discomfort.
 Because of this, over time my threshold for what constituted compartment creation lowered as I relied more and more on this coping mechanism.
-Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life&mdash;like emotions of happiness, contentment, and happy memories&mdash;from the bad aspects of my life&mdash;like anger, grief, and memories of trauma.
+Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life&mdash;like emotions of happiness, contentment, and good memories&mdash;from the bad aspects of my life&mdash;like anger, grief, and memories of trauma.
 Additionally, I learned to use compartmentalization in areas of my life that weren&rsquo;t inherently traumatic.
 While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult stressors.</p>
 <p>Rather than fluidly being able to access all aspects of my personality like a more integrated individual, I have to switch between discrete personality states as I move throughout life.
@@ -96,28 +96,28 @@ Sometimes, instead of fully taking over, these compartments intrude on my awaren
 <p>For a long time, I was adamant that I did not experience identity alteration. I&rsquo;m now realizing that while I do have many compartments that all seem to identify as &ldquo;me&rdquo;, some compartments are so far removed from present time and context that, when I am in them, I do not perceive myself as being the adult me I actually am.
 The identity alteration I do experience is incredibly subtle, and is much more an internal phenomena than an external one&mdash;an external observer will most likely not be able to tell apart my parts <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>. These parts are just different versions of me, so even with the identity alteration I do have, I see these parts as all being <em>me</em>.</p>
 <p>So DID is really not <em>about</em> identity, even if that&rsquo;s the most sensationalized part of the disorder. I personally see the identity alteration and switching/influence of multiple personality states as merely a side effect of a brilliant psychological defense mechanism in response to early childhood trauma. But while it&rsquo;s not about identity explicitly, the fact that one has several distinct identities<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> as opposed to a single unified one can be a major component to the disorder that may severely affect, both positively and negatively, how one experiences life with DID.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>This example is an oversimplification, and this severe abuse occurred outside the home. However, I did experience less severe abuse and other traumas within my family which shaped my development of this disorder as well.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>This was not fully the case, but I wanted to emphasize the differential between the good and bad parts of my childhood to provide a more concrete example of how parts in DID may split.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>For the most part, I still can&rsquo;t even tell apart my parts. This is something that I&rsquo;m sure I will get better at with time, as I get more acquainted with how I operate.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>These distinct indentities are not whole on their own. Rather, they represent different parts of my whole personality. Rather than having one unified identity, I have several fragmented identities/personality states that I switch between.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>http://www.lico.blog/posts/notaboutidentity/</guid>
-                    <link>http://www.lico.blog/posts/notaboutidentity/</link>
+                    <guid>/posts/notaboutidentity/</guid>
+                    <link>/posts/notaboutidentity/</link>
                 
                 
                     <pubDate>Mon, 06 Mar 2023 21:43:08 -0500</pubDate>

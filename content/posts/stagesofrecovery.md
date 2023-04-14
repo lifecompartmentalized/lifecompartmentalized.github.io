@@ -1,7 +1,7 @@
 ---
 title: "My stages of recovery"
 date: 2023-04-13T16:03:21-04:00
-draft: false
+draft: true
 categories: ['']
 tags: ['DID', 'symptoms', 'narrative']
 ---
@@ -55,7 +55,7 @@ But in order to heal, I needed to truly connect with my parts, rather than only 
 #### Stage 4: Connecting with my parts (March 2023--now)
 Finally, I believe I am in a new stage of recovery---I am beginning to truly connect with my parts internally.
 Since coming to terms with the fact that I need to actually allow myself to feel emotions in order to heal, my relationship with my parts has changed significantly. Rather than solely _observing_ my parts like I was before, I'm beginning to _feel_ my parts and their emotions. With this, I'm beginning to have a felt internal sense of which parts are active, rather than my previous method of telling apart my parts by solely relying on externally observable differences between the parts. 
-I'm beginning to be able to observe things like internal bodily sensations, thought patterns, how I hold my body, general views about life, interests, and a vague internal sense of "who I am" in order to tell which parts are active, with has greatly helped with the mapping of my system.
+I'm beginning to be able to observe things like internal bodily sensations, thought patterns, how I hold my body, general views about life, and a vague internal sense of "who I am" in order to tell which parts are active, with has greatly helped with the mapping of my system.
 But connecting with my parts has also been tough---I'm connecting with thoughts, feelings, and emotions I'm not used to feeling, like [anxiety](/posts/anxiety/) and [anger](/posts/anger). Because I've been so disconnected from emotions my entire life, I'm genuinely not used to feeling _anything_, let alone the negative emotions that I had previously dissociated away. Most of the time, I'm not even sure what emotions I'm feeling---I'm having to map sensations in my body and a general awareness that the emotion is "bad" and infer what I should be feeling in the situation. 
 I'm often overwhelmed my negative emotions that I'm unfamiliar with and don't enjoy feeling.
 

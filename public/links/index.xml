@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://www.lico.blog/links/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/links/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>Links</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>http://www.lico.blog/links/</link>
+        <link>/links/</link>
         
         
             <title>Links</title>

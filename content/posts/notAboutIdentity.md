@@ -18,7 +18,7 @@ DID is a highly individualized disorder which forms based off of one's reaction 
 
 This strategy of compartmentalization can only develop when trauma occurs in early childhood, while the brain still is rapidly developing and has the capacity to use such defenses. And because I learned to use these defenses when I was very young and my brain wired based on my experiences of the world around me, I learned that this was a very effective strategy for minimizing psychological discomfort. 
 Because of this, over time my threshold for what constituted compartment creation lowered as I relied more and more on this coping mechanism.
-Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life---like emotions of happiness, contentment, and happy memories---from the bad aspects of my life---like anger, grief, and memories of trauma.
+Because I was able to compartmentalize my experience, I subconsciously learned to separate the good aspects of my life---like emotions of happiness, contentment, and good memories---from the bad aspects of my life---like anger, grief, and memories of trauma.
 Additionally, I learned to use compartmentalization in areas of my life that weren't inherently traumatic. 
 While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult stressors.
 

@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://www.lico.blog/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/tags/anxiety/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>anxiety</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>http://www.lico.blog/tags/anxiety/</link>
+        <link>/tags/anxiety/</link>
         
         
             <title>anxiety</title>
@@ -46,19 +46,19 @@ I am disconnected and emotionally numb. Except for when I am not.</p>
 <p>When I was 12, I didn&rsquo;t become a less anxious person&mdash;I just became more detached from my anxiety. My crippling anxiety wasn&rsquo;t miraculously cured. Instead, it was like fixing a wound that needed stitches with a band-aid&mdash;an easy, temporary solution that left me worse-off in the long term.</p>
 <p>In order to decrease my amnesia and regain control of my life, I need to connect back with my anxiety.
 Although it allows me to avoid difficult feelings in the moment, my current method of dealing with anxiety&mdash;compartmentalizing it and shoving it from my awareness&mdash;leads to uncontrollable fear-based behavior, a lack of internal awareness, and amnesia. I need to connect with this destabilizing experience once again, this time working though it instead of shoving it from my awareness. Then, I can address its root causes and gain control of my life again.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>My mom reports me having a discrete personality change when this occurred.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>http://www.lico.blog/posts/anxiety/</guid>
-                    <link>http://www.lico.blog/posts/anxiety/</link>
+                    <guid>/posts/anxiety/</guid>
+                    <link>/posts/anxiety/</link>
                 
                 
                     <pubDate>Thu, 16 Mar 2023 19:17:28 -0400</pubDate>

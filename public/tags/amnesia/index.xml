@@ -17,7 +17,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://www.lico.blog/tags/amnesia/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/tags/amnesia/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>amnesia</description>
@@ -25,7 +25,7 @@
             <language>en-us</language>
         
         
-        <link>http://www.lico.blog/tags/amnesia/</link>
+        <link>/tags/amnesia/</link>
         
         
             <title>amnesia</title>
@@ -48,25 +48,25 @@ This leads to a lot of confusing experiences, like looking out of my window and 
 These sorts of experiences occur on an a weekly to daily basis for me.</p>
 <p>I&rsquo;m still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate.
 I hope this post serves as a snapshot in time of my awareness of how I operate a little over one year after starting therapy.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>Unless you catch me in a dissociative episode, which is very unlikely to happen.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home, so the scariest thing might be I find myself hiding under the blanets of my bed when I thought I was in my kitchen.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>This, along with other symptoms, led to me receiving a dissociative disorder diagnosis as a pre-teen.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
-                    <guid>http://www.lico.blog/posts/amnesia/</guid>
-                    <link>http://www.lico.blog/posts/amnesia/</link>
+                    <guid>/posts/amnesia/</guid>
+                    <link>/posts/amnesia/</link>
                 
                 
                     <pubDate>Thu, 30 Mar 2023 12:10:19 -0400</pubDate>

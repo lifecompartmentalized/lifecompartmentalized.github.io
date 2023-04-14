@@ -1,6 +1,6 @@
 ---
 title: "Anger"
-date: 2023-03-27T11:05:58-05:00
+date: 2023-03-22T11:05:58-05:00
 draft: false
 categories: ['']
 tags: ['DID', 'anger', 'narrative', 'symptoms']
