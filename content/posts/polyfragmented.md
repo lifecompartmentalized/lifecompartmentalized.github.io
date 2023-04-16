@@ -40,7 +40,9 @@ My system isn't neatly organized and structured. It's chaotic, messy, and unknow
 
 Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. 
 I have had DID my entire life, and I have, for the most part, lived an enjoyable and conventionally successful life despite this. I know no other way of living---this is normal to me. 
-However, because of my system structure, I struggle with many aspects of time and memory[^8], such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from days to weeks of time due to a trauma trigger. 
+However, because of my system structure, I struggle with many aspects of time and memory[^8], such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from minutes to weeks of time due to a trauma trigger. 
+My internal awareness of my life is also shuffled, so I may have a hard time differentiating what happened yesterday versus what happened last week or last month, or struggle with remembering if, for example, a cold I have today is new or if I was also sick yesterday.
+It can feel like every day a reset button in my brain is pressed, and I start all over instead of picking up where I left off yesterday. 
 This can affect my daily functioning significantly.
 Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
 
