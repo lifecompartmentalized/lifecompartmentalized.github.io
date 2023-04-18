@@ -1,9 +1,9 @@
 ---
-title: "My shuffled awareness"
+title: "Shuffled sense of time"
 date: 2023-04-15T21:19:32-04:00
 draft: false
 categories: ['']
-tags: ['']
+tags: ['DID', 'symptoms', 'polyfragmented']
 ---
 
 
@@ -16,15 +16,19 @@ Life really feels like a blur to me.
 
 I believe these experiences can be explained by my system structure, and 
 are heavily impacted by the fact that I am [polyfragmented](/posts/polyfragmented). 
-I seem to switch between compartments a significant amount on a daily basis, and I have many parts that only seem to come out every few days or weeks. Since what is at the forefront of my awareness depends on which memory compartment I'm in, and many of these compartments, or parts, only come out once in a while, the end result seems to be that my understanding of my life is very shuffled.
+I seem to shift and switch between compartments a significant amount on a daily basis, and many of these compartments, or parts, only seem to come out every few days or weeks. Since what is at the forefront of my awareness depends on which memory compartment I'm in, and many of these parts only come out once in a while, the end result seems to be that my understanding of my life is very shuffled.
 
+Right now, I have a hard time differentiating between these parts, which makes it difficult to map how my understanding of my life is shuffled. I can vaguely tell when the last time I was in an active compartment was because I remember those memories most prominently, but I don't know _who_ the part is. Many of them feel the same except for mild memory differences, seemingly because I have low identity alteration.
+I have been told that differentiating between parts takes time, so I am hopeful that I'll soon be able to identify my parts.
 I've been operating like this for my entire life without awareness that most others do not have such a shuffled awareness. 
-I'm glad that I finally understand that I have DID and that I operate in this way, as it provides me language to contextualize my experiences and a path forward to healing. With time, I hope to gain a more broad view of my life and form a more continuous relationship with time.
+I'm glad that I finally understand that I have DID and that I operate in this way, as it provides me language to contextualize my experiences. With time, I hope to gain a more broad view of my life and form a more continuous relationship with time.
 
 
 
 
 <!--In undergrad, I had two main handwritings, but in grad school my handwriting has become much more inconsistent. Furthermore, because of the way I've split work parts, I can see in my academic journal that, over the span of several months, I'm writing the same things down over and over again, all in different handwritings. I'm trying really 
+
+These experiences are just subtle enough for me to question if they are actually significant, or if everyone experiences them and I'm just hyperaware of my internal experience. It's taken me a while, but now that I know how DID affects me, I do believe that these experiences are significant, as they do impact my day-to-day functioning.
 
 
 When I wake up in the morning, I never know which part of me will be active---it seems to be different most days, so I wake up almost every morning with a different internal sense of how to operate in the world. Throughout the day, as other parts come out, my priorities and interests are shifted elsewhere, directed by what the current part wants to be doing. Externally observing my behavior, when I'm alone I discretely switch from task to task in a somewhat chaotic manner.

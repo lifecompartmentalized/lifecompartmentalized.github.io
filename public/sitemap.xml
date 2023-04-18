@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/conceptualization/</loc>
-    <lastmod>2023-04-09T12:22:50-04:00</lastmod>
-  </url><url>
     <loc>/tags/did/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/tags/polyfragmented/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/posts/shuffledawareness/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/tags/symptoms/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-04-15T21:19:32-04:00</lastmod>
+  </url><url>
+    <loc>/tags/conceptualization/</loc>
     <lastmod>2023-04-09T12:22:50-04:00</lastmod>
   </url><url>
     <loc>/posts/language/</loc>
     <lastmod>2023-04-09T12:22:50-04:00</lastmod>
   </url><url>
     <loc>/tags/language/</loc>
-    <lastmod>2023-04-09T12:22:50-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-04-09T12:22:50-04:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-04-09T12:22:50-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-04-09T12:22:50-04:00</lastmod>
   </url><url>
     <loc>/tags/amnesia/</loc>
@@ -32,9 +41,6 @@
     <loc>/tags/narrative/</loc>
     <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
-    <loc>/tags/symptoms/</loc>
-    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
-  </url><url>
     <loc>/posts/partscontrol/</loc>
     <lastmod>2023-03-28T16:30:21-04:00</lastmod>
   </url><url>
@@ -44,7 +50,7 @@
     <loc>/tags/anger/</loc>
     <lastmod>2023-03-22T11:05:58-05:00</lastmod>
   </url><url>
-    <loc>/tags/polyfragmented/</loc>
+    <loc>/tags/autism/</loc>
     <lastmod>2023-03-17T21:11:40-04:00</lastmod>
   </url><url>
     <loc>/posts/polyfragmented/</loc>
