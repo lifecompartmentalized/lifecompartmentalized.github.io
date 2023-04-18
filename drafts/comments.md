@@ -368,6 +368,9 @@ One of the ways I experience DID is that the parts of me who hold onto traumatic
 # Polyfragmented
 
 
+My internal awareness of my life is also shuffled, so I may have a hard time differentiating what happened yesterday versus what happened last week or last month, or struggle with remembering if, for example, a cold I have today is new or if I was also sick yesterday.
+It can feel like every day a reset button in my brain is pressed, and I start all over instead of picking up where I left off yesterday. 
+
 I'm only at the beginning of my journey to discovering how I operate, and I'm learning more about my system every day. 
 
 At the very begining of my journey to discovering how I operate, I never could have imagined that I had this chaotic of a system. 
