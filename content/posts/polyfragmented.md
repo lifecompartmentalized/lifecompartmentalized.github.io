@@ -21,7 +21,7 @@ Why do I have so many parts? I believe it's because the threshold for what const
 
 I've also learned that I have many different splitting patterns.
 One such splitting pattern is that, when I experience something traumatic, I seem to split many parts in a sequential manner, which leads to a lot of parts being created for a single event.
-I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged [^7].
+I also do not only split parts due to trauma---I seem to create parts to alleviate even mild discomfort from my awareness. This is something I developed over time, as my threshold for what constituted part creation lowered as I grew older and subconsciously realized how useful of a coping mechanism creating parts was. That is, I became increasingly more fragmented as the older I became, making me more and more dysfunctional in the real world as I aged[^7].
 
 
 [^7]: until I stop relying solely on dissociation as a coping mechanism, which I'm actively working on doing in therapy.
@@ -41,7 +41,7 @@ My system isn't neatly organized and structured. It's chaotic, messy, and unknow
 Now, while this may sound like a difficult way to live---and in many aspects it certainly is---I believe the language used to describe this disorder makes it sound a lot more severe than it feels internally, at least to me. 
 I have had DID my entire life, and I have, for the most part, lived an enjoyable and conventionally successful life despite this. I know no other way of living---this is normal to me. 
 However, because of my system structure, I struggle with many aspects of time and memory[^8], such as knowing what day, month, or sometimes year it is when I wake up in the morning, remembering what I did yesterday, or even 5 minutes ago, and losing anywhere from minutes to weeks of time due to a trauma trigger. 
-Additionall, [my internal awareness of my life is also shuffled](/posts/shuffledawareness/), so I do not have a linear narrative history of my life or day-to-day activities.
+Additionally, [my internal awareness of my life is shuffled](/posts/shuffledawareness/), so I do not have a linear narrative history of my life or day-to-day activities.
 This can affect my daily functioning significantly.
 Only since learning that I have DID and gaining the language to describe my experiences did I know the way I experience the world is different from most others, and could be considered disordered. However, this is my normal, and always has been.
 

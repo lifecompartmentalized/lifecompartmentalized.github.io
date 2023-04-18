@@ -30,7 +30,7 @@ Additionally, depending on which memory compartment I'm in, I will have differen
 Sometimes, instead of fully taking over, these compartments intrude on my awareness, so I may have unexplained feelings of, say, fear that I have no idea where is coming from or what is triggering it.
 
 For a long time, I was adamant that I did not experience identity alteration. I'm now realizing that while I do have many compartments that all seem to identify as "me", some compartments are so far removed from present time and context that, when I am in them, I do not perceive myself as being the adult me I actually am. 
-The identity alteration I do experience is incredibly subtle, and is much more an internal phenomena than an external one---an external observer will most likely not be able to tell apart my parts [^4]. These parts are just different versions of me, so even with the identity alteration I do have, I see these parts as all being _me_.
+The identity alteration I do experience is incredibly subtle, and is much more an internal phenomena than an external one---an external observer will most likely not be able to tell apart my parts[^4]. These parts are just different versions of me, so even with the identity alteration I do have, I see these parts as all being _me_.
 
 [^4]: For the most part, I still can't even tell apart my parts. This is something that I'm sure I will get better at with time, as I get more acquainted with how I operate.
 
