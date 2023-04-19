@@ -12,7 +12,7 @@ As an example, I like to go on evening walks for exercise. I typically walk one 
 
 "You're scared of me, huh? What do you have to be scared about?"
 
-_What?_ It was so out of context for me; I had no idea why they were yelling at me. I wasn't scared of them---up until they started yelling at me, I hadn't even noticed them. I ignored them and calmly kept walking in the direction I was going. Then, they started moving towards me [^1], continually yelling at me. 
+_What?_ It was so out of context for me; I had no idea why they were yelling at me. I wasn't scared of them---up until they started yelling at me, I hadn't even noticed them. I ignored them and calmly kept walking in the direction I was going. Then, they started moving towards me[^1], continually yelling at me. 
 
 [^1]: Thankfully, they used a walker, so I was in little danger.
 
