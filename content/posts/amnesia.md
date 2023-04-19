@@ -7,9 +7,9 @@ tags: ['DID', 'symptoms', 'narrative', 'amnesia']
 ---
 
 
-DID is very much internal disorder. That is, unless I tell you I have it, you wouldn't know[^1]. One of the ways DID affects my internal experience is that I have significant gaps in my memory, both of my past childhood, and of my present adulthood.
+DID is very much internal disorder. That is, unless I tell you that I have it, you wouldn't know[^1]. One of the ways DID affects my internal experience is that I have significant gaps in my memory, both of my past childhood, and of my present adulthood.
 But amnesia is tricky---I don't know what I don't remember, so most of the time I don't realize I've forgotten anything.
-[^1]: Unless you catch me in a dissociative episode, which is very unlikely to happen. 
+[^1]: Unless you really know what to look for or you catch me in a dissociative episode, neither of which are likely.
 
 I believe I experience amnesia in a few ways.
 The most innocuous type that I experience seems due to me having constricted awareness---each of my parts seems to act as a compartment of memory, so when I'm in one compartment it may be difficult for me to index memories that occurred when I was in a different compartment of memory. 
