@@ -24,7 +24,7 @@ Additionally, I learned to use compartmentalization in areas of my life that wer
 While this started as a very effective coping mechanism in response to childhood trauma, it has rapidly turned maladaptive as I have continually created compartments to respond to adult stressors.
 
 Rather than fluidly being able to access all aspects of my personality like a more integrated individual, I have to switch between discrete personality states as I move throughout life.
-While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments it can feel like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
+While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments it can feel like my working memory, or what I was actively thinking about, gets wiped---like a blip in my conscious awareness. 
 I also have compartments of memory with varying degrees of amnesia between them, so I genuinely may not remember what happened when I was in one compartment when I'm in a different compartment. This lack of memory sharing typically happens between compartments who hold traumatic memories and emotions and ones who do not. 
 Additionally, depending on which memory compartment I'm in, I will have different motivations and awareness of my current life. So while I may be an enthusiastic PhD student in several compartments, I also have compartments where I have no idea what my research is, or even that I am a student working towards my degree.
 Sometimes, instead of fully taking over, these compartments intrude on my awareness, so I may have unexplained feelings of, say, fear that I have no idea where is coming from or what is triggering it.
@@ -37,3 +37,7 @@ The identity alteration I do experience is incredibly subtle, and is much more a
 So DID is really not _about_ identity, even if that's the most sensationalized part of the disorder. I personally see the identity alteration and switching/influence of multiple personality states as merely a side effect of a brilliant psychological defense mechanism in response to early childhood trauma. But while it's not about identity explicitly, the fact that one has several distinct identities[^3] as opposed to a single unified one can be a major component to the disorder that may severely affect, both positively and negatively, how one experiences life with DID. 
 
 [^3]: These distinct indentities are not whole on their own. Rather, they represent different parts of my whole personality. Rather than having one unified identity, I have several fragmented identities/personality states that I switch between.
+
+<!--
+While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments it can feel like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
+-->

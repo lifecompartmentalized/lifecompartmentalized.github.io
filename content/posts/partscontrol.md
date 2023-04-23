@@ -3,7 +3,7 @@ title: "The parts I don't know about still have control"
 date: 2023-03-28T16:30:21-04:00
 draft: false
 categories: ['']
-tags: ['DID', 'symptoms', 'narrative']
+tags: ['DID', 'symptoms', 'narrative', 'amnesia']
 ---
 
 Imagine if, without your awareness, your deepest, most repressed thoughts and feelings were displayed for the world to see. With how my DID presents, this is something that occurs quite frequently for me. Because much of my most difficult emotions are separated from the core me, I am usually unaware of them until they surface and they're in the forefront of my awareness. Then, after they are over, I may forget that these dissociative episodes ever happened. This has led to me into many scary and sometimes dangerous situations, which typically leave me puzzled by what is happening in the world around me.
@@ -17,7 +17,6 @@ _What?_ It was so out of context for me; I had no idea why they were yelling at 
 [^1]: Thankfully, they used a walker, so I was in little danger.
 
 "Why are you scared of me? You think I'm threatening? There's nothing to be scared about!"
-
 
 I sped up walking and continued ignoring them. I felt very calm while this was happening, although I was confused by what going on. I eventually made it to the next block over and lost sight of them. I calmly walked home, and went out of my way to reassure myself that I had done nothing wrong, and that the person was at fault, not me. But _why_ did this person think I was scared of them? Was I scared of them? 
 
