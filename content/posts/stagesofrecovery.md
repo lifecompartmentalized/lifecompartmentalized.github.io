@@ -1,7 +1,7 @@
 ---
 title: "My stages of recovery"
 date: 2023-04-13T16:03:21-04:00
-draft: true
+draft: false
 categories: ['']
 tags: ['DID', 'symptoms', 'narrative']
 ---
@@ -22,7 +22,7 @@ At this time, I genuinely did not know what DID was. I was aware I experienced d
 #### Stage 1: Denial (January--April 2022)
 Upon learning that DID was my working diagnosis, the first stage was denial. 
 Despite the fact that I had a prior pediatric dissociative disorder diagnosis and had been experiencing symptoms of DID my entire life, I genuinely did not think I had DID. 
-Several parts of me believed that I was faking to get out of my adult responsibilities[^1], other parts thought that DID was fake as I was matching my symptoms to the disorder because I was reading so much about it[^2], and one adamant part thought my therapist was inducing my symptoms[^3].
+Several parts of me believed that I was faking to get out of my adult responsibilities[^1], other parts thought that DID was fake as I was matching my symptoms to the disorder because I was reading so much academic literature about it[^2], and one adamant part thought my therapist was inducing my symptoms[^3].
 In fact, none of these excuses were correct, but the denial was protective---it prevented me, albeit momentarily, from the awareness that I had a disorder caused by childhood trauma, which I was not yet ready to to terms with. 
 [^1]: I started "failing" at my adult responsibilities when my symptoms became worse. Instead of seeing my difficulties increasing as a result of my becoming more symptomatic, I saw it as the other way around---I believed I started faking symptoms as an excuse for my failings. I now see this as being unequivocally untrue---there is no way I could be faking these symptoms. Feelings of faking are apparently very common in early stages of treatment of DID.
 [^2]: Upon learning that I likely had DID, I began reading as much as I possibly could about the disorder. Understanding DID became a "special interest" of mine, as I wanted to understand what I was apparently going through, and some parts took that as a sign I was reading about DID in order to fake it. This is also untrue.
@@ -46,7 +46,7 @@ In the next stage, rather than simply seeing _symptoms_, I started seeing the _p
 I started assigning labels to parts that would come up frequently, and started mapping out my amnesia between parts. I sought out reasons for why my parts split in the way that they did, and why my system was so chaotic. During this time, my system was very unstable, but I internally felt fine---I was used to the chaos. I had significant lapses in memory and was trying my hardest to advance in my PhD program despite this, although I was having difficulties with memory and [fluctuating intelligence](/posts/fluctuatingintelligence/)[^5]. 
 I was still internally numb with a low dynamic range of emotions, just as I always was. 
 
-[^5]: Because different parts of me were created at different times of my life and are essentially a snapshot of who I was at that time, my intelligence, and ability to grasp onto complex ideas, fluctuates depending on which part of me is active. This has been extremely difficult as a PhD student who needs to hold onto complex ideas.
+[^5]: Because different parts of me were created at different times of my life and are essentially a snapshot of who I was at that time, my intelligence, and ability to grasp onto complex ideas, fluctuates depending on which part of me is active. This has been extremely difficult as a PhD student who needs to hold onto complex concepts.
 
 I was _seeing_ my parts---as in, I was tracking my symptoms and assigning meaning to them---but I wasn't _connected_ to them. I couldn't internally differentiate between parts, as I was solely relying on external differences between parts rather than a felt internal sense of difference. I was adamant that I was not able to internally differentiate between the parts, but in reality, I never even tried to look inside to see if I did.
 I didn't want to feel the parts, who often come with difficult emotions, as I was used to being emotionally numb and enjoyed the internal stability. 
@@ -55,12 +55,14 @@ But in order to heal, I needed to truly connect with my parts, rather than only 
 #### Stage 4: Connecting with my parts (March 2023--now)
 Finally, I believe I am in a new stage of recovery---I am beginning to truly connect with my parts internally.
 Since coming to terms with the fact that I need to actually allow myself to feel emotions in order to heal, my relationship with my parts has changed significantly. Rather than solely _observing_ my parts like I was before, I'm beginning to _feel_ my parts and their emotions. With this, I'm beginning to have a felt internal sense of which parts are active, rather than my previous method of telling apart my parts by solely relying on externally observable differences between the parts. 
-I'm beginning to be able to observe things like internal bodily sensations, thought patterns, how I hold my body, general views about life, and a vague internal sense of "who I am" in order to tell which parts are active, with has greatly helped with the mapping of my system.
+I'm beginning to be able to observe things like internal bodily sensations, thought patterns, how I hold my body, general views about life, and a vague internal sense of "who I am" in order to tell which parts are active, which has greatly helped with the mapping of my system.
 But connecting with my parts has also been tough---I'm connecting with thoughts, feelings, and emotions I'm not used to feeling, like [anxiety](/posts/anxiety/) and [anger](/posts/anger). Because I've been so disconnected from emotions my entire life, I'm genuinely not used to feeling _anything_, let alone the negative emotions that I had previously dissociated away. Most of the time, I'm not even sure what emotions I'm feeling---I'm having to map sensations in my body and a general awareness that the emotion is "bad" and infer what I should be feeling in the situation. 
 I'm often overwhelmed my negative emotions that I'm unfamiliar with and don't enjoy feeling.
 
 So while I'm in a difficult stage of recovery now, this is progress, so should be framed as good. I believe my amnesia is lessening as I'm becoming more accepting of my parts, and I'm also starting to connect with positive emotions. One younger part, in particular, has felt more comfortable to come out more, bringing excitement, joy, and happy memories with them. Many of my parts, however, hold a lot of fear, pain, sorrow, and anger. I can feel that my dynamic range of emotions is increasing as I'm connecting with more of my parts. 
 
+The more I look back on how far I come, the more insight about myself I seem to be gaining. 
+I now see that insight comes with time and reflection, so I'm sure I'll look back at this post in the future and realize how little I understood now.
 I don't know what my healing journey will look like in the future, but I'm happy with the progress I've made thus far. 
 Coming to terms with having DID has been 
 a difficult journey and I have a long, complex healing path ahead, but I'm hopeful that the future will bring a me a more full, complete life. 
