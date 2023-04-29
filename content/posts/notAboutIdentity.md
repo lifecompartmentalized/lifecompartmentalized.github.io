@@ -4,7 +4,9 @@ date: 2023-03-06T21:43:08-05:00
 categories: ['']
 tags: ['DID', 'identity', 'mechanism']
 paige:
-  pin: true # Display this page before the rest
+ pin: true # Display this page before the rest
+#authors: ['whole-me']
+
 ---
 
 ... it's about childhood trauma. 

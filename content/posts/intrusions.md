@@ -24,25 +24,3 @@ From the outside, all of this happens so fast that if you blink you might miss i
 From a therapeutic perspective, I'm supposed to try and connect with these parts, or take a moment to reflect inwards, when they come up. However, I'm so used to just moving on with my life after they occur, as I've been doing my whole life, that it has become habitual. I typically don't even realize that I've had one of these dissociative intrusions because they occur so frequently for me that I perceive them as being normal, and I rapidly forget that they even occurred and move on with life. I have too many of these a day to stop and reflect internally after every episode. I still see these episodes as a nuisance, rather than parts that are surfacing into my consciousness because they need help, as I should if I want to encourage integration between my parts. Healing is difficult work.
 
 
-<!--
-I believe these could be categorized as dissociative intrusions.
-I don't want to let others know what I'm experiencing.
-, especially since I'm so detached from my emotions, which are seemingly held by these parts. 
-
-I wonder if the fact that I experience parts in this way---only seconds at a time, and forgetting them after---is because I'm polyfragmented
-
-While I do experience longer dissociative episodes where I lose my grasp on external reality for longer periods, they're uncommon, whereas these short blips occur daily. 
-What exactly that means depends on how "powerful" that part is, or how much that part manages to take over.
-I like to call these blips.
-I've briefly lost my grasp on external reality. 
-
-Sometimes, a thought will pop up in my head that very momentarily pulls me away from the present. 
-Sometimes, this thought pull me in my head 
-Sometimes, this part 
-
-Does this sound like an experience you, someone without a dissociative disorder, relate to? I'd imagine that would be the case, at least to an extent. It makes sense to me that these sorts of events are a fundamental part of the human experience. I believe my symptoms are 
-
-There is a spectrum of 
-
-Momentary episodes of dissociation, where a part will very briefly take control of my body, 
--->

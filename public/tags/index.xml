@@ -36,6 +36,19 @@
                 
                 
                 
+                    <guid>/tags/amnesia/</guid>
+                    <link>/tags/amnesia/</link>
+                
+                
+                
+                    <title>amnesia</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
                     <guid>/tags/did/</guid>
                     <link>/tags/did/</link>
                 
@@ -49,12 +62,12 @@
                 
                 
                 
-                    <guid>/tags/polyfragmented/</guid>
-                    <link>/tags/polyfragmented/</link>
+                    <guid>/tags/symptoms/</guid>
+                    <link>/tags/symptoms/</link>
                 
                 
                 
-                    <title>polyfragmented</title>
+                    <title>symptoms</title>
                 
             </item>
         
@@ -62,12 +75,12 @@
                 
                 
                 
-                    <guid>/tags/symptoms/</guid>
-                    <link>/tags/symptoms/</link>
+                    <guid>/tags/polyfragmented/</guid>
+                    <link>/tags/polyfragmented/</link>
                 
                 
                 
-                    <title>symptoms</title>
+                    <title>polyfragmented</title>
                 
             </item>
         
@@ -94,19 +107,6 @@
                 
                 
                     <title>language</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/amnesia/</guid>
-                    <link>/tags/amnesia/</link>
-                
-                
-                
-                    <title>amnesia</title>
                 
             </item>
         

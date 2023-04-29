@@ -589,3 +589,44 @@ Because the way I navigate throughout life involves switching between compartmen
 When the abused part was out, I would be able to focus all of my energy on minimizing the abuse, 
 
 . What exactly I'm aware of depends on which memory compartment I'm in.
+
+# disesp
+
+I believe these could be categorized as dissociative intrusions.
+I don't want to let others know what I'm experiencing.
+, especially since I'm so detached from my emotions, which are seemingly held by these parts. 
+
+I wonder if the fact that I experience parts in this way---only seconds at a time, and forgetting them after---is because I'm polyfragmented
+
+While I do experience longer dissociative episodes where I lose my grasp on external reality for longer periods, they're uncommon, whereas these short blips occur daily. 
+What exactly that means depends on how "powerful" that part is, or how much that part manages to take over.
+I like to call these blips.
+I've briefly lost my grasp on external reality. 
+
+Sometimes, a thought will pop up in my head that very momentarily pulls me away from the present. 
+Sometimes, this thought pull me in my head 
+Sometimes, this part 
+
+Does this sound like an experience you, someone without a dissociative disorder, relate to? I'd imagine that would be the case, at least to an extent. It makes sense to me that these sorts of events are a fundamental part of the human experience. I believe my symptoms are 
+
+There is a spectrum of 
+
+Momentary episodes of dissociation, where a part will very briefly take control of my body, 
+
+# stages of recovery
+
+, so it genuinely didn't occur to me that I could internally feel the difference between the parts if I tried. 
+
+I was _seeing_ my parts---as in, I was tracking my symptoms and assigning meaning to them---but I wasn't _connected_ to them---I couldn't feel their associated emotions. I didn't want to feel their emotions, as I was used to being emotionally numb and enjoyed the internal stability. But in order to heal, I needed to truly connect with my parts, and that, too, came with time.
+
+
+#### Stage 4: Connecting with my parts (March 2023--now)
+Finally, I believe I am in a new stage of recovery---I am beginning to truly connect with my parts and feel their associated feelings. 
+While I've in no way fully mapped out my system or always know which part of me is active (so I'm still also in stage 3!), my relationship with my parts has changed significantly. Rather than solely _observing_ them like I was before, I'm beginning to _hear_ my parts' problems and _feel_ their emotions. This has been tough---I'm connecting with thoughts, feelings, and emotions I'm not used to feeling, like [anxiety](/posts/anxiety/) and [anger](/posts/anger). Because I've been so disconnected from emotions my entire life, I'm genuinely not used to feeling _anything_, let alone the negative emotions that I had previously dissociated away. Most of the time, I'm not even sure what emotions I'm feeling---I'm having to map sensations in my body and a general awareness that the emotion is negative and infer what I should be feeling in the situation. 
+
+So while I'm in a difficult stage of recovery now, this is progress, so should be framed as good. I believe my amnesia is lessening as I'm becoming more accepting of my parts, and I'm also starting to connect with positive emotions. One younger part, in particular, has felt more comfortable to come out more, bringing excitement, joy, and happy memories with them. Most of my parts, however, hold a lot of fear, pain, sorrow, and anger. I can feel that my dynamic range of emotions is increasing as I'm connecting more of my parts. 
+
+I don't know what my healing journey will look like in the future, but I'm happy with the progress I've made thus far. 
+Coming to terms with having DID has been 
+a difficult journey and I have a long, complex healing path ahead, but I'm hopeful that the future will bring a me a more full, complete life. 
+
