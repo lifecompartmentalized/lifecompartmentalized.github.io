@@ -465,6 +465,10 @@ I also do not only split parts due to trauma---I seem to create parts to allevia
 
 # Stages of recovery
 
+I now see how much insight comes with time and reflection, so I'm sure I'll look back at this post in the future and realize how little I understand now.
+
+that, as early as age 4, that I'd tell her that I felt like a doll, and that I didn't feel real
+
 
 It seems that no matter which stage of my recovery journey I'm in, I feel like I have more insight than I likely actually have. It's only upon looking back at my journey do I realize how little I knew before, and how much more I know now. I'm sure I'll look back at this post in the future and see how little insight I truly have now, and that's okay. 
 
