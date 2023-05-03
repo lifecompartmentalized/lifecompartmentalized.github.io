@@ -1,0 +1,11 @@
+<!-- Load application code at the end to ensure DOM is loaded -->
+
+
+<script src="/cytoscape/cytoscape.min.js"></script>
+{{ if .IsNamedParams }}
+<div id="{{ .Get "id" }}" class="graph"></div>
+<script src="/cytoscape/{{ .Get "id" }}.js"></script>
+{{ else }}
+<div id="cy" class="graph"></div>
+<script src="cytoscape/cy.js"></script>
+{{ end }}

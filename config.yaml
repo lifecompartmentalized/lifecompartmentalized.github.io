@@ -8,6 +8,8 @@ titlecasestyle: "Go"
 
 googleAnalytics: "G-XTLSH73261"
 
+enableRobotsTXT: true
+
 languages:
   en:
     menu:

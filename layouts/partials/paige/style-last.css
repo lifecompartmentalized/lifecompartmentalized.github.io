@@ -355,3 +355,13 @@ ul {
   font-style: italic;
   margin-top:-10px;
 }
+
+.graph {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+  width: 375px;
+  height: 375px;
+}
+
