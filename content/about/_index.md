@@ -15,7 +15,7 @@ If you have any comments, questions, suggestions, or relate to my experiences, p
 
 
 
-_Technical details: This website is made with [Hugo](https://gohugo.io/) using the [Paige](https://github.com/willfaught/paige) template. The header is made with [Processing.js](https://github.com/processing-js/processing-js)._
+_Technical details: This website is made with [Hugo](https://gohugo.io/) using the [Paige](https://github.com/willfaught/paige) template. The header is made with [Processing.js](https://github.com/processing-js/processing-js) and graphs are made with [Cytoscape.js](https://js.cytoscape.org/)._
 
 {{< ccbyncsa >}}
 

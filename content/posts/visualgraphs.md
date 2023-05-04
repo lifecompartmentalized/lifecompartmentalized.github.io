@@ -8,7 +8,7 @@ tags: ['DID', 'graphs', 'conceptualization']
 
 
 
-Everybody, regardless of if they have a dissociative disorder or not, has parts to their personality. For example, one may generally behave differently at work with their colleagues than they do at home with their family---they have a "work self" and a "home self". 
+Everybody, regardless of if they have a dissociative disorder or not, has parts of their personality. For example, one may generally behave differently at work with their colleagues than they do at home with their family---they have a "work self" and a "home self". 
 In someone without a dissociative disorder, 
 when one transitions between their work self and their home self, they likely have a continuous internal sense of memory and identity---when they're at home, they still remember what happened while they were at work and relate to those experiences. Using graphs, we can represent the relationship between their work self and their home self with two nodes, each denoting a part of their personality, and one edge connecting the nodes, relating the shared sense of memory and identity between the two parts.
 {{< cytoscape id="twoparts" >}}
@@ -29,15 +29,16 @@ Their parts do not form a complete graph---the lack of connection between their 
 In an individual with DID, when one part of them is active, they may experience the world in an entirely different way than when a different part is active. They may have a different awareness of their life, different memories, and have an different felt sense of identity. Their life is compartmentalized into different pockets of awareness, identity, memory, and experience that they switch between to experience life. Not all of their parts are aware of the feelings and actions of other parts, and this is by design---from a young age, they learned to separate parts of self who hold difficult memories and experiences from other parts of self. This separation of parts of self is protective, as it allowed them to learn and grow as a child when some parts of them were active, while using different parts to compartmentalize traumatic experiences away from the more healthy parts of self.
 
 It is important to note that just as everybody's personality structure is different from one another's, people with DID are going to have a different system structures, which depends on their reactions to their individual life experiences.
-For example, part of my system structure may look something like this:
+For example, part of my system structure looks something like this:
 
 {{< cytoscape id="mysystem" >}}
 
-This is a far overly simplistic view, and only shows the parts of my system structure that I am aware of and am comfortable sharing here. Here, I use the weights of edges between nodes to represent how connected two parts are, I use squares to denote clusters of parts rather than individual parts, and I only show three parts in each cluster when there are actually many more. In reality, I believe my system is much more complex than can be shown on a simple graph[^1]. However, I feel as though graphs can be a good visual representation of how parts relate to one another so I plan on using this analogy in future posts that warrant it.
+This is a far overly simplistic view, and only shows the parts of my system structure that I am aware of and am comfortable sharing. Here, I use the weights of edges between nodes to represent how connected two parts are, I use squares to denote clusters of parts rather than individual parts, and I only show three parts in each cluster when there are actually many more. In reality, I believe my system is much more complex than can be shown on a simple graph[^1]. However, I feel as though graphs are a good visual representation of how parts relate to one another, so I plan on using this style of visualization in future posts that warrant it.
 
 [^1]: To be more accurate, I'd also probably need to use a directed graph to show the one-way amnesia I sometimes experience---a part may be aware of the actions of another part, but that other part isn't aware of the first part. This is quite common in my system.
 
 <!--
+
 
 
 The graph above is an overly simplistic view of an example system structure. In reality, it would be hard to capture an entire system structure with
