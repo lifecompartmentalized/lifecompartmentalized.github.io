@@ -370,3 +370,24 @@ ul {
   height: 675px;
 }
 
+#compselv {
+  display: flex;
+  margin: auto;
+  width: 675px;
+  height: calc(100vh - 215px);
+}
+
+
+.colorbox {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 25px;
+  float: left;
+  padding: 25px;
+  margin-right: 25px;
+}
+
+.partsPage p{
+  text-indent: 0px;
+}

@@ -96,21 +96,21 @@ var cy = cytoscape({
 
   elements: {
     nodes: [
-      { data: { id: 'w',  mySize: 80, label: 'work \n selves' } },
-      { data: { id: 'w1', mySize: 60, label: 'worker \n 1' } },
-      { data: { id: 'w2', mySize: 60, label: 'worker \n 2' } },
-      { data: { id: 'w3', mySize: 60, label: 'worker \n 3' } },
-      { data: { id: 'h',  mySize: 80, label: 'home self' } },
-      { data: { id: 's',  mySize: 80, label: 'social \n selves' } },
-      { data: { id: 's1',  mySize: 60, label: 'social \n 1' } },
-      { data: { id: 's2',  mySize: 60, label: 'social \n 2' } },
-      { data: { id: 's3',  mySize: 60, label: 'social \n 3' } },
-      { data: { id: 't',  mySize: 80, label: 'trauma\n holding \n selves' } },
-      { data: { id: 't1',  mySize: 60, label: 'trauma\n holder \n 1' } },
-      { data: { id: 't2',  mySize: 60, label: 'trauma\n holder \n 2' } },
-      { data: { id: 't3',  mySize: 60, label: 'trauma\n holder \n 3' } },
-      { data: { id: 'a',  mySize: 80, label: 'angry self' } },
-      { data: { id: 'f',  mySize: 80, label: 'anxious \n self' } }
+      { data: { id: 'w',  mySize: 90, label: 'work \n selves' } },
+      { data: { id: 'w1', mySize: 70, label: 'worker \n 1' } },
+      { data: { id: 'w2', mySize: 70, label: 'worker \n 2' } },
+      { data: { id: 'w3', mySize: 70, label: 'worker \n 3' } },
+      { data: { id: 'h',  mySize: 90, label: 'home self' } },
+      { data: { id: 's',  mySize: 90, label: 'social \n selves' } },
+      { data: { id: 's1',  mySize: 70, label: 'social \n 1' } },
+      { data: { id: 's2',  mySize: 70, label: 'social \n 2' } },
+      { data: { id: 's3',  mySize: 70, label: 'social \n 3' } },
+      { data: { id: 't',  mySize: 90, label: 'trauma\n holding \n selves' } },
+      { data: { id: 't1',  mySize: 70, label: 'trauma\n holder \n 1' } },
+      { data: { id: 't2',  mySize: 70, label: 'trauma\n holder \n 2' } },
+      { data: { id: 't3',  mySize: 70, label: 'trauma\n holder \n 3' } },
+      { data: { id: 'a',  mySize: 90, label: 'angry self' } },
+      { data: { id: 'f',  mySize: 90, label: 'anxious \n self' } }
 
     ],
     edges: [
@@ -119,13 +119,12 @@ var cy = cytoscape({
       { data: { source: 'w', target: 'w2', myWidth: 8 } },
       { data: { source: 'w', target: 'w3', myWidth: 8 } },
       { data: { source: 'w', target: 's', myWidth: 5 } },
-      { data: { source: 'w', target: 'f', myWidth: 3 } },
-      { data: { source: 's', target: 'f', myWidth: 3 } },
+      { data: { source: 'w', target: 'f', myWidth: 1 } },
+      { data: { source: 's', target: 'f', myWidth: 1 } },
       { data: { source: 's', target: 's1', myWidth: 8 } },
       { data: { source: 's', target: 's2', myWidth: 8 } },
       { data: { source: 's', target: 's3', myWidth: 8 } },
       { data: { source: 'h', target: 's', myWidth: 8 } },
-      { data: { source: 't', target: 'h', myWidth: 2 } },
       { data: { source: 't', target: 't1', myWidth: 1 } },
       { data: { source: 't', target: 't2', myWidth: 1 } },
       { data: { source: 't', target: 't3', myWidth: 1 } }
