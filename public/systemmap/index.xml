@@ -41,8 +41,7 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Internal</p>
-<p><strong>Description</strong>: Overseer. Knows about all the parts, not all the parts know about them. Controls the transfer of information between parts. Rarely controls the body.</p>
+<p><strong>Description</strong>: Overseer. Knows about all the parts, not all the parts know about it. Controls the transfer of information between parts. Rarely controls the body.</p>
 </div>
 ]]></description>
                 
@@ -50,8 +49,6 @@
                     <guid>/systemmap/000000/</guid>
                     <link>/systemmap/000000/</link>
                 
-                
-                    <pubDate>Sat, 06 May 2023 11:09:45 -0400</pubDate>
                 
                 
                     <title>#000000</title>
@@ -67,7 +64,6 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Kids</p>
 <p><strong>Age</strong>: 4</p>
 <p><strong>Description</strong>: Young part, holds curiosity, wonder, and awe. Fascinated by small objects and life.</p>
 <p><strong>Friends</strong>: <a href="/systemmap/ff61cf/">#FF61CF</a>, <a href="/systemmap/be86f7/">#BE86F7</a></p>
@@ -93,9 +89,8 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Life</p>
 <p><strong>Age:</strong> 23</p>
-<p><strong>Description</strong>: Goes with the flow, doesn&rsquo;t have any plans or expectations and follows what others decide.</p>
+<p><strong>Description</strong>: Goes with the flow, doesn&rsquo;t have any plans or expectations and follows what others decide. Was created during COVID lockdowns due to loss of control of circumstances.</p>
 <p><strong>Friends</strong>: <a href="/systemmap/9157cd/">#9157CD</a></p>
 </div>
 ]]></description>
@@ -119,9 +114,8 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Life</p>
 <p><strong>Age</strong>: 12</p>
-<p><strong>Description</strong>: Primary designer of this website. Artistic, enjoys coding for visualizations and front-end web development.</p>
+<p><strong>Description</strong>: Primary designer of this website. Artistic, enjoys coding for visualizations and front-end web development. Shy, soft-spoken, and nerdy.</p>
 </div>
 ]]></description>
                 
@@ -144,7 +138,6 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Academic</p>
 <p><strong>Description</strong>: Secondary academic part from my undergraduate years. Seemingly only comes out as a helper to <a href="/systemmap/989898/">#989898</a> for taking notes and writing down information quickly. Distinct handwriting.</p>
 <p><strong>Friends</strong>: <a href="/systemmap/989898/">#989898</a></p>
 </div>
@@ -169,7 +162,6 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Life, Host</p>
 <p><strong>Description</strong>: Relaxed, calm, and connected with body. Hosted for a 3 month period during COVID lockdown due to a distinct routine change.</p>
 <p><strong>Friends</strong>: <a href="/systemmap/68c094/">#68C094</a></p>
 </div>
@@ -194,7 +186,6 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Analysis</p>
 <p><strong>Age</strong>: 26</p>
 <p><strong>Description</strong>: Helps plan for and manage therapy sessions. Distinct handwriting.</p>
 </div>
@@ -219,7 +210,6 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Academic</p>
 <p><strong>Description</strong>: Primary part who got me through undergrad. Very diligent worker, interested in algorithms and processes. Nerdy, quick-witted, and relatively soft-spoken. Was my system &ldquo;host&rdquo;, or primary fronting part, during my undergraduate years.</p>
 <p><strong>Friends</strong>: <a href="/systemmap/8155e1/">#8155E1</a></p>
 </div>
@@ -244,8 +234,7 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Kids, Caretaking</p>
-<p><strong>Age</strong>: 6</p>
+<p><strong>Age</strong>: 7</p>
 <p><strong>Description</strong>: Caretaking young part, with lots of love and innocence. Enjoys taking care of and observing plants and animals</p>
 <p><strong>Friends</strong>: <a href="/systemmap/57a18c/">#57A18C</a></p>
 </div>
@@ -270,7 +259,6 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Social</p>
 <p><strong>Description</strong>: Social with strangers for inconsequential interactions. Very fluid body language, casual, and quick-witted.</p>
 </div>
 ]]></description>
@@ -294,9 +282,8 @@
 
 
 <div class="partsPage">
-<p><strong>Group</strong>: Kids</p>
 <p><strong>Age</strong>: 5</p>
-<p><strong>Description</strong>: Young feminine part, seemingly holds repressed expression of femininity and innocence.</p>
+<p><strong>Description</strong>: Young feminine part, seemingly holds innocence and repressed expression of femininity.</p>
 <p><strong>Friends</strong>: <a href="/systemmap/57a18c/">#57A18C</a></p>
 </div>
 ]]></description>

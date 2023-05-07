@@ -11,7 +11,7 @@ groups: ["kids"]
 
 **Age**: 5
 
-**Description**: Young feminine part, seemingly holds repressed expression of femininity and innocence.
+**Description**: Young feminine part, seemingly holds innocence and repressed expression of femininity.
 
 **Friends**: [#57A18C](/systemmap/57a18c/)
 
