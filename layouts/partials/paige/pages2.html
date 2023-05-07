@@ -1,0 +1,42 @@
+{{ $page := . }}
+
+{{ if $page.Pages }}
+    {{ if $page.Param "paige.section_pages.full_pages" }}
+        {{ $p := $page.Paginate $page.Pages }}
+        <div id="paige-pages">
+            {{ range $p.Pages }}
+                {{ partial "paige/article.html" (dict "fullpages" true "page" .) }}
+            {{ end }}
+        </div>
+        {{ if or $p.HasPrev $p.HasNext }}
+            <div id="paige-pagination">
+                <div class="d-flex justify-content-center">
+                    {{ partial "paige/pagination.html" $page }}
+                </div>
+            </div>
+        {{ end }}
+    {{ else }}
+        <div id="paige-pages">
+<div style="font-size:35px; text-align:center;">
+Parts list
+</div>
+            {{ range (where $page.Pages "Params.paige.pin" true).ByPublishDate.Reverse }}
+                {{ partial "paige/page.html" . }}
+            {{ end }}
+            {{ $p := $page.Paginate ($page.Pages.ByPublishDate.Reverse.GroupByPublishDate "January 2006") }}
+            {{ range $p.PageGroups }}
+                <p class="h5 paige-date-header text-center">{{ .Key }}</p>
+                {{ range .Pages }}
+                    {{ partial "paige/page2.html" . }}
+                {{ end }}
+            {{ end }}
+        </div>
+        {{ if or $p.HasPrev $p.HasNext }}
+            <div id="paige-pagination">
+                <div class="d-flex justify-content-center">
+                    {{ partial "paige/pagination.html" $page }}
+                </div>
+            </div>
+        {{ end }}
+    {{ end }}
+{{ end }}

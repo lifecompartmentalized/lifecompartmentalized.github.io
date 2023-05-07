@@ -43,6 +43,7 @@ when one transitions between their work self and their home self, they likely ha
 
 <script src="/cytoscape/cytoscape.min.js"></script>
 
+<div >
 <div id="twoparts" class="graph"></div>
 <script src="/cytoscape/twoparts.js"></script>
 
@@ -55,6 +56,7 @@ In an individual without a dissociative disorder, their parts form a complete gr
 
 <script src="/cytoscape/cytoscape.min.js"></script>
 
+<div >
 <div id="singlet" class="graph"></div>
 <script src="/cytoscape/singlet.js"></script>
 
@@ -67,6 +69,7 @@ Because their parts are familiar with and aware of one another, their personalit
 
 <script src="/cytoscape/cytoscape.min.js"></script>
 
+<div >
 <div id="system1" class="graph"></div>
 <script src="/cytoscape/system1.js"></script>
 
@@ -80,6 +83,7 @@ As an example, part of my system structure looks something like this:</p>
 
 <script src="/cytoscape/cytoscape.min.js"></script>
 
+<div >
 <div id="mysystem" class="graph"></div>
 <script src="/cytoscape/mysystem.js"></script>
 
@@ -114,14 +118,14 @@ In order to map memory, awareness, and identity differences between the parts, i
 Different individuals with dissociative disorders are going 
 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>To be more accurate, I&rsquo;d also probably need to use a directed graph to show the one-way amnesia I sometimes experience&mdash;a part may be aware of the actions of another part, but that other part isn&rsquo;t aware of the first part. This is quite common in my system.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 

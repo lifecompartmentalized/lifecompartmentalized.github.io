@@ -6,8 +6,8 @@ tags: ['']
 layout: "paige/systemMap"
 ---
 
-Below is an incomplete system map of my parts. This only includes parts that are well-differentiated and would like to be included on this page. My parts are indexed via Hex code, and each node represents one part. You can click on a part to learn more about it.
+Below is an incomplete listing of my parts. This only includes parts that are well-differentiated and would like to be included on this page. This listing does not contain any fragments, trauma-holding parts, or the relationships between the parts. You can click on a part to learn more about it. 
+
 
 {{< cytoscape id="compselv" >}}
-
 

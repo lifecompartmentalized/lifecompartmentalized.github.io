@@ -27,7 +27,7 @@ languages:
         url: "/about/"
         weight: 30
       - identifier: "systemMap"
-        name: "System map"
+        name: "System Map"
         url: "/systemmap/"
         weight: 40
       - identifier: "tags"
@@ -69,3 +69,9 @@ params:
         default: false
 
 
+
+taxonomies:
+  category: categories
+  tag: tags
+  group: groups
+  

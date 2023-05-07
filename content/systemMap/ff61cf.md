@@ -3,16 +3,17 @@ title: "#FF61CF"
 draft: false
 categories: ['']
 tags: ['']
+groups: ["kids"]
 ---
 {{< color color="#FF61CF" >}}
 
 {{% partsPage %}}
 
-**Group**: Kids
+**Age**: 5
 
-**Description**: 
+**Description**: Young feminine part, seemingly holds repressed expression of femininity and innocence.
 
-**Friends**: [#8155E1](/systemmap/8155e1/)
+**Friends**: [#57A18C](/systemmap/57a18c/)
 
 {{% /partsPage%}}
 

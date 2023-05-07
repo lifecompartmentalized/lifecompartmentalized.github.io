@@ -373,8 +373,10 @@ ul {
 #compselv {
   display: flex;
   margin: auto;
-  width: 675px;
-  height: calc(100vh - 215px);
+  width: 100%;
+  height: 500px;
+  padding-bottom: 100px;
+  /*height: calc(100vh - 300px);*/
 }
 
 

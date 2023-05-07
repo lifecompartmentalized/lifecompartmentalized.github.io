@@ -10,6 +10,7 @@
 
 {{ $authors := partial "paige/authors.html" $page }}
 {{ $categories := $page.Params.categories | default slice | uniq }}
+{{ $groups := $page.Params.groups | default slice | uniq }}
 {{ $class := $fullpages }}
 {{ $commiturl := "" }}
 {{ $date := cond (eq ($page.Param "paige.date.source" | default "published") "published") $page.PublishDate $page.Lastmod }}
@@ -42,6 +43,10 @@
 
             {{ range $categories }}
                 {{ $terms = $terms | append (dict "name" . "url" (lower . | printf "categories/%v/" | relLangURL)) }}
+            {{ end }}
+
+            {{ range $groups }}
+                {{ $terms = $terms | append (dict "name" . "url" (lower . | printf "groups/%v/" | relLangURL)) }}
             {{ end }}
 
             {{ range $tags }}
