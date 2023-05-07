@@ -75,12 +75,12 @@
                 
                 
                 
-                    <guid>/tags/narrative/</guid>
-                    <link>/tags/narrative/</link>
+                    <guid>/tags/amnesia/</guid>
+                    <link>/tags/amnesia/</link>
                 
                 
                 
-                    <title>narrative</title>
+                    <title>amnesia</title>
                 
             </item>
         
@@ -94,19 +94,6 @@
                 
                 
                     <title>symptoms</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/amnesia/</guid>
-                    <link>/tags/amnesia/</link>
-                
-                
-                
-                    <title>amnesia</title>
                 
             </item>
         
@@ -133,6 +120,19 @@
                 
                 
                     <title>language</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/narrative/</guid>
+                    <link>/tags/narrative/</link>
+                
+                
+                
+                    <title>narrative</title>
                 
             </item>
         

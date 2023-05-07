@@ -75,7 +75,7 @@ Because their parts are familiar with and aware of one another, their personalit
 
 
 <p>Their parts do not form a complete graph&mdash;the lack of connection between their parts represents the lack of continuity of memory and identity between parts of self. The different colors represent that their personality variation is likely to be larger than that of a more integrated individual because their parts are more separated.
-In an individual with DID, when one part of them is active, they may experience the world in an entirely different way than when a different part is active. They may have a different awareness of their life, different memories, and have an different felt sense of identity. Their life is compartmentalized into different pockets of awareness, identity, memory, and experience that they switch between to experience life. Not all of their parts are aware of the feelings and actions of other parts, and this is by design&mdash;from a young age, they learned to separate parts of self who hold difficult memories and experiences from other parts of self. This separation of parts of self is protective, as it allowed them to learn and grow as a child when some parts of them were active, while using different parts to compartmentalize traumatic experiences away from the more healthy parts of self.</p>
+In an individual with DID, when one part of them is active, they may experience the world in an entirely different way than when a different part is active. They may have a different awareness of their life, different memories, and have an different felt sense of identity. Their life is compartmentalized into different pockets of awareness, identity, memory, and experience that they switch between to experience life. Not all of their parts are aware of the feelings and actions of other parts, and this is by design&mdash;from a young age, they learned to separate parts of self who hold difficult memories and experiences from other parts of self. This separation of parts of self is protective, as it allowed them to learn and grow as a child when some parts of them were active, while simultaneously using different parts to compartmentalize traumatic experiences away from the more healthy parts of self.</p>
 <p>It is important to note that just as everybody&rsquo;s personality structure is different from one another&rsquo;s, people with DID are going to have a different system structures, which depends on their reactions to their individual life experiences.
 As an example, part of my system structure looks something like this:</p>
 
@@ -90,7 +90,7 @@ As an example, part of my system structure looks something like this:</p>
 
 <p>This is a far overly simplistic view, and only shows the parts of my system structure that I am aware of and am comfortable sharing. Here, I use the weights of edges between nodes to represent how connected two parts are, I use squares to denote clusters of parts rather than individual parts, and I only show three parts in each cluster when there are actually many more.
 In reality, I believe my awareness of my system is still too abstract for me to accurately represent it with a concrete graph structure<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-However, I feel as though graphs can be a good visual representation of how parts relate to one another in individuals with a dissociative disorder.</p>
+However, I feel as though graphs such as this one can be a good visual representation of how parts relate to one another in individuals with a dissociative disorder.</p>
 <!--
 
 In reality, I believe my system is much more complex than can be shown on a simple graph[^1]. 
@@ -118,14 +118,14 @@ In order to map memory, awareness, and identity differences between the parts, i
 Different individuals with dissociative disorders are going 
 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>To be more accurate, I&rsquo;d also probably need to use a directed graph to show the one-way amnesia I sometimes experience&mdash;a part may be aware of the actions of another part, but that other part isn&rsquo;t aware of the first part. This is quite common in my system.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -137,79 +137,6 @@ Different individuals with dissociative disorders are going
                 
                 
                     <title>A visual representation of DID using graphs</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                    <description><![CDATA[<p>My relationship with my DID diagnoses&mdash;both with regards to accepting it as my diagnosis and understanding how it affects me&mdash;has evolved significantly since starting therapy.
-Over the past approximately 1.5 years, I&rsquo;ve been through several distinct stages of recovery. In this post, I reflect back on how far I&rsquo;ve come on my recovery journey so far.</p>
-<h4 id="stage-0-buildup-to-starting-therapy-october-2021--january-2022">Stage 0: Buildup to starting therapy (October 2021&ndash;January 2022)</h4>
-<p>In October of 2021, I had what I thought were a series of panic attacks due to a highly specific trigger of trauma that I experienced as a child.
-I eventually met with a psychiatrist at my school who, upon hearing of my symptoms and pediatric mental health history, likely immediately knew that I had a dissociative disorder and recommended therapy.
-They connected me with a therapist who specializes in dissociative disorders, who I started working with in January 2022.</p>
-<p>At this time, I genuinely did not know what DID was. I was aware I experienced depersonalization<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, and that I had some strange psychiatric symptoms in my childhood, but I thought I was mentally healthy other than that panic associated with a trigger. I started therapy with the hopes of stopping the inconvenient &ldquo;panic attacks&rdquo;, and came in with the intention that I&rsquo;d only be in therapy for a year or so. I truly had no idea what I was signing up for.</p>
-<h4 id="stage-1-denial-january--april-2022">Stage 1: Denial (January&ndash;April 2022)</h4>
-<p>Upon learning that DID was my working diagnosis, the first stage was denial.
-Despite the fact that I had a prior pediatric dissociative disorder diagnosis and had been experiencing symptoms of DID my entire life, I genuinely did not think I had DID.
-Several parts of me believed that I was faking to get out of my adult responsibilities<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, other parts thought that DID was fake as I was matching my symptoms to the disorder because I was reading so much academic literature about it<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, and one adamant part thought my therapist was inducing my symptoms<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
-In fact, none of these excuses were correct, but the denial was protective&mdash;it prevented me, albeit momentarily, from the awareness that I had a disorder caused by childhood trauma, which I was not yet ready to to terms with.</p>
-<p>During this stage, I didn&rsquo;t really even know that my symptoms were symptoms&mdash;they were normal to me, so I assumed everyone was experiencing what I did. I was switching between parts with full amnesia, but <a href="/posts/amnesia/">amnesia is tricky, and less obvious than it sounds</a>, so I genuinely didn&rsquo;t know I had any amnesia. I was emotionally numb, like I normally am, and life was a blur. During this stage, I was unaware that I was affected by a dissociative disorder because I refused to see it.</p>
-<h4 id="stage-2-acceptance-april--august-2022">Stage 2: Acceptance (April&ndash;August 2022)</h4>
-<p>The next stage was acceptance.
-In April, I had several strange experiences that could only be explained by me having DID. I started noticing switches between parts, and became aware that my handwriting changed depending on which part of me was active. I began to accept that I actually did have a dissociative disorder, and that the mental health professionals I was working with were correct.
-My symptoms starting becoming more obvious, with me realizing I experience full amnesia between parts by repeatedly finding evidence that I had done things that I had no memory of doing. I also began having more dissociative episodes, where traumatized parts would take over, but thankfully most of them occurred in therapy or while I was home alone. I began experiencing rapid switching, where I switch between parts in a quick succession in response to stress. This is a disorienting experience, which typically ends in me being very confused and having a headache.</p>
-<p>However, while my symptoms starting coming to light, I could not tell apart my parts&mdash;I was sometimes able to tell when I switched, but I wouldn&rsquo;t know which part I switched to or from. This was a particularly scary stage, as I started seeing the chaos but I simultaneously had no idea what exactly was going on&mdash;how was my system structured? I had no idea&mdash;I hadn&rsquo;t had time to collect enough data yet.</p>
-<h4 id="stage-3-seeing-my-parts-august-2022--april-2023">Stage 3: Seeing my parts (August 2022&ndash;April 2023)</h4>
-<p>In the next stage, rather than simply seeing <em>symptoms</em>, I started seeing the <em>parts</em> underlying those symptoms.  This was a very gradual process, but over time I started being able to correlate my handwriting changes with changes in other attributes, like vocal tone and posture. I looked back at what I remembered of my life and started being able to see what roles different parts played. I began to learn more about my system structure, and realized that I was polyfragmented.
-I started assigning labels to parts that would come up frequently, and started mapping out my amnesia between parts. I sought out reasons for why my parts split in the way that they did, and why my system was so chaotic. During this time, my system was very unstable, but I internally felt fine&mdash;I was used to the chaos. I had significant lapses in memory and was trying my hardest to advance in my PhD program despite this, although I was having difficulties with memory and <a href="/posts/fluctuatingintelligence/">fluctuating intelligence</a><sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>.
-I was still internally numb with a low dynamic range of emotions, just as I always was.</p>
-<p>I was <em>seeing</em> my parts&mdash;as in, I was tracking my symptoms and assigning meaning to them&mdash;but I wasn&rsquo;t <em>connected</em> to them. I couldn&rsquo;t internally differentiate between parts, as I was solely relying on external differences between parts rather than a felt internal sense of difference. I was adamant that I was not able to internally differentiate between the parts, but in reality, I never even tried to look inside to see if I could.
-I didn&rsquo;t want to feel the parts, who often come with difficult emotions, as I was used to being emotionally numb and enjoyed the internal stability.
-But in order to heal, I needed to truly connect with my parts, rather than only observing them, and that, too, came with time.</p>
-<h4 id="stage-4-connecting-with-my-parts-april-2023--now">Stage 4: Connecting with my parts (April 2023&ndash;now)</h4>
-<p>Finally, I believe I am in a new stage of recovery&mdash;I am beginning to truly connect with my parts internally.
-Since coming to terms with the fact that I need to actually allow myself to feel emotions in order to heal, my relationship with my parts has changed significantly. Rather than solely <em>observing</em> my parts like I was before, I&rsquo;m beginning to <em>feel</em> my parts and their emotions. With this, I&rsquo;m beginning to have a felt internal sense of which parts are active, rather than my previous method of telling apart my parts by solely relying on externally observable differences between the parts.
-I&rsquo;m beginning to be able to observe things like internal bodily sensations, thought patterns, how I hold my body, general views about life, and a vague internal sense of &ldquo;who I am&rdquo; in order to tell which parts are active, which has greatly helped with the mapping of my system.
-But connecting with my parts has also been tough&mdash;I&rsquo;m connecting with thoughts, feelings, and emotions I&rsquo;m not used to feeling, like <a href="/posts/anxiety/">anxiety</a> and <a href="/posts/anger">anger</a>. Because I&rsquo;ve been so disconnected from emotions my entire life, I&rsquo;m genuinely not used to feeling <em>anything</em>, let alone the negative emotions that I had previously dissociated away. Most of the time, I&rsquo;m not even sure what emotions I&rsquo;m feeling&mdash;I&rsquo;m having to map sensations in my body and a general awareness that the emotion is &ldquo;bad&rdquo; and infer what I should be feeling in the situation.
-I&rsquo;m often overwhelmed my negative emotions that I&rsquo;m unfamiliar with and don&rsquo;t enjoy feeling.</p>
-<p>So while I&rsquo;m in a difficult stage of recovery now, this is progress, so should be framed as good. I believe my amnesia is lessening as I&rsquo;m becoming more accepting of my parts, and I&rsquo;m also starting to connect with positive emotions. One younger part, in particular, has felt more comfortable to come out more, bringing excitement, joy, and happy memories with them. Many of my parts, however, hold a lot of fear, pain, sorrow, shame, and anger. I can feel that my dynamic range of emotions is increasing as I&rsquo;m connecting with more of my parts.</p>
-<p>The more I look back on how far I come, the more insight about myself I seem to be gaining.
-I don&rsquo;t know what my healing journey will look like in the future, but I&rsquo;m happy with the progress I&rsquo;ve made thus far.
-Coming to terms with having DID has been
-a difficult journey and I have a long, complex healing path ahead, but I&rsquo;m hopeful that the future will bring a me a more full, complete life.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>To me, when I experience depersonalization I do not feel real&mdash;I feel floaty in my body, my limbs feel heavy, and it feels like I&rsquo;m a puppet being moved around by another being. My mom reports that I told her about this for the first time when I was four years old. I&rsquo;ve experienced depersonalization off and on with varying severity for as long as I can remember.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>I started &ldquo;failing&rdquo; at my adult responsibilities when my symptoms became worse. Instead of seeing my difficulties increasing as a result of my becoming more symptomatic, I saw it as the other way around&mdash;I believed I started faking symptoms as an excuse for my failings. I now see this as being unequivocally untrue&mdash;there is no way I could be faking these symptoms. Feelings of faking are apparently very common in early stages of treatment of DID.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:3">
-<p>Upon learning that I likely had DID, I began reading as much as I possibly could about the disorder. Understanding DID became a &ldquo;special interest&rdquo; of mine, as I wanted to understand what I was apparently going through. I absorbed the information from a very theoretical perspective and couldn&rsquo;t yet see how it applied to me. Some parts took this as a sign I was reading about DID in order to fake it. This is also untrue.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:4">
-<p>They definitely were not as I&rsquo;ve had symptoms of DID since before I started therapy, but a common argument of DID deniers is that it&rsquo;s therapist induced, which, in my case, is not true.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:5">
-<p>Because different parts of me were created at different times of my life and are essentially a snapshot of who I was at that time, my intelligence, and ability to grasp onto complex ideas, fluctuates depending on which part of me is active. This has been extremely difficult as a PhD student who needs to hold onto complex concepts.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-]]></description>
-                
-                
-                    <guid>/posts/stagesofrecovery/</guid>
-                    <link>/posts/stagesofrecovery/</link>
-                
-                
-                    <pubDate>Sun, 30 Apr 2023 06:03:21 -0400</pubDate>
-                
-                
-                    <title>My stages of recovery</title>
                 
             </item>
         
@@ -295,27 +222,27 @@ Thinking and writing as if I am a system of parts can enable me to explain exper
 <p>Since starting therapy, I&rsquo;ve gradually learned to internally reference myself as a system of parts, yet I still translate that to a singular-self language when talking with others as I am hesitant to externally display my internal perspective with others.
 I like portraying having a unified, singular-self view of life, even though it doesn&rsquo;t fully reflect how I&rsquo;ve learned to perceive myself.
 This is probably due to the fact that it makes me uncomfortable realizing others know that the way I internally refer to myself is different than the norm.
-When I was young, I was more in-touch with my individual parts&rsquo; perspectives&mdash;I would often refer to myself in third person in conversation with others<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. I eventually learned that others did not experience themselves in this way, as I was occasionally ridiculed for it. I learned to hide using this language, even though it was the most accurate language for my experiences, since it was not well received by others.
+When I was young, I was more in-touch with my individual parts' perspectives&mdash;I would often refer to myself in third person in conversation with others<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. I eventually learned that others did not experience themselves in this way, as I was occasionally ridiculed for it. I learned to hide using this language, even though it was the most accurate language for my experiences, since it was not well received by others.
 Perhaps because of this, I feel the same way about using other unconventional language to describe my experiences&mdash;speaking from the perspective of individual parts, like I naturally did when I was younger, is tainted with shame due to my past experiences, and something I&rsquo;m working towards getting more comfortable with when appropriate in order to become more authentically me.</p>
 <p>While I am used to thinking in third person<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, thinking about myself as multiple is new<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>, and I&rsquo;m still getting used to this conceptualization and the language used to describe it.
 On this blog, I have decided to use whatever language is most appropriate for describing the particular experiences that I&rsquo;m trying to convey&mdash;I don&rsquo;t want to limit myself to a particular conceptualization or vocabulary set. So while I have mostly written from the perspective of a unified self thus far, this may change as I learn what language and conceptualization feels most comfortable for me.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>Although, as I&rsquo;m creating connections between parts, this is thankfully changing!&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>This is because I have many parts who perceive my life in third person, and when those compartments are active, I naturally refer to myself in third person.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>This is useful for trauma survivors since it allows a detached view of self&mdash;one can perceive themselves as the observer of a situation rather than a participant in it.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>I didn&rsquo;t know this was an option, and it didn&rsquo;t come organically to me like the third-person perspective did. Now that I am more aware this is how I operate, I see that it aligns very well with my experiences.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -346,20 +273,20 @@ This leads to a lot of confusing experiences, like looking out of my window and 
 These sorts of experiences occur on an a weekly to daily basis for me.</p>
 <p>I&rsquo;m still early on in my DID discovery journey, so my understanding of my amnesia will likely change over time as I learn more about how I operate.
 I hope this post serves as a snapshot in time of my awareness of how I operate a little over one year after starting therapy.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>Unless you really know what to look for or you catch me in a dissociative episode, neither of which are likely.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>Thankfully, I have never had a full dissociative fugue where I end up in an entirely different location than I was before. Most of my dissociative episodes occur at home when I&rsquo;m alone or in when I&rsquo;m in threapy.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>This, along with other symptoms, led to me receiving a dissociative disorder diagnosis as a pre-teen.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -390,14 +317,14 @@ I went from walking every day for months to only leaving my apartment when absol
 In order to get back to my walking routine, I gradually had to show that part that we were safe, and that that wasn&rsquo;t going to happen again, and even if it did, there were other parts who could take care of the situation like we had done last time. With this awareness in mind, over time, I managed to get back to going on my evening walks.</p>
 <p>This is one example of how having DID affects my life and functioning. Before I became aware that I have DID, I was unaware of how much influence my parts had over my life. My behaviors are influenced by fear I cannot even grasp onto or feel. Other people may be more aware of my own internal state than even I am, since my body language may be contradictory to how I feel on the inside.
 Getting to know my parts is helping me to become more aware of my internal state, and, in turn, will allow me to live a more complete life.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>Thankfully, they used a walker, so I was in little danger.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -426,22 +353,22 @@ Because of the repeated association of anger with terror, pain, and instability,
 My relationship with anger was tainted by my early childhood experiences, making a powerful emotion that should be utilized as part of an emotionally healthy life inaccessible to me as an adult.</p>
 <p>I once naively believed that not feeling anger was an asset of mine&mdash;that anger was a disruptive emotion, and it was safer for me not to feel it. While it is beneficial to those around me for me to not ever display anger, I now believe that anger is an important emotion that should be part of my emotional repertoire.
 Anger enables people to enact change. By my not being able to experience anger, I&rsquo;m more likely to stay involved in situations and environments which are not good for me, making me to be more likely to be repeatedly victimized.
-Due to my upbringing, I learned to value other peoples&rsquo; comfort over my own, and use dissociation to subconsciously withhold my sometimes justified anger.</p>
-<p>I believe that because I have DID<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, my dynamic range of emotions is very shallow&mdash;most of the time, I feel mild contentment. I grew up in an environment where I didn&rsquo;t feel like I could take up any emotional space, as the emotional landscape in my family of origin was dominated by others&rsquo; strong emotional displays. I enjoy my internal stability&mdash;I do not want to feel strong emotions. I am scared of the loss of control I was so used to seeing in others while growing up.
+Due to my upbringing, I learned to value other peoples' comfort over my own, and use dissociation to subconsciously withhold my sometimes justified anger.</p>
+<p>I believe that because I have DID<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, my dynamic range of emotions is very shallow&mdash;most of the time, I feel mild contentment. I grew up in an environment where I didn&rsquo;t feel like I could take up any emotional space, as the emotional landscape in my family of origin was dominated by others' strong emotional displays. I enjoy my internal stability&mdash;I do not want to feel strong emotions. I am scared of the loss of control I was so used to seeing in others while growing up.
 However, this separation of anger and other emotions leads to a less full life, including amnesia, behavior that feels out of my control when I&rsquo;m triggered, along with stunted &ldquo;good&rdquo; emotions, like happiness and excitement. By using dissociation, I&rsquo;ve traded experiencing a full range of emotions for internal stability. This served me well in the past, but in the future I&rsquo;d like to live a more full, complete life&mdash;one that does not rely on maladaptive dissociative coping mechanisms.</p>
 <p>While I now see anger as a valuable emotion, my learned patterns of removing it from my awareness continue, so still I have difficulty accessing it.
 My understanding of anger comes from a theoretical view&mdash;I can intellectually understand it, but I do not believe I have felt genuine anger before. With time, I hope that will change.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>And maybe I was right to be hesitant, as I don&rsquo;t have much to say since I&rsquo;m early in my awareness journey, but I want to document my understanding of things at various stages of healing.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>I believe I am this way due to how I responded to experiences in my childhood, which resulted in me forming maladaptive coping mechanisms which can be labeled DID.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -483,32 +410,32 @@ Only since learning that I have DID and gaining the language to describe my expe
 When I take a step back and look at the facts of my situation, I can objectively see that I should be having a difficult time right now. However, I feel emotionally detached and have an overall positive worldview.
 My body is designed to deal with trauma, and learning about and working with my messy system could be considered just another trauma I&rsquo;m getting through.</p>
 <p>Having polyfragmented DID makes my life very chaotic. I do not know how many parts I have, nor do I think I will ever know. I have to be okay with the unknown and be open minded about the information I learn about my system. I&rsquo;ve always lived this way&mdash;I just wasn&rsquo;t aware about it until now.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>I came to this conclusion from r/DID and r/OSDD on Reddit&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>until I stop relying solely on dissociation as a coping mechanism, which I&rsquo;m actively working on doing in therapy.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>Some people call these subsystems. I seem to have many layers of compartmentalization&mdash;my parts have their own parts.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>They may have nicknames, but not many do. There are too many of them for it to make sense for them to have names. Plus, naming parts of myself with human names other than my own doesn&rsquo;t feel comfortable for me.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5">
+<li id="fn:5" role="doc-endnote">
 <p>I use <em>switch</em> to denote a hard, discrete change between parts, which usually occurs when I&rsquo;m triggered and can be disorienting. I use <em>shift</em> to denote a smooth change between parts, which occurs more often than switching for me and can internally feel like a gear shifting in my brain.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:6">
+<li id="fn:6" role="doc-endnote">
 <p>I have many task-based parts, or parts that serve a specific job in my life, which leads to me needing to shift or switch between parts on a very regular basis.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:7">
+<li id="fn:7" role="doc-endnote">
 <p>My symptoms include more than just time and memory problems, but those aren&rsquo;t explicitly due to my system structure, and may be addressed in later posts.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -537,14 +464,14 @@ I am disconnected and emotionally numb. Except for when I am not.</p>
 <p>When I was 12, I didn&rsquo;t become a less anxious person&mdash;I just became more detached from my anxiety. My crippling anxiety wasn&rsquo;t miraculously cured. Instead, it was like fixing a wound that needed stitches with a band-aid&mdash;an easy, temporary solution that left me worse-off in the long term.</p>
 <p>In order to decrease my amnesia and regain control of my life, I need to connect back with my anxiety.
 Although it allows me to avoid difficult feelings in the moment, my current method of dealing with anxiety&mdash;compartmentalizing it and shoving it from my awareness&mdash;leads to uncontrollable fear-based behavior, a lack of internal awareness, and amnesia. I need to connect with this destabilizing experience once again, this time working though it instead of shoving it from my awareness. Then, I can address its root causes and gain control of my life again.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>My mom reports me having a discrete personality change when this occurred.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -585,7 +512,7 @@ Although it allows me to avoid difficult feelings in the moment, my current meth
                 
                     <description><![CDATA[<p>Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life.</p>
 <p>One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks&rsquo; index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
+Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks' index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
 <p>Why could this be the case? Why do I create parts when I travel? Looking back at my life story, it actually makes a lot of sense.
 My first several years of life involved a lot of traveling. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad&rsquo;s job.
 As a perk of being an expat, my dad&rsquo;s job paid for two vacations a year&mdash;one for rest and relaxation, and another to visit family.
@@ -603,14 +530,14 @@ One could argue that this was neglect or negligence&mdash;that my parents weren&
 However, it does not fit into the category of extreme abuse that is often attributed to the creation of DID.
 While I do not believe this was the only trauma that caused me to form DID, and some of those traumas would be considered abuse,
 traveling in the way that we did when I was small had a major impact on how I create parts, and is perhaps the most influential mechanism of part creation in my adult life.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
-<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts&rsquo; handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1" role="doc-endnote">
+<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts' handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 
@@ -647,26 +574,26 @@ The identity alteration I do experience is incredibly subtle, and is much more a
 <!--
 While many of these compartments share memory (i.e., when I am in one compartment of memory, I will likely remember at least most of what happened when I was in a different compartment of memory), when I switch between compartments it can feel like a RAM drop---my working memory, or what I was actively thinking about, gets wiped. 
 -->
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
+<li id="fn:1" role="doc-endnote">
 <p>There are many different theories about how DID forms and works, but this is one of the ways that I like to think about it.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2">
+<li id="fn:2" role="doc-endnote">
 <p>This example is an oversimplification, and this severe abuse occurred outside the home. However, I did experience less severe abuse and other traumas within my family which shaped my development of this disorder as well.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3">
+<li id="fn:3" role="doc-endnote">
 <p>This was not fully the case, but I wanted to emphasize the differential between the good and bad parts of my childhood to provide a more concrete example of how parts in DID may split.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4">
+<li id="fn:4" role="doc-endnote">
 <p>For the most part, I still can&rsquo;t even tell apart my parts. This is something that I&rsquo;m sure I will get better at with time, as I get more acquainted with how I operate.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5">
+<li id="fn:5" role="doc-endnote">
 <p>These distinct indentities are not whole on their own. Rather, they represent different parts of my whole personality. Rather than having one unified identity, I have several fragmented identities/personality states that I switch between.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 ]]></description>
                 
                 

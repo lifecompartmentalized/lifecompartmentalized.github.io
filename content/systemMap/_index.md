@@ -1,5 +1,5 @@
 ---
-title: "System Map"
+title: "My system"
 draft: false
 categories: ['']
 tags: ['']

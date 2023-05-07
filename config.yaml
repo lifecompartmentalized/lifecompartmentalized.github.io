@@ -26,10 +26,10 @@ languages:
         name: "About"
         url: "/about/"
         weight: 30
-      - identifier: "systemMap"
-        name: "System Map"
-        url: "/systemmap/"
-        weight: 40
+      #- identifier: "systemMap"
+      #  name: "My system"
+      #  url: "/systemmap/"
+      #  weight: 40
       - identifier: "tags"
         name: "Tags"
         url: "/tags/"

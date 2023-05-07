@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/howdidigethere/</loc>
-    <lastmod>2023-05-06T19:03:07-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-05-06T19:03:07-04:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-05-06T19:03:07-04:00</lastmod>
-  </url><url>
     <loc>/posts/visualgraphs/</loc>
     <lastmod>2023-05-02T17:56:15-04:00</lastmod>
   </url><url>
@@ -23,22 +14,22 @@
     <loc>/tags/graphs/</loc>
     <lastmod>2023-05-02T17:56:15-04:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/</loc>
     <lastmod>2023-05-02T17:56:15-04:00</lastmod>
   </url><url>
-    <loc>/posts/stagesofrecovery/</loc>
-    <lastmod>2023-04-30T06:03:21-04:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
   </url><url>
-    <loc>/tags/narrative/</loc>
-    <lastmod>2023-04-30T06:03:21-04:00</lastmod>
-  </url><url>
-    <loc>/tags/symptoms/</loc>
-    <lastmod>2023-04-30T06:03:21-04:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
   </url><url>
     <loc>/tags/amnesia/</loc>
     <lastmod>2023-04-21T19:07:13-04:00</lastmod>
   </url><url>
     <loc>/posts/intrusions/</loc>
+    <lastmod>2023-04-21T19:07:13-04:00</lastmod>
+  </url><url>
+    <loc>/tags/symptoms/</loc>
     <lastmod>2023-04-21T19:07:13-04:00</lastmod>
   </url><url>
     <loc>/tags/polyfragmented/</loc>
@@ -56,13 +47,16 @@
     <loc>/posts/amnesia/</loc>
     <lastmod>2023-03-30T12:10:19-04:00</lastmod>
   </url><url>
+    <loc>/tags/narrative/</loc>
+    <lastmod>2023-03-30T12:10:19-04:00</lastmod>
+  </url><url>
     <loc>/posts/partscontrol/</loc>
     <lastmod>2023-03-28T16:30:21-04:00</lastmod>
   </url><url>
-    <loc>/tags/anger/</loc>
+    <loc>/posts/anger/</loc>
     <lastmod>2023-03-22T11:05:58-05:00</lastmod>
   </url><url>
-    <loc>/posts/anger/</loc>
+    <loc>/tags/anger/</loc>
     <lastmod>2023-03-22T11:05:58-05:00</lastmod>
   </url><url>
     <loc>/tags/autism/</loc>
@@ -71,10 +65,10 @@
     <loc>/posts/polyfragmented/</loc>
     <lastmod>2023-03-17T21:11:40-04:00</lastmod>
   </url><url>
-    <loc>/tags/anxiety/</loc>
+    <loc>/posts/anxiety/</loc>
     <lastmod>2023-03-16T19:17:28-04:00</lastmod>
   </url><url>
-    <loc>/posts/anxiety/</loc>
+    <loc>/tags/anxiety/</loc>
     <lastmod>2023-03-16T19:17:28-04:00</lastmod>
   </url><url>
     <loc>/tags/academia/</loc>
@@ -139,10 +133,10 @@
   </url><url>
     <loc>/links/</loc>
   </url><url>
+    <loc>/systemmap/</loc>
+  </url><url>
     <loc>/search/</loc>
   </url><url>
     <loc>/groups/social/</loc>
-  </url><url>
-    <loc>/systemmap/</loc>
   </url>
 </urlset>
