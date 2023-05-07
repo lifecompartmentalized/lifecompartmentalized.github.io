@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/amnesia/</loc>
-    <lastmod>2023-04-21T19:07:13-04:00</lastmod>
+    <loc>/posts/visualgraphs/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
+  </url><url>
+    <loc>/tags/conceptualization/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
   </url><url>
     <loc>/tags/did/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
+  </url><url>
+    <loc>/tags/graphs/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-02T17:56:15-04:00</lastmod>
+  </url><url>
+    <loc>/tags/amnesia/</loc>
     <lastmod>2023-04-21T19:07:13-04:00</lastmod>
   </url><url>
     <loc>/posts/intrusions/</loc>
     <lastmod>2023-04-21T19:07:13-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-04-21T19:07:13-04:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-04-21T19:07:13-04:00</lastmod>
-  </url><url>
     <loc>/tags/symptoms/</loc>
-    <lastmod>2023-04-21T19:07:13-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-04-21T19:07:13-04:00</lastmod>
   </url><url>
     <loc>/tags/polyfragmented/</loc>
@@ -28,9 +37,6 @@
   </url><url>
     <loc>/posts/shuffledawareness/</loc>
     <lastmod>2023-04-15T21:19:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/conceptualization/</loc>
-    <lastmod>2023-04-09T12:22:50-04:00</lastmod>
   </url><url>
     <loc>/posts/language/</loc>
     <lastmod>2023-04-09T12:22:50-04:00</lastmod>
@@ -83,12 +89,54 @@
     <loc>/posts/notaboutidentity/</loc>
     <lastmod>2023-03-06T21:43:08-05:00</lastmod>
   </url><url>
+    <loc>/systemmap/000000/</loc>
+  </url><url>
+    <loc>/systemmap/57a18c/</loc>
+  </url><url>
+    <loc>/systemmap/68c094/</loc>
+  </url><url>
+    <loc>/systemmap/76ecd3/</loc>
+  </url><url>
+    <loc>/systemmap/8155e1/</loc>
+  </url><url>
+    <loc>/systemmap/9157cd/</loc>
+  </url><url>
+    <loc>/systemmap/9686f7/</loc>
+  </url><url>
+    <loc>/systemmap/989898/</loc>
+  </url><url>
+    <loc>/systemmap/be86f7/</loc>
+  </url><url>
+    <loc>/systemmap/e3967d/</loc>
+  </url><url>
+    <loc>/systemmap/ff61cf/</loc>
+  </url><url>
     <loc>/about/</loc>
+  </url><url>
+    <loc>/groups/academic/</loc>
+  </url><url>
+    <loc>/groups/analysis/</loc>
+  </url><url>
+    <loc>/groups/caretaking/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/groups/</loc>
+  </url><url>
+    <loc>/groups/hosts/</loc>
+  </url><url>
+    <loc>/groups/internal/</loc>
+  </url><url>
+    <loc>/groups/kids/</loc>
+  </url><url>
+    <loc>/groups/life/</loc>
+  </url><url>
     <loc>/links/</loc>
   </url><url>
+    <loc>/systemmap/</loc>
+  </url><url>
     <loc>/search/</loc>
+  </url><url>
+    <loc>/groups/social/</loc>
   </url>
 </urlset>

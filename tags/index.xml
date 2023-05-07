@@ -36,12 +36,12 @@
                 
                 
                 
-                    <guid>/tags/amnesia/</guid>
-                    <link>/tags/amnesia/</link>
+                    <guid>/tags/conceptualization/</guid>
+                    <link>/tags/conceptualization/</link>
                 
                 
                 
-                    <title>amnesia</title>
+                    <title>conceptualization</title>
                 
             </item>
         
@@ -55,6 +55,32 @@
                 
                 
                     <title>DID</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/graphs/</guid>
+                    <link>/tags/graphs/</link>
+                
+                
+                
+                    <title>graphs</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/amnesia/</guid>
+                    <link>/tags/amnesia/</link>
+                
+                
+                
+                    <title>amnesia</title>
                 
             </item>
         
@@ -81,19 +107,6 @@
                 
                 
                     <title>polyfragmented</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/conceptualization/</guid>
-                    <link>/tags/conceptualization/</link>
-                
-                
-                
-                    <title>conceptualization</title>
                 
             </item>
         
