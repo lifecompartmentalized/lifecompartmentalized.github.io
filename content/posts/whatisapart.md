@@ -26,17 +26,21 @@ I can generally categorize parts as different compartments of four aspects of my
 
 ### Compartments of awareness
 In the first case, when these parts act as different compartments of awareness, I may only be aware of different aspects of my life's circumstances or what is happening in the world around me at any given time.
- For example, when one part of me is active, I genuinely may not be aware that I am a graduate student that's supposed to be working on my PhD. When this part of me is active, I am totally detached from the adult responsibilities---I am free of stress. I have other parts who are acutely aware of the stresses of being a grad student, and others who do the work to 
+ For example, when one part of me is active, I genuinely may not be aware that I am a graduate student that's supposed to be working on my PhD. When this part of me is active, I am totally detached from the adult responsibilities---I am free of stress. 
 The fact that I have compartmentalized and separated my awareness of my life's difficulties is protective---I can suspend my awareness of stressful things so I can move on with other areas of my life. However, it can become maladaptive as it becomes easy to not address the difficult things I am detached from, making them compound until they're unmanageable.
 When something becomes too difficult for me to manage, I can effectively just constrict my awareness of my life until I don't have any awareness that the difficult thing is happening.
 
 ### Compartments of memory
-These parts also act as different compartments of memory. I seem to have many separate compartments of memory that I switch between. When one part is active, I fill up that part's memory bucket, and when I switch, I store my memories in a different compartment. This 
-Rather than having a 
-In the past, I have had friendships that were unhealthy. In these, because I had separated the good memories with the person vs the bad memories with them, I either saw them as all good or all bad at any given time---it made it difficult to see the nuance in the relationship. 
-I like to think of this as an extreme version of state-dependent memory, in which the correct parts have to be out in order for me to remember what is 
+These parts can also act as different compartments of memory that I switch between. When one part is active, I fill up that part's memory bucket, and when I switch, I store my memories in a different compartment. 
+Rather than having a continuous sense of memory about my life, it is segmented such that I genuinely may not remember important events that occurred if that memory was stored in a different compartment. I will regain that memory once the correct compartment is out. 
+While this was protective in the past since it allowed me to remove bad memories from my awareness, this pattern of coping with distress by compartmentalizing my memories is maladaptive in the present. 
+For example, in the past, I have had friendships that were unhealthy. In these, because I had separated the good memories with the person vs the bad memories with them, I either saw them as all good or all bad at any given time---it made it difficult to see the nuance in the relationship. Because I am personally biased towards seeing the good in the world around me, this caused me to stay in toxic relationships without any awareness that they were toxic, because I had simply forgotten the bad things the individual had done.
+I like to think of this memory compartmentalization as an extreme version of state-dependent memory, in which the correct parts have to be out in order for me to remember certain events.
 
 ### Compartments of experience
+At first, I was hesitant to differentiate between compartments of awareness and compartments of experience, but I think they are distinct enough to warrent noting.
+While I see different compartments of awareness as how knowledgeable about the world around me I am, I see compartments of experience as how I perceive myself and the world around me. For example, I have trauma surrounding receiving vaccines. Because of this, there are times where my left arm, where one would ordinarly receive a vaccine, goes completely numb---I do not feel any pain or sensation there. There are other times, however, where it feels like I have just received a vaccine even though I haven't. When I received my flu vaccine via a nasal spray this year, after it was over I experienced vaccine site pain in my left bicep, despite the fact that I never received a shot. The awareness that I had received a vaccine, albeit a nasal spray, triggered me to expereince pain as thought I had received a shot, even though I hadn't. This lasted several days and occurred when I thought about my recent nasal spray. In this case, I am perceiving things that aren't actually there [^2], and my perception of my internal experience wasn't matching reality. 
+[^2]: I've heard this being called a body memory before.
 
 ### Compartments of identity
 Finally, these parts can be different compartments of identity. This is perhaps one of the most well-addressed ways in which parts present.
@@ -92,4 +96,9 @@ For example, I very easily disconnect from the awareness of my current life circ
 This is dangerous as it allows for my life to easily pass me by without me even being aware of it.
 
  For example, when one part of me is active, I may genuinely believe that my life is going swimminlgy, and that nothing is wrong. I am not aware of any negative aspects of life---I am naive. When a different part is active that is more aware of my entire life's circumstances, I may have a more nuanced view that life is challenging right now, even if I'm enjoying much of my current circumstances. 
+
+I have other parts who are acutely aware of the stresses of being a grad student, and others who do the work to 
+
+
+ I seem to have many separate compartments of memory that I switch between.
 -->
