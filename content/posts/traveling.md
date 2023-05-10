@@ -3,7 +3,7 @@ title: "Parts are created from trauma, not necessarily abuse"
 date: 2023-03-09T22:14:57-05:00
 draft: false
 categories: ['']
-tags: ['DID', 'mechanism', 'narrative', 'autism']
+tags: ['DID', 'mechanism', 'narrative', 'autism', 'trauma']
 
 ---
 

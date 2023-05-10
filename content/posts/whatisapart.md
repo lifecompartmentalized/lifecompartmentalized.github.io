@@ -9,7 +9,6 @@ tags: ['DID', 'polyfragmented', 'conceptualization', 'language']
 
 The truth is, it's complicated.
 What one constitutes as a "part" is a deeply personal choice, along with the [language one chooses to describe their system](/posts/language/)[^1].
-After all, we have to reduce something as complex as the human experience to concrete words in order to convey our experiences to others---it's an imperfect translation.
 In this post, I speak only for myself in explaining how I experience what I call parts.
 
 [^1]: I want to acknowledge that not everyone likes parts language, or the word system. There are an endless number of ways to conceptualize ones experiences. In this post, I share only mine.
@@ -101,4 +100,6 @@ I have other parts who are acutely aware of the stresses of being a grad student
 
 
  I seem to have many separate compartments of memory that I switch between.
+
+After all, we have to reduce something as complex as the human experience to concrete words in order to convey our experiences to others---it's an imperfect translation.
 -->

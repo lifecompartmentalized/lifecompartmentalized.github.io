@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="/groups/analysis/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>analysis</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>/groups/analysis/</link>
+        
+        
+            <title>analysis</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+<div style="background:#9686f7" class="colorbox"></div>
+
+
+
+<div class="partsPage">
+<p><strong>Age</strong>: 26</p>
+<p><strong>Description</strong>: Helps plan for and manage therapy sessions. Distinct handwriting.</p>
+</div>
+]]></description>
+                
+                
+                    <guid>/systemmap/9686f7/</guid>
+                    <link>/systemmap/9686f7/</link>
+                
+                
+                
+                    <title>#9686F7</title>
+                
+            </item>
+        
+    </channel>
+</rss>

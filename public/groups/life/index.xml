@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="/groups/life/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>life</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>/groups/life/</link>
+        
+        
+            <title>life</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+<div style="background:#68C094" class="colorbox"></div>
+
+
+
+<div class="partsPage">
+<p><strong>Age:</strong> 23</p>
+<p><strong>Description</strong>: Goes with the flow, doesn&rsquo;t have any plans or expectations and follows what others decide. Was created during COVID lockdowns due to loss of control of circumstances.</p>
+<p><strong>Friends</strong>: <a href="/systemmap/9157cd/">#9157CD</a></p>
+</div>
+]]></description>
+                
+                
+                    <guid>/systemmap/68c094/</guid>
+                    <link>/systemmap/68c094/</link>
+                
+                
+                
+                    <title>#68C094</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+<div style="background:#76ECD3" class="colorbox"></div>
+
+
+
+<div class="partsPage">
+<p><strong>Age</strong>: 12</p>
+<p><strong>Description</strong>: Primary designer of this website. Artistic, enjoys coding for visualizations and front-end web development. Shy, soft-spoken, and nerdy.</p>
+</div>
+]]></description>
+                
+                
+                    <guid>/systemmap/76ecd3/</guid>
+                    <link>/systemmap/76ecd3/</link>
+                
+                
+                
+                    <title>#76ECD3</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+<div style="background:#9157cd" class="colorbox"></div>
+
+
+
+<div class="partsPage">
+<p><strong>Description</strong>: Relaxed, calm, and connected with body. Hosted for a 3 month period during COVID lockdown due to a distinct routine change.</p>
+<p><strong>Friends</strong>: <a href="/systemmap/68c094/">#68C094</a></p>
+</div>
+]]></description>
+                
+                
+                    <guid>/systemmap/9157cd/</guid>
+                    <link>/systemmap/9157cd/</link>
+                
+                
+                
+                    <title>#9157CD</title>
+                
+            </item>
+        
+    </channel>
+</rss>

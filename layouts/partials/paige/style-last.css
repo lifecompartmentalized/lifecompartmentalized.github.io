@@ -393,3 +393,10 @@ ul {
 .partsPage p{
   text-indent: 0px;
 }
+
+.poem p
+{
+  text-indent: 0px;
+  line-height: 0.75;
+
+}
