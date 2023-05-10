@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="/groups/academic/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>academic</description>
+        
+            <language>en-us</language>
+        
+        
+        <link>/groups/academic/</link>
+        
+        
+            <title>academic</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+<div style="background:#8851E1" class="colorbox"></div>
+
+
+
+<div class="partsPage">
+<p><strong>Description</strong>: Secondary academic part from my undergraduate years. Seemingly only comes out as a helper to <a href="/systemmap/989898/">#989898</a> for taking notes and writing down information quickly. Distinct handwriting.</p>
+<p><strong>Friends</strong>: <a href="/systemmap/989898/">#989898</a></p>
+</div>
+]]></description>
+                
+                
+                    <guid>/systemmap/8155e1/</guid>
+                    <link>/systemmap/8155e1/</link>
+                
+                
+                
+                    <title>#8155E1</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+<div style="background:#989898" class="colorbox"></div>
+
+
+
+<div class="partsPage">
+<p><strong>Description</strong>: Primary part who got me through undergrad. Very diligent worker, interested in algorithms and processes. Nerdy, quick-witted, and relatively soft-spoken. Was my system &ldquo;host&rdquo;, or primary fronting part, during my undergraduate years.</p>
+<p><strong>Friends</strong>: <a href="/systemmap/8155e1/">#8155E1</a></p>
+</div>
+]]></description>
+                
+                
+                    <guid>/systemmap/989898/</guid>
+                    <link>/systemmap/989898/</link>
+                
+                
+                
+                    <title>#989898</title>
+                
+            </item>
+        
+    </channel>
+</rss>
