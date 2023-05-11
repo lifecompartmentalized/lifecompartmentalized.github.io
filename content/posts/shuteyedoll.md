@@ -19,14 +19,14 @@ Watching
 
 Just as I should be
 
-The shut eye doll
+A shut eye doll
 
 <br>
 
 
 All dressed up
 
-Silk and lace 
+Florals and lace 
 
 No motive 
 
@@ -93,9 +93,9 @@ Is she there?
 
 Am I real?
 
-Can I think?
-
 Can I move?
+
+Can I think?
 
 Can I do?
 
