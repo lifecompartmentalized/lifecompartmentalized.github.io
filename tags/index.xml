@@ -36,12 +36,12 @@
                 
                 
                 
-                    <guid>/tags/academia/</guid>
-                    <link>/tags/academia/</link>
+                    <guid>/tags/amnesia/</guid>
+                    <link>/tags/amnesia/</link>
                 
                 
                 
-                    <title>academia</title>
+                    <title>amnesia</title>
                 
             </item>
         
@@ -62,6 +62,32 @@
                 
                 
                 
+                    <guid>/tags/symptoms/</guid>
+                    <link>/tags/symptoms/</link>
+                
+                
+                
+                    <title>symptoms</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/academia/</guid>
+                    <link>/tags/academia/</link>
+                
+                
+                
+                    <title>academia</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
                     <guid>/tags/narrative/</guid>
                     <link>/tags/narrative/</link>
                 
@@ -75,12 +101,12 @@
                 
                 
                 
-                    <guid>/tags/symptoms/</guid>
-                    <link>/tags/symptoms/</link>
+                    <guid>/tags/polyfragmented/</guid>
+                    <link>/tags/polyfragmented/</link>
                 
                 
                 
-                    <title>symptoms</title>
+                    <title>polyfragmented</title>
                 
             </item>
         
@@ -133,32 +159,6 @@
                 
                 
                     <title>graphs</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/amnesia/</guid>
-                    <link>/tags/amnesia/</link>
-                
-                
-                
-                    <title>amnesia</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/polyfragmented/</guid>
-                    <link>/tags/polyfragmented/</link>
-                
-                
-                
-                    <title>polyfragmented</title>
                 
             </item>
         
