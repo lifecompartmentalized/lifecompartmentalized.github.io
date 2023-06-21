@@ -47,6 +47,19 @@ var cy = cytoscape({
       })
     .selector('#h')
       .css({
+        'background-color' : '#aaffaa',
+        'shape': 'square'
+      })
+    .selector('#h1')
+      .css({
+        'background-color' : '#aaffaa'
+      })
+    .selector('#h2')
+      .css({
+        'background-color' : '#aaffaa'
+      })
+    .selector('#h3')
+      .css({
         'background-color' : '#aaffaa'
       })
     .selector('#s')
@@ -100,7 +113,10 @@ var cy = cytoscape({
       { data: { id: 'w1', mySize: 70, label: 'worker \n 1' } },
       { data: { id: 'w2', mySize: 70, label: 'worker \n 2' } },
       { data: { id: 'w3', mySize: 70, label: 'worker \n 3' } },
-      { data: { id: 'h',  mySize: 90, label: 'home self' } },
+      { data: { id: 'h',  mySize: 90, label: 'home \nselves' } },
+      { data: { id: 'h1',  mySize: 70, label: 'home \n 1' } },
+      { data: { id: 'h2',  mySize: 70, label: 'home \n 2' } },
+      { data: { id: 'h3',  mySize: 70, label: 'home \n 3' } },
       { data: { id: 's',  mySize: 90, label: 'social \n selves' } },
       { data: { id: 's1',  mySize: 70, label: 'social \n 1' } },
       { data: { id: 's2',  mySize: 70, label: 'social \n 2' } },
@@ -124,6 +140,9 @@ var cy = cytoscape({
       { data: { source: 's', target: 's1', myWidth: 8 } },
       { data: { source: 's', target: 's2', myWidth: 8 } },
       { data: { source: 's', target: 's3', myWidth: 8 } },
+      { data: { source: 'h', target: 'h1', myWidth: 8 } },
+      { data: { source: 'h', target: 'h2', myWidth: 8 } },
+      { data: { source: 'h', target: 'h3', myWidth: 8 } },
       { data: { source: 'h', target: 's', myWidth: 8 } },
       { data: { source: 't', target: 't1', myWidth: 1 } },
       { data: { source: 't', target: 't2', myWidth: 1 } },

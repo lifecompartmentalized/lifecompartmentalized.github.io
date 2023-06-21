@@ -35,8 +35,8 @@
             <item>
                 
                 
-                    <description><![CDATA[<p>Everybody, regardless of if they have a dissociative disorder or not, has parts of their personality. For example, one may generally behave differently at work with their colleagues than they do at home with their family&mdash;they have a &ldquo;work self&rdquo; and a &ldquo;home self&rdquo;.
-In someone without a dissociative disorder,
+                    <description><![CDATA[<p>Everybody, regardless of if they have DID or not, has parts of their personality. For example, one may generally behave differently at work with their colleagues than they do at home with their family&mdash;they have a &ldquo;work self&rdquo; and a &ldquo;home self&rdquo;.
+In someone without DID,
 when one transitions between their work self and their home self, they likely have a continuous internal sense of memory and identity&mdash;when they&rsquo;re at home, they still remember what happened while they were at work and relate to those experiences. Using graphs, we can represent the relationship between their work self and their home self with two nodes, each denoting a part of their personality, and one edge connecting the nodes, relating the shared sense of memory and identity between the two parts.
 
 
@@ -48,9 +48,9 @@ when one transitions between their work self and their home self, they likely ha
 <script src="/cytoscape/twoparts.js"></script>
 
 
-Here, in an individual without a dissociative disorder, their work self and their home self are aware of and relate to the thoughts, feelings, and actions of the other part.
-But people have more than just a work self and a home self&mdash;they have a multitude of parts, representing many different facets of their personality. For simplicity&rsquo;s sake we will only look at 6 of these parts to represent their entire personality, but without loss of generality, this concept can be extrapolated to as many parts as needed to represent the whole personality.
-In an individual without a dissociative disorder, their parts form a complete graph&mdash;all the nodes are connected with edges to all the other nodes, so all their parts remember and relate to the actions of other parts.</p>
+Here, in an individual without DID, their work self and their home self are aware of and relate to the thoughts, feelings, and actions of the other part.
+But people have more than just a work self and a home self&mdash;they have a multitude of parts, representing many different facets of their personality. For simplicity&rsquo;s sake we will only look at 6 of these parts to represent their entire personality.
+In an individual without DID, their parts form a complete graph&mdash;all the nodes are connected with edges to all the other nodes, representing that all their parts remember and relate to the actions of other parts.</p>
 
 
 
@@ -62,8 +62,8 @@ In an individual without a dissociative disorder, their parts form a complete gr
 
 
 <p>The similar colors of the nodes, or parts, represents the small variations between parts of their whole personality.
-Because their parts are familiar with and aware of one another, their personality changes would generally blend smoothly between their parts.</p>
-<p>Things may be a bit different in an individual with a dissociative disorder. While they still may have similar types of parts to someone without a dissociative disorder, their graph may look something like this:</p>
+Because their parts are familiar with and aware of one another, their changes in identity and experience would generally blend smoothly between their parts.</p>
+<p>Things may be a bit different in an individual with DID. While they still may have similar types of parts to someone without DID, their graph may look something like this:</p>
 
 
 
@@ -74,9 +74,14 @@ Because their parts are familiar with and aware of one another, their personalit
 <script src="/cytoscape/system1.js"></script>
 
 
-<p>Their parts do not form a complete graph&mdash;the lack of connection between their parts represents the lack of continuity of memory and identity between parts of self. The different colors represent that their personality variation is likely to be larger than that of a more integrated individual because their parts are more separated.
+<p>Their parts do not form a complete graph&mdash;the lack of connection between their parts represents the lack of continuity of memory and identity between parts of self. The different colors represent that their identity and personality variation is likely to be larger than that of a more integrated individual because their parts are more separated.
 In an individual with DID, when one part of them is active, they may experience the world in an entirely different way than when a different part is active. They may have a different awareness of their life, different memories, and have a different felt sense of identity. Their life is compartmentalized into different pockets of awareness, identity, memory, and experience that they switch between to experience life. Not all of their parts are aware of the feelings and actions of other parts, and this is by design&mdash;from a young age, they learned to separate parts of self who hold difficult memories and experiences from other parts of self. This separation of parts of self is protective, as it allowed them to learn and grow as a child when some parts of them were active, while simultaneously using different parts to compartmentalize traumatic experiences away from the more healthy parts of self.</p>
-<p>It is important to note that just as everybody&rsquo;s personality structure is different from one another&rsquo;s, people with DID are going to have a different system structures, which depends on their reactions to their individual life experiences.
+<p>It is important to note that just as everybody&rsquo;s personality structure is different from one another&rsquo;s, people with DID are going to have different system structures, which depend on their reactions to their individual life experiences.
+While some people may have parts that are well-defined and differentiated, others have systems of parts that are less structured.
+Some may have parts that can fit into categories such as &ldquo;work self&rdquo; and &ldquo;home self&rdquo;, while others do not.
+Some may have multiple parts that do the same job, and other parts that don&rsquo;t have clearly defined jobs.
+In my case, while I do have parts that I could represent in a graph like this, my system of parts doesn&rsquo;t fully fit into a neat, clearly-defined structure.
+Also, because I am <a href="/posts/polyfragmented">polyfragmented</a> and thus create parts easily, I have multiple parts that do the same job.
 As an example, part of my system structure looks something like this:</p>
 
 
@@ -88,11 +93,12 @@ As an example, part of my system structure looks something like this:</p>
 <script src="/cytoscape/mysystem.js"></script>
 
 
-<p>This is a far overly simplistic view, and only shows the parts of my system structure that I am aware of and am comfortable sharing. Here, I use the weights of edges between nodes to represent how connected two parts are, I use squares to denote clusters of parts rather than individual parts, and I only show three parts in each cluster when there are actually many more.
+<p>This is a far overly simplistic view, and only shows the parts of my system structure that I am aware of and am comfortable sharing. Here, I use the weights of edges between nodes to represent how connected two parts are, I use squares to denote clusters of parts rather than individual parts, and I only show three parts in each cluster when there are typically many more.
 In reality, I believe my awareness of my system is still too abstract for me to accurately represent it with a concrete graph structure<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
 However, I feel as though graphs such as this one can be a good visual representation of how parts relate to one another in individuals with a dissociative disorder.</p>
 <!--
 
+but without loss of generality, this concept can be extrapolated to as many parts as needed to represent the whole personality.
 In reality, I believe my system is much more complex than can be shown on a simple graph[^1]. 
 , so I plan on using this style of visualization in future posts that warrant it.
 
