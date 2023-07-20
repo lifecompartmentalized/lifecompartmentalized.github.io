@@ -36,32 +36,6 @@
                 
                 
                 
-                    <guid>/tags/academia/</guid>
-                    <link>/tags/academia/</link>
-                
-                
-                
-                    <title>academia</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/amnesia/</guid>
-                    <link>/tags/amnesia/</link>
-                
-                
-                
-                    <title>amnesia</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
                     <guid>/tags/did/</guid>
                     <link>/tags/did/</link>
                 
@@ -81,6 +55,32 @@
                 
                 
                     <title>narrative</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/academia/</guid>
+                    <link>/tags/academia/</link>
+                
+                
+                
+                    <title>academia</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/amnesia/</guid>
+                    <link>/tags/amnesia/</link>
+                
+                
+                
+                    <title>amnesia</title>
                 
             </item>
         
