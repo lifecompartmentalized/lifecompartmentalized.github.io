@@ -17,20 +17,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="/tags/autism/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="/tags/reddit/index.xml" rel="self" type="application/rss+xml"/>
         
         
-        <description>autism</description>
+        <description>reddit</description>
         
             <language>en-us</language>
         
         
-        <link>/tags/autism/</link>
+        <link>/tags/reddit/</link>
         
         
-            <title>autism</title>
+            <title>reddit</title>
         
         
+        
+            <item>
+                
+                
+                    <description><![CDATA[<p>There seems to be a dominant representation of DID in online discourse. Mostly, it seems as though people represent themselves as having a handful of well-defined parts, each with distinct names, ages, and characteristics. Perhaps because I am <a href="/posts/polyfragmented/">polyfragmented</a>, I experience something very different, and do not relate to the vast majority of the experiences that other people present themselves as having online. Last month, I posted to <a href="https://www.reddit.com/r/DID/">the DID subreddit</a> to see if anyone related to my experiences:</p>
+
+
+
+
+
+<div class="paige-quote">
+    <blockquote class="blockquote"><p>I&rsquo;m wondering if anyone relates to my experiences, as I have not seen this representation of DID anywhere in the literature/online.</p>
+<p>I have polyfragmented DID, with low identity alteration, day-to-day amnesia, and lots of switching (10-100+ times a day).</p>
+<p>The last several years of my life have been a blur. However, I have been logging data about myself for the past ~2 years, and I have now accumulated enough to notice patterns. From this, it seems like my parts exhibit cyclical behavior. It seems like I have one part as my dominant part for anywhere from several hours to a few weeks. During this time, other task-based and trauma-holding parts seem to &ldquo;come out&rdquo; of that dominant part as needed. Eventually, a new dominant part takes over, and lasts a chunk of time before a different one takes over. After I have cycled through all of these dominant parts, they repeat in a similar order, with a period lasting ~3-5 months. Occasionally, new parts are added to this cycle. I have not yet gained enough internal awareness to know which &ldquo;part of the cycle&rdquo; I am in in a given moment, but if I look back at my data, it&rsquo;s clear that I have cyclical patterns across several different data points.</p>
+<p>Does anyone here exhibit anything similar to this? Do you know of others that experience this system structure? Do you have any tips for the recovery process?</p>
+<p>With this awareness, my life makes a whole lot more sense. I spend much of my time confused and out of date about where I am in life, as many of my parts are unaware of large aspects of my life. Because my dominant parts switch so readily, I&rsquo;m repeatedly having to re-update myself about my life circumstances (if I&rsquo;m even aware enough about my current life to do so!), and since these parts only repeat every few months, each part of me feels like they are losing large chunks of time. Life is so chaotic right now. I am in therapy 2x a week and am slowly making, and subsequently losing, progress. Any advice is appreciated.</p>
+</blockquote>
+
+    
+</div>
+
+<p>You can view the original Reddit post <a href="https://www.reddit.com/r/DID/comments/166f8ui/polyfragmented_did_cycling_between_parts/">here</a>.
+I received a lot of comments on this post, with many people relating to my experiences and sharing their own.</p>
+<p>I feel like this is a very uncomfortable and unknown form of DID to have. My sense of self changes so rapidly, and internally things are very chaotic. It&rsquo;s hard to definitively describe what I&rsquo;m experiencing, as things change quickly enough that I often forget what I previously discovered. The only way I am able to confirm that this is actually what I am going through is because I have compiled enough data about myself to determine that I have clear cyclical patterns (see <a href="/posts/systemdata/">Learning about my system with data</a>).
+Internally, things were too chaotic for me to discover this pattern independently, but now that I know that this is how I work I can confirm the pattern fits with my internal experiences as well.</p>
+<p>It&rsquo;s reassuring to know that other people are going through similar experiences to me. At least one person said they experienced this at earlier stages of their recovery and their system is more stable now. I&rsquo;ve been in therapy for just over 1.5 years, and I believe this system pattern began in late 2019 due to the stress caused by my PhD qualifying exams. Before taking my qualifying exams, I had two main handwritings that would show up in my academic notes, and were stable for at least the previous 5 years. After my qualifying exams, which went horribly and could be considered traumatic for me, I gradually gained more and more different handwritings as more parts were being created and added to the cycle. Now, I have an uncountable number of distinct handwritings that I switch between seemingly cyclically.</p>
+<p>It seems like, depending on which part of the cycle I am in, I have very different understandings of my life. I talk about this in <a href="/posts/howdidaffectswork/">How DID affects my work</a>. I can go for weeks where I am hyperfocused on work and advancing in my research, followed by weeks where I am mostly unaware that I am even a graduate student who is supposed to be working. I am trying hard to break this cycle, but it seems to be going strong. There have been several occasions where I believed I was able to stop my cycle (for example, see <a href="/posts/wakingup/">Waking up to the present</a>), but I always end up losing my awareness and advancing in the cycle. I hope someday soon my system will stabilize more so I can live the life I want to live and remain grounded to the reality of the present.</p>
+]]></description>
+                
+                
+                    <guid>/posts/redditrelate/</guid>
+                    <link>/posts/redditrelate/</link>
+                
+                
+                    <pubDate>Fri, 29 Sep 2023 12:25:20 -0400</pubDate>
+                
+                
+                    <title>Do other people experience DID in the same way as me?</title>
+                
+            </item>
         
             <item>
                 
@@ -96,51 +136,6 @@ My body is designed to deal with trauma, and learning about and working with my 
                 
                 
                     <title>Why do I call myself “polyfragmented”?</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                    <description><![CDATA[<p>Pretty early on in my DID discovery journey, I realized that my handwriting was different depending on which part of me was writing. This was very useful information, as I had taken well-catalogued academic notes for years prior to starting therapy, so I had a solid bank of data of which I could look back on and see which parts of me were active at different times of my life.</p>
-<p>One thing I quickly noticed was that any time I traveled to a conference, my handwriting changed. And then when I got back, my handwriting changed back to whatever was normal at that time of my life<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-Internally, this also made sense&mdash;I tend to index my life by location rather than time. In fact, in all of my notebooks' index sections, I had added a column for location, in addition to the standard page number and date. My mind likes segmenting my life based on location.</p>
-<p>Why could this be the case? Why do I create parts when I travel? Looking back at my life story, it actually makes a lot of sense.
-My first several years of life involved a lot of traveling. Although I was born in the US, when I was just over 2 months old, my family moved to the Middle East for my dad&rsquo;s job.
-As a perk of being an expat, my dad&rsquo;s job paid for two vacations a year&mdash;one for rest and relaxation, and another to visit family.
-Because of this, by my 5th birthday, I had been to 11 different countries between 4 continents, all on separate trips.</p>
-<p>This sounds like an incredibly fortunate childhood, and while it was, it was also very stressful for me.
-As an autistic person, I regulate myself by following a strict routine. As an adult, changes in plans are very dysregulating, and usually leave me in a detached dissociated state with difficulty picking up the newly created plans.
-I can only imagine how dysregulating it was for me as a small child to have my routine entirely upended every several months to travel to a new environment with an unknown routine.
-I had no option&mdash;my family chose to travel, and since within my family structure the emotional landscape was already dominated by others, I had to be an easy child and submit to whatever they wanted. This led to me dissociating and creating parts to handle the traveling for me.</p>
-<p>This past summer, I went to my first conference while aware that I create parts this way.
-The night leading up to the event, I remember absolutely dreading the trip, wishing I could back out but knowing that I couldn&rsquo;t. Then, when the time came, I genuinely enjoyed the conference&mdash;the right part showed up for the job. I did seem to create a part for this trip, and this was the first part that I was self-aware I was creating. I had no control over it; instead, I observed its creation as I walked into the hotel lobby to check in. A new persona emerged, and was ready to take on whatever routine was required of me for my week-long conference that was just getting started. With that part as the dominant part, other parts came out periodically to do what was required of me, like networking, socializing, and presenting. But this newly created part was the star of the show, helping me create a solid routine I could stick to throughout the week to help keep me regulated. Then, on the last day, once again the dread came&mdash;this time, I, as the newly created part, didn&rsquo;t want to change my routine back again as I was only familiar with the one I had created. However, when I arrived in my apartment after a long journey back, a different part switched in and I was so glad to be home and back again in my standard routine.</p>
-<p>We traveled to many beautiful locations in my early childhood, and I truly appreciate all the culturally enriching experiences I acquired, which I believe to this day have helped shaped my worldview. I do, however, wish that my parents were more aware of how stressful this was for me as a child. I did not understand the significance of the locations we would visit, and felt as though I was being dragged from place to place without understanding what was going on around me. In pictures of our family vacations, it&rsquo;s clear that I am dissociating&mdash;many of them show me with a blank expression with my eyes glazed over. I learned to regulate myself by dissociating, detaching from the world around me. And these repeated experiences of traveling = part creation have continued throughout my life, increasingly fragmenting my awareness when I take trips.</p>
-<p>I believe this is a good example of how trauma, but not necessarily abuse, can lead to the formation of DID.
-I would not consider traveling as much as we did abuse, but it was traumatic because it was too much for me to handle at the developmental stages it occurred in.
-One could argue that this was neglect or negligence&mdash;that my parents weren&rsquo;t attuned to my emotional needs at the time.
-However, it does not fit into the category of extreme abuse that is often attributed to the creation of DID.
-While I do not believe this was the only trauma that caused me to form DID, and some of those traumas would be considered abuse,
-traveling in the way that we did when I was small had a major impact on how I create parts, and is perhaps the most influential mechanism of part creation in my adult life.</p>
-<section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>My handwriting isn&rsquo;t usually discretely clear, and is often a blend of many different parts' handwritings. However, on several trips my handwriting made a clear enough change for me to notice this pattern.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
-]]></description>
-                
-                
-                    <guid>/posts/traveling/</guid>
-                    <link>/posts/traveling/</link>
-                
-                
-                    <pubDate>Thu, 09 Mar 2023 22:14:57 -0500</pubDate>
-                
-                
-                    <title>Parts are created from trauma, not necessarily abuse</title>
                 
             </item>
         

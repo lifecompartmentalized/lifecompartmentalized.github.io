@@ -36,25 +36,12 @@
                 
                 
                 
-                    <guid>/tags/conceptualization/</guid>
-                    <link>/tags/conceptualization/</link>
+                    <guid>/tags/cycle/</guid>
+                    <link>/tags/cycle/</link>
                 
                 
                 
-                    <title>conceptualization</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                    <guid>/tags/data/</guid>
-                    <link>/tags/data/</link>
-                
-                
-                
-                    <title>data</title>
+                    <title>cycle</title>
                 
             </item>
         
@@ -75,12 +62,38 @@
                 
                 
                 
+                    <guid>/tags/narrative/</guid>
+                    <link>/tags/narrative/</link>
+                
+                
+                
+                    <title>narrative</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
                     <guid>/tags/polyfragmented/</guid>
                     <link>/tags/polyfragmented/</link>
                 
                 
                 
                     <title>polyfragmented</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/reddit/</guid>
+                    <link>/tags/reddit/</link>
+                
+                
+                
+                    <title>reddit</title>
                 
             </item>
         
@@ -101,12 +114,25 @@
                 
                 
                 
-                    <guid>/tags/narrative/</guid>
-                    <link>/tags/narrative/</link>
+                    <guid>/tags/conceptualization/</guid>
+                    <link>/tags/conceptualization/</link>
                 
                 
                 
-                    <title>narrative</title>
+                    <title>conceptualization</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>/tags/data/</guid>
+                    <link>/tags/data/</link>
+                
+                
+                
+                    <title>data</title>
                 
             </item>
         
