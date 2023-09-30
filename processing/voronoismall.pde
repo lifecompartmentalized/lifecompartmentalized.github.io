@@ -4,7 +4,7 @@ int n;                   // metric flag
 // initialize for display
 void setup(){
   var canvas = document.getElementById('canv');
-  size(350,200);
+  size(400,200);
   //size(canvas.width,canvas.height);
   background(#ffffff);
   points = new ArrayList<Point>();
