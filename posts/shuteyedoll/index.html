@@ -18,6 +18,8 @@
 
 <meta name="robots" content="noindex,follow" />
 
+
+
 <script
     src="https://code.jquery.com/jquery-3.3.1.js"
     integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
@@ -415,16 +417,17 @@ h6{
 
 #proc_canvas { 
     width: 100%;
-    position: relative;
-    height: 100%;
+    height: 300px;
     margin: auto;
     padding:0em;
-    margin-bottom:-50px;
-    margin-top:-15px;
+    position: relative;
+    display: flex;
+    align-items:center;
+    justify-content:center;
 }
 
 #canv{ 
-    width: 750px;
+    width: 100%;
     height: 300px;
     position: relative;
     margin: auto;
@@ -433,15 +436,15 @@ h6{
 
 
 #proc_canvas #myname { 
+    position: absolute;
     text-align: center;
-    position: relative;
-    bottom: 215px;
 }
 
 #myname h1, #myname a {
     font-family: 'Varela Round', sans-serif;
-    font-size:55px;
+    font-size: 100%;
     text-align: center;
+    vertical-align:center;
 }
 
 #proc_canvas a {
@@ -596,12 +599,12 @@ canvas {
     font-size:15px;
 }
 
- /* phone */
- @media only screen and (max-width: 600px) {
+/* phone */
+@media only screen and (max-width: 600px) {
      .largeScreen {display: none;}
      .midScreen {display: none;}
     #paige-main{
-        font-size:14px;
+        font-size:16px;
     }
     .suggestedlinks{
       font-size:17px;
@@ -613,6 +616,11 @@ canvas {
     .suggestedtitle{
       font-size:17px;
     }
+
+    #myname h1, #myname a {
+      font-size:40px;
+    }
+
 }
 
 /* computer */
@@ -629,6 +637,11 @@ canvas {
     }
     .suggestedsummary{
       font-size:16px;
+    }
+
+
+    #myname h1, #myname a {
+      font-size:60px;
     }
 
 }
@@ -649,6 +662,25 @@ canvas {
     .suggestedsummary{
       font-size:14px;
     }
+
+    #myname h1, #myname a {
+      font-size:55px;
+    }
+
+}
+
+.buttoncontainer{
+
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  flex-direction: row; /* Display images in a row (horizontal) */
+
+}
+
+.buttonclass{
+    width: 100px;
+    margin:3px;
 }
 
 .center {
@@ -797,6 +829,10 @@ ul {
   font-style: italic;
 }
 
+.intro{
+  text-align: center;
+}
+
 
 </style>
 
@@ -835,12 +871,17 @@ ul {
     
 
 
-<nav class="justify-content-center my-3 navbar navbar-expand-sm">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#paige-menu-toggler" aria-controls="paige-menu-toggler" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse justify-content-center mt-3 mt-sm-0 navbar-collapse" id="paige-menu-toggler">
-        <div class="align-items-center flex-column flex-sm-row justify-content-center nav  nav-pills ">
+    <br>
+    <div id="proc_canvas">
+        <canvas id="canv" data-processing-sources="/processing/voronoi.pde"></canvas>
+        <div id="myname">
+            <h1><a href="/">Life compartmentalized</a></h1>
+        </div>
+    </div>
+    <br>
+
+        
+        <div class="align-items-center justify-content-center nav  nav-pills ">
             
                 
                 
@@ -867,7 +908,7 @@ ul {
                 <a  class=" nav-link" href="/topics/">Tags and topics</a>
             
         </div>
-    </div>
+        </br>
 </nav>
 
         

@@ -4,8 +4,10 @@ int n;                   // metric flag
 
 // initialize for display
 void setup(){
+
+  var width = document.getElementById("paige-root").offsetWidth
   var canvas = document.getElementById('canv');
-  size(750,300);
+  size(width,300);
   //size(canvas.width,canvas.height);
   background(#ffffff);
   points = new ArrayList<Point>();
