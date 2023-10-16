@@ -368,7 +368,130 @@ body, html {
 
 
 
+    * {
+  -webkit-text-size-adjust: none; /* For Webkit browsers like Chrome and Safari */
+  -ms-text-size-adjust: none; /* For Internet Explorer */
+
+}
+.flexme {
+    display: flex;
+    height: 579px; /* Set a fixed height for the container */
+  }
+
+  .flex-left {
+    width: 200px; /* Set a fixed width for the left div */
+    height: 100%; /* Make the left div the same height as the container */
+    background-color: #FFD700; /* Optional background color */
+  }
+
+  .flex-right {
+    flex: 1; /* Allow the right div to flexibly fill the remaining space */
+    height: 100%; /* Make the right div the same height as the container */
+    background-color: #FF69B4; /* Optional background color */
+  }
+
+
+
+.homepage {
+    display: flex;
+    align-items: flex-start; /* Vertically center content */
+}
+
+#thoughtportal{
+    text-align: center; /* Center the button's text */
+    font-weight: bold;
+    font-size:23px;
+    color: #ffffff;
+}
+.left-column {
+    flex: 1; /* Take up 1/3 of the available space */
+    padding: 10px;
+  }
+
+  .right-column {
+    display: flex;
+    flex-direction: column;
+  }
+
+.image {
+    max-width: 50%; /* Adjust the width as needed */
+}
+
+.introtext {
+    text-align: center; /* Center the button's text */
+    padding-bottom: 35px;
+}
+
+/* Rss feed */
+
+.rss-snippet {
+    font-weight: bold;
+    color:#212529;
+    font-size:18px;
+}
+
+.rss-date {
+    color: #ffffff;
+    font-style: italic;
+    font-size:14px;
+    text-align: right;
     
+}
+
+.bg-color-1 {
+  background-color: #A0A0A0; /* Color 1 */
+}
+
+.bg-color-2 {
+  background-color: #A0A0A0; /* Color 2 */
+}
+
+.bg-color-3 {
+  background-color: #A0A0A0; /* Color 3 */
+}
+
+.bg-color-4 {
+  background-color: #A0A0A0; /* Color 4 */
+}
+
+.rss-entry {
+    max-width: 100%;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 15px;
+  }
+
+  #rss-feed-container {
+    overflow-y: scroll;
+    border: 4px solid #a0a0a0;
+    padding: 10px;
+    border-radius: 15px;
+  }
+
+  .scroll-box {
+    width: 100%; /* Ensure the box takes the full width of the container */
+  }
+
+  /* Style for the "Show More" button (customize as needed) */
+  #show-more {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center; /* Center the button's text */
+    border-radius: 5px;
+    cursor: pointer; /* Change the cursor on hover to indicate interactivity */
+  }
+  #show-more:active {
+    transform: none;
+  }
+
+
+
+
+
+
+
 a {
   color: hotpink;
 }
@@ -433,8 +556,17 @@ h6{
     height: 300px;
     position: relative;
     margin: auto;
+    /*border-radius: 0px;*/
     border-radius: 25px;
 }
+/*.nav .nav-link{
+
+    border-radius: 0px;
+}
+
+.badge {
+  border-radius: 0;
+}*/
 
 
 #proc_canvas #myname { 
@@ -969,7 +1101,7 @@ ul {
             
 
             
-                <p class="mb-0  text-center text-secondary"  id="paige-reading-time" >1 minute</p>
+                <p class="mb-0  text-center text-secondary"  id="paige-reading-time" >3 minutes</p>
             
         </div>
     
@@ -1005,12 +1137,191 @@ ul {
     </div>
 </div>
 
--->
-<p class="intro">
+
+
+
+<div class="homepage">
+    <img src="/imgs/me.png">
+<p class="text">
 I am an autistic person living with polyfragmented Dissociative Identity Disorder. 
 On this site, I share my story and document my understanding of what factors shaped who I am and how I experience life. 
 </p>
+
+</div>
+
 <br>
+
+ 
+
+
+
+
+
+<div id="rss-feed-container">
+  <div id="rss-feed" class="scroll-box"></div>
+  <button id="show-more">Show More</button>
+</div>
+
+
+<script src="/js/rss-parser.min.js"></script>
+
+
+
+<script>
+  const feedContainer = document.getElementById('rss-feed');
+  const rssFeedContainer = document.getElementById('rss-feed-container');
+  const showMoreButton = document.getElementById('show-more');
+  const feedUrl = 'http://lico.team:5230/u/1/rss.xml'; 
+
+  const parser = new RSSParser();
+
+  let startIndex = 0; 
+  let batchSize = 1; 
+  const bgColors = ['bg-color-1', 'bg-color-2', 'bg-color-3', 'bg-color-4'];
+  let currentBgColorIndex = 0; 
+
+  function loadEntries() {
+    parser.parseURL(feedUrl, function (err, feed) {
+      if (err) {
+        console.error(err);
+        return;
+      }
+
+      let feedHTML = '';
+
+      
+      feed.items.slice(startIndex, startIndex + batchSize).forEach(function (item) {
+        const bgColorClass = bgColors[currentBgColorIndex]; 
+        feedHTML += `<div class="rss-entry ${bgColorClass}">`;
+        feedHTML += `<div class="rss-snippet">${item.contentSnippet}</div>`;
+        feedHTML += `<div class="rss-date">${item.pubDate}</div>`;
+        feedHTML += '</div>';
+
+
+        
+        currentBgColorIndex = (currentBgColorIndex + 1) % bgColors.length;
+      });
+
+      feedContainer.innerHTML += feedHTML;
+
+      startIndex += batchSize;
+
+      
+      if (startIndex >= feed.items.length) {
+        showMoreButton.style.display = 'none';
+      }
+    });
+  }
+
+  
+  loadEntries();
+
+  
+  showMoreButton.addEventListener('click', loadEntries);
+</script>
+
+
+
+-->
+<div class="introtext">
+I am an autistic person living with polyfragmented Dissociative Identity Disorder. 
+On this site, I share my story and document my understanding of what factors shape who I am and how I experience life. 
+</div>
+
+<div class="flexme">
+<div class="left-flex">
+    <img src="/imgs/me.png">
+</div>
+<div id="rss-feed-container" class="right-flex" >
+    <div id="thoughtportal">~ Thought portal ~</div>
+      <div id="rss-feed" class="scroll-box"></div>
+      <div id="errormessage">Cannot connect to the thought portal right now, sorry! It could be that you've disabled JavaScript, your browser is having trouble parsing JavaScript, or my server is down.</div>
+      <button id="show-more">Show More</button>
+    </div>
+</div>
+</div>
+
+
+
+<script src="/js/rss-parser.min.js"></script>
+
+
+
+<script>
+  const feedContainer = document.getElementById('rss-feed');
+  const rssFeedContainer = document.getElementById('rss-feed-container');
+  const showMoreButton = document.getElementById('show-more');
+  const feedUrl = 'http://lico.team:5230/u/1/rss.xml'; 
+
+  const parser = new RSSParser();
+
+
+  let startIndex = 0; 
+  let batchSize = 5; 
+  const bgColors = ['bg-color-1', 'bg-color-2', 'bg-color-3', 'bg-color-4'];
+  let currentBgColorIndex = 0; 
+
+  var x = document.getElementById("errormessage");
+  x.style.display = "none";
+
+  function loadEntries() {
+    parser.parseURL(feedUrl, function (err, feed) {
+      if (err) {
+
+        var y = document.getElementById("show-more");
+        y.style.display = "none";
+        x.style.display = "block";
+
+        console.error(err);
+        return;
+
+      }
+
+      let feedHTML = '';
+
+
+      
+      feed.items.slice(startIndex, startIndex + batchSize).forEach(function (item) {
+        const bgColorClass = bgColors[currentBgColorIndex]; 
+        feedHTML += `<div class="rss-entry ${bgColorClass}">`;
+        feedHTML += `<div class="rss-snippet">${item.contentSnippet}</div>`;
+        feedHTML += `<div class="rss-date">${item.pubDate}</div>`;
+        feedHTML += '</div>';
+
+
+        
+        currentBgColorIndex = (currentBgColorIndex + 1) % bgColors.length;
+      });
+        console.log(feedHTML);
+
+      if (!feedHTML) {
+        
+        feedHTML += '<p>You\'ve encountered an error! Please let me know if you see this message, thanks!</p>';
+      }
+
+
+
+
+      feedContainer.innerHTML += feedHTML;
+
+      startIndex += batchSize;
+
+      
+      if (startIndex >= feed.items.length) {
+        showMoreButton.style.display = 'none';
+      }
+    });
+  }
+
+  
+  loadEntries();
+
+  
+  showMoreButton.addEventListener('click', loadEntries);
+</script>
+
+
+
 <!---
 <div class="centerlinks">
 

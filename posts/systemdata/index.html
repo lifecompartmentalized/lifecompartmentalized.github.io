@@ -366,7 +366,130 @@ body, html {
 
 
 
+    * {
+  -webkit-text-size-adjust: none; /* For Webkit browsers like Chrome and Safari */
+  -ms-text-size-adjust: none; /* For Internet Explorer */
+
+}
+.flexme {
+    display: flex;
+    height: 579px; /* Set a fixed height for the container */
+  }
+
+  .flex-left {
+    width: 200px; /* Set a fixed width for the left div */
+    height: 100%; /* Make the left div the same height as the container */
+    background-color: #FFD700; /* Optional background color */
+  }
+
+  .flex-right {
+    flex: 1; /* Allow the right div to flexibly fill the remaining space */
+    height: 100%; /* Make the right div the same height as the container */
+    background-color: #FF69B4; /* Optional background color */
+  }
+
+
+
+.homepage {
+    display: flex;
+    align-items: flex-start; /* Vertically center content */
+}
+
+#thoughtportal{
+    text-align: center; /* Center the button's text */
+    font-weight: bold;
+    font-size:23px;
+    color: #ffffff;
+}
+.left-column {
+    flex: 1; /* Take up 1/3 of the available space */
+    padding: 10px;
+  }
+
+  .right-column {
+    display: flex;
+    flex-direction: column;
+  }
+
+.image {
+    max-width: 50%; /* Adjust the width as needed */
+}
+
+.introtext {
+    text-align: center; /* Center the button's text */
+    padding-bottom: 35px;
+}
+
+/* Rss feed */
+
+.rss-snippet {
+    font-weight: bold;
+    color:#212529;
+    font-size:18px;
+}
+
+.rss-date {
+    color: #ffffff;
+    font-style: italic;
+    font-size:14px;
+    text-align: right;
     
+}
+
+.bg-color-1 {
+  background-color: #A0A0A0; /* Color 1 */
+}
+
+.bg-color-2 {
+  background-color: #A0A0A0; /* Color 2 */
+}
+
+.bg-color-3 {
+  background-color: #A0A0A0; /* Color 3 */
+}
+
+.bg-color-4 {
+  background-color: #A0A0A0; /* Color 4 */
+}
+
+.rss-entry {
+    max-width: 100%;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 15px;
+  }
+
+  #rss-feed-container {
+    overflow-y: scroll;
+    border: 4px solid #a0a0a0;
+    padding: 10px;
+    border-radius: 15px;
+  }
+
+  .scroll-box {
+    width: 100%; /* Ensure the box takes the full width of the container */
+  }
+
+  /* Style for the "Show More" button (customize as needed) */
+  #show-more {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center; /* Center the button's text */
+    border-radius: 5px;
+    cursor: pointer; /* Change the cursor on hover to indicate interactivity */
+  }
+  #show-more:active {
+    transform: none;
+  }
+
+
+
+
+
+
+
 a {
   color: hotpink;
 }
@@ -431,8 +554,17 @@ h6{
     height: 300px;
     position: relative;
     margin: auto;
+    /*border-radius: 0px;*/
     border-radius: 25px;
 }
+/*.nav .nav-link{
+
+    border-radius: 0px;
+}
+
+.badge {
+  border-radius: 0;
+}*/
 
 
 #proc_canvas #myname { 
